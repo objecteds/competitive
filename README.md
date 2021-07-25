@@ -1,4 +1,4 @@
-# competitive-programming
+# competitive programming
 Personal, computational solutions to competitive programming problems.
 
 Current repository problems originate from:
