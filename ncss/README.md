@@ -21,7 +21,7 @@ The 4 streams include:
   - This stream uses Python, and experience is required. The Advanced stream is for students with significant programming experience looking to really test their skills.
   - This stream introduces topics like advanced data structures, Object-Oriented Programming (OOP), and recursion.
 
-This folder includes my solutions for the NCSS Challenge on Grok Learning.
+This folder includes my solutions for the NCSS Challenge on Grok Learning (Beginner (Python), Intermediate, and Advanced streams).
 
 All content in the Grok Platform belongs to Grok Learning (**not** me), and are protected by copyright.  Content from the Grok Platform has been distributed into this folder in unaltered form. The code in this folder is only meant for educational purposes. 
 
