@@ -19,3 +19,5 @@ You try it out, but it's not working! It's got a [bug](https://en.wikipedia.org/
         7.0
 
 4. Make sure to mark your program!
+
+© 2021 Grok Learning
