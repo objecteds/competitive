@@ -28,4 +28,6 @@ Here are some examples of how your function should work:
 | `is_crowd(30)` | `'a crowd'` |
 | `is_crowd(2)` | `'no crowd'` |
 
+© 2021 Grok Learning
+
 
