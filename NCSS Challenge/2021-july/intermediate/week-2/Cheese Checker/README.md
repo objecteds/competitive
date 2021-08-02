@@ -1,3 +1,5 @@
+# Problem Statement
+
 You're a big fan of cheese, but sometimes you can't remember if a word is a kind of cheese or something else!
 
 We've given you a list called `cheeses` which has some kinds of cheese in it.
@@ -11,5 +13,7 @@ If the cheese isn't in the list it should print:
 
     Cheese: Pita
     Pita might not be a cheese.
+
+© 2021 Grok Learning
 
     

@@ -1,3 +1,5 @@
+# Problem Statement
+
 The Guinness World Record for the most tricks by a cat in one minute is held by [Didga the cat](https://www.guinnessworldrecords.com/world-records/391893-most-tricks-performed-by-a-cat-in-one-minute). The record is **24** tricks.
 
 Write a program that asks how many tricks your cat can do. If the number is **greater than 24** then it should do this:

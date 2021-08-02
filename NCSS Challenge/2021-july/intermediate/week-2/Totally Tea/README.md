@@ -1,3 +1,5 @@
+# Problem Statement
+
 You're taking your world-famous tea towel collection on tour!
 
 Write a program that asks for a catchy tour name, and a list of space-separated cities to visit.
@@ -23,3 +25,5 @@ Here's another example:
     🏙️ Launceston
     🏙️ Adelaide
     Get excited for Towelmania!
+
+© 2021 Grok Learning
