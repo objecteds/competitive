@@ -16,3 +16,4 @@ Let's draw a *fire triangle* like this:
 
 5. Run your code, check if it looks right, then mark it!
 
+© 2021 Grok Learning

@@ -21,3 +21,5 @@ Otherwise it should do this:
 4. Run your program and check it with the first example: `28`. Then check it with the second example: `5`.
 
 5. Mark your program, to check your work!
+
+© 2021 Grok Learning

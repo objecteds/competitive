@@ -17,3 +17,5 @@ Otherwise, it should say:
 3. Run your program and check it with the first example: `11`. Then check it with the second example: `34`.
 
 4. Mark your program to check your work!
+
+© 2021 Grok Learning
