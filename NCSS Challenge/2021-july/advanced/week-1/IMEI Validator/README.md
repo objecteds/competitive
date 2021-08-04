@@ -33,7 +33,7 @@ Write a program that reads in a number, and outputs whether or not the number is
 
     Enter number: 353918050883590
     Valid.
-‎
+‎‎‎
 
     Enter number: 45678
     Invalid.
