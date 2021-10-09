@@ -17,4 +17,4 @@ while fib3 < 4000000:
     fib1 = fib2
     fib2 = fib3
 
-print(result) # 4613732
+print(result)

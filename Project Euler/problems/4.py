@@ -11,4 +11,4 @@ for i in reversed(range(100, 1000)):
         if str(prod) == str(prod)[::-1] and prod > final:
             final = prod
 
-print(final) # 906609
+print(final)

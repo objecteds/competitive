@@ -20,4 +20,4 @@ sum_of_square *= sum_of_square
 
 diff = sum_of_square - square_of_sum
 
-print(diff) # 25164150
+print(diff)

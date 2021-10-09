@@ -12,4 +12,3 @@ while i * i < n:
         n //= i
     i += 1
 
-print(n) # 6857

@@ -13,4 +13,4 @@ for a in range(0, 500):
     for b in range(a+1, 500):
         for c in range(b+1, 500):
             if a * a + b * b == c * c and a + b + c == 1000:
-                print(a*b*c) # 31875000
+                print(a*b*c)

@@ -14,4 +14,4 @@ for i in range(1, 1000):
 for num in arr:
     total += num
 
-print(total) # 233168
+print(total)

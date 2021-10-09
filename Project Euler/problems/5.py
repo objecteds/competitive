@@ -14,4 +14,4 @@ while True:
 
     greater += 1
 
-print(lcm) # 232792560
+print(lcm)

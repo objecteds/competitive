@@ -17,4 +17,4 @@ for i in range(13, 1000):
     if total > greatest:
         greatest = total
 
-print(greatest) # 23514624000
+print(greatest)

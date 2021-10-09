@@ -21,7 +21,7 @@ prime[1] = False
 for p in range(n + 1):
     if prime[p]:
         if count == 10000:
-            print(p) # 104743
+            print(p)
             break
         else:
             count += 1
