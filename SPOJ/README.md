@@ -1,1 +1,0 @@
-# Sphere Online Judge
