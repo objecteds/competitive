@@ -1,6 +1,7 @@
 def divisibleSumPairs(n, k, ar):
-    ar.sort()
-    
-
-
-print(divisibleSumPairs(6, 3, [1, 3, 2, 6, 1, 2]))
+    count = 0
+    for i in range(0, n):
+        for j in range(i, n):
+            if i < j and (ar[i] + ar[j]) % k == 0:
+                count += 1
+    return count
