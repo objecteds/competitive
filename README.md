@@ -5,3 +5,4 @@ Current repository problems originate from:
 - [Kattis](https://open.kattis.com)
 - [Project Euler](https://projecteuler.net)
 - [HackerRank](https://hackerrank.com)
+- [Codeforces](https://codeforces.com)
