@@ -6,4 +6,4 @@ Current repository problems originate from:
 - [Project Euler](https://projecteuler.net)
 - [HackerRank](https://hackerrank.com)
 - [Codeforces](https://codeforces.com)
-- [Dunjudge](https://dunjudge.me)
+- [mrJudge](https://dunjudge.me)
