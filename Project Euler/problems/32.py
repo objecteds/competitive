@@ -14,4 +14,4 @@ for a in range(1, 1964):
         if pan:
             l.append(c)
 
-print(sum(set(l))) # 45228
+print(sum(set(l))) 
