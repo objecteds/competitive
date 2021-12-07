@@ -7,4 +7,3 @@ Current repository problems originate from:
 - [HackerRank](https://hackerrank.com)
 - [Codeforces](https://codeforces.com)
 - [mrJudge](https://dunjudge.me)
-- [Codebreaker](https://codebreaker.xyz)
