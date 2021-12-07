@@ -1,1 +1,42 @@
-# codeforces
+# Codeforces
+
+The link to each problem is `https://codeforces.com/problemset/problem/{number}/{letter}`.
+
+For example, the link for problem 228A is https://codeforces.com/problemset/problem/228/A.
+
+## Solutions
+- [1A - Theatre Square](./problems/1A.py)
+- [4A - Watermelon](./problems/4A.py)
+- [9A - Die Roll](./problems/9A.py)
+- [59A - Word](./problems/59A.py)
+- [69A - Young Physicist](./problems/69A.py)
+- [71A - Way Too Long Words](./problems/71A.py)
+- [112A - Petya and Strings](./problems/112A.py)
+- [136A - Presents](./problems/136A.py)
+- [228A - Is your horseshoe on the other hoof?](./problems/226A.py)
+- [231A - Team](./problems/231A.py)
+- [236A - Boy or Girl](./problems/236A.py)
+- [263A - Beautiful Matrix](./problems/263A.py)
+- [265A - Colorful Stones (Simplified Edition)](./problems/265A.py)
+- [266A - Stones on the Table](./problems/266A.py)
+- [268A - Games](./problems/268A.py)
+- [294A - Shaass and Oskols](./problems/294A.py)
+- [339A - Helpful Maths](./problems/339A.py)
+- [344A - Magnets](./problems/344A.py)
+- [381A - Sereja and Dima](./problems/381A.py)
+- [405A - Gravity Flip](./problems/405A.py)
+- [427A - Police Recruits](./problems/427A.py)
+- [431A - Black Square](./problems/431A.py)
+- [443A - Anton and Letters](./problems/443A.py)
+- [490A - Team Olympiad](./problems/490A.py)
+- [567A - Lineland Mail](./problems/567A.py)
+- [677A - Vanya and Fence](./problems/677A.py)
+- [686A - Free Ice Cream](./problems/686A.py)
+- [709A - Juicer](./problems/709A.py)
+- [731A - Night at the Museum](./problems/731A.py)
+- [732A - Buy a Shovel](./problems/732A.py)
+- [734A - Anton and Danik](./problems/734A.py)
+- [770A - New Password](./problems/770A.py)
+- [791A - Bear and Big Brother](./problems/791A.py)
+- [799A - Carrot Cakes](./problems/799A.py)
+- [1607A - Linear Keyboard](./problems/1607A.py)
