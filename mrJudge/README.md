@@ -22,6 +22,7 @@
 | lengthsort | 202 | [lengthsort.cpp](./problems/lengthsort.cpp) | [🔗](https://dunjudge.me/analysis/problems/202/) |
 | lunch | 295 | [lunch.cpp](./problems/lunch.cpp) | [🔗](https://dunjudge.me/analysis/problems/295/) |
 | lunchbox | 954 | [lunchbox.cpp](./problems/lunchbox.cpp) | [🔗](https://dunjudge.me/analysis/problems/954/) |
+| lvm | 272 | [lvm.cpp](./problems/lvm.cpp) | [🔗](https://dunjudge.me/analysis/problems/272/) |
 | maximum | 180 | [maximum.cpp](./problems/maximum.cpp) | [🔗](https://dunjudge.me/analysis/problems/180/) |
 | meanstring | 194 | [meanstring.cpp](./problems/meanstring.cpp) | [🔗](https://dunjudge.me/analysis/problems/194/) |
 | minimum | 317 | [minimum.cpp](./problems/minimum.cpp) | [🔗](https://dunjudge.me/analysis/problems/317/) |
