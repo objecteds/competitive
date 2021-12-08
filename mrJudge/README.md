@@ -1,1 +1,35 @@
-# dunjudge
+# mrJudge 
+
+| Problem Name | ID | Solution Link | Website Link |
+| ------------ | -- | ------------- | ------- |
+| 3n+1 | 65 | [3n+1.cpp](./problems/3n+1.cpp) | [🔗](https://dunjudge.me/analysis/problems/65/) |
+| breakfast | 294 | [breakfast.cpp](./problems/breakfast.cpp) | [🔗](https://dunjudge.me/analysis/problems/294/) |
+| bubblesort | 30 | [bubblesort.cpp](./problems/bubblesort.cpp) | [🔗](https://dunjudge.me/analysis/problems/30/) |
+| calculator | 17 | [calculator.cpp](./problems/calculator.cpp) | [🔗](https://dunjudge.me/analysis/problems/17/) |
+| checkerboard | 193 | [checkerboard.cpp](./problems/checkerboard.cpp) | [🔗](https://dunjudge.me/analysis/problems/193/) | 
+| checkmultiples | 179 | [checkmultiples.cpp](./problems/checkmultiples.cpp) | [🔗](https://dunjudge.me/analysis/problems/179/) |
+| countalp | 24 | [countalp.cpp](./problems/countalp.cpp) | [🔗](https://dunjudge.me/analysis/problems/24/) |
+| countstars | 55 | [countstars.cpp](./problems/countstars.cpp) | [🔗](https://dunjudge.me/analysis/problems/55/) |
+| descsort | 50 | [descsort.cpp](./problems/descsort.cpp) | [🔗](https://dunjudge.me/analysis/problems/50/) |
+| evenorodd | 19 | [evenorodd.cpp](./problems/evenorodd.cpp) | [🔗](https://dunjudge.me/analysis/problems/19/) |
+| executions | 300 | [executions.cpp](./problems/executions.cpp) | [🔗](https://dunjudge.me/analysis/problems/300/) |
+| flamethrower | 200 | [flamethrower.cpp](./problems/flamethrower.cpp) | [🔗](https://dunjudge.me/analysis/problems/200/) |
+| gpa | 71 | [gpa.cpp](./problems/gpa.cpp) | [🔗](https://dunjudge.me/analysis/problems/71/) |
+| hellochecker | 207 | [hellochecker.cpp](./problems/hellochecker.cpp) [🔗](https://dunjudge.me/analysis/problems/207/) |
+| helloworld | 1 | [helloworld.cpp](./problems/helloworld.cpp) | [🔗](https://dunjudge.me/analysis/problems/1/) |
+| lazysponge | 29 | [lazysponge.cpp](./problems/lazysponge.cpp) | [🔗](https://dunjudge.me/analysis/problems/29/) |
+| lunch | 295 | [lunch.cpp](./problems/lunch.cpp) | [🔗](https://dunjudge.me/analysis/problems/295/) |
+| lunchbox | 954 | [lunchbox.cpp](./problems/lunchbox.cpp) | [🔗](https://dunjudge.me/analysis/problems/954/) |
+| maximum | 180 | [maximum.cpp](./problems/maximum.cpp) | [🔗](https://dunjudge.me/analysis/problems/180/) |
+| meanstring | 194 | [meanstring.cpp](./problems/meanstring.cpp) | [🔗](https://dunjudge.me/analysis/problems/194/) |
+| minimum | 317 | [minimum.cpp](./problems/minimum.cpp) | [🔗](https://dunjudge.me/analysis/problems/317/) |
+| multiples | 23 | [multiples.cpp](./problems/multiples.cpp) | [🔗](https://dunjudge.me/analysis/problems/23/) |
+| psle | 182 | [psle.cpp](./problems/psle.cpp) | [🔗](https://dunjudge.me/analysis/problems/182/) |
+| rightangtri | 21 | [rightangtri.cpp](./problems/rightangtri.cpp) | [🔗](https://dunjudge.me/analysis/problems/21/) |
+| square | 82 | [square.cpp](./problems/square.cpp) | [🔗](https://dunjudge.me/analysis/problems/82/) |
+| squarenumbers | 192 | [squarenumbers.cpp](./problems/squarenumbers.cpp) | [🔗](https://dunjudge.me/analysis/problems/192/) |
+| squares | 128 | [squares.cpp](./problems/squares.cpp) | [🔗](https://dunjudge.me/analysis/problems/128/) |
+| sumint | 25 | [sumint.cpp](./problems/sumint.cpp) | [🔗](https://dunjudge.me/analysis/problems/25/) |
+| summation | 257 | [summation.cpp](./problems/summation.cpp) | [🔗](https://dunjudge.me/analysis/problems/257/) |
+| sumup | 14 | [sumup.cpp](./problems/sumup.cpp) | [🔗](https://dunjudge.me/analysis/problems/14/) |
+| triangle | 133 | [triangle.cpp](./problems/triangle.cpp) | [🔗](https://dunjudge.me/analysis/problems/133/) |
