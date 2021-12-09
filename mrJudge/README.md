@@ -7,6 +7,7 @@
 | badpotato | 500 | [badpotato.cpp](./problems/badpotato.cpp) | [🔗](https://dunjudge.me/analysis/problems/500/) |
 | bracket_ex | 1178 | [bracket_ex.cpp](./problems/bracket_ex.cpp) | [🔗](https://dunjudge.me/analysis/problems/1178/) |
 | breakfast | 294 | [breakfast.cpp](./problems/breakfast.cpp) | [🔗](https://dunjudge.me/analysis/problems/294/) |
+| brick | 1176 | [brick.cpp](./problems/brick.cpp) | [🔗](https://dunjudge.me/analysis/problems/1176/) |
 | bubblesort | 30 | [bubblesort.cpp](./problems/bubblesort.cpp) | [🔗](https://dunjudge.me/analysis/problems/30/) |
 | calculator | 17 | [calculator.cpp](./problems/calculator.cpp) | [🔗](https://dunjudge.me/analysis/problems/17/) |
 | card | 115 | [card.cpp](./problems/card.cpp) | [🔗](https://dunjudge.me/analysis/problems/115/) |
