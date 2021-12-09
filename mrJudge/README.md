@@ -48,6 +48,7 @@
 | psle | 182 | [psle.cpp](./problems/psle.cpp) | [🔗](https://dunjudge.me/analysis/problems/182/) |
 | quadpotato | 304 | [quadpotato.txt](./problems/quadpotato.txt) | [🔗](https://dunjudge.me/analysis/problems/304/) |
 | rightangtri | 21 | [rightangtri.cpp](./problems/rightangtri.cpp) | [🔗](https://dunjudge.me/analysis/problems/21/) |
+| shortestword | 35 | [shortestword.cpp](./problems/shortestword.cpp) | [🔗](https://dunjudge.me/analysis/problems/35/) |
 | square | 82 | [square.cpp](./problems/square.cpp) | [🔗](https://dunjudge.me/analysis/problems/82/) |
 | squarenumbers | 192 | [squarenumbers.cpp](./problems/squarenumbers.cpp) | [🔗](https://dunjudge.me/analysis/problems/192/) |
 | squares | 128 | [squares.cpp](./problems/squares.cpp) | [🔗](https://dunjudge.me/analysis/problems/128/) |
