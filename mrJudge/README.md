@@ -15,6 +15,7 @@
 | checksquare | 64 | [checksquare.cpp](./problems/checksquare.cpp) | [🔗](https://dunjudge.me/analysis/problems/64/) |
 | countalp | 24 | [countalp.cpp](./problems/countalp.cpp) | [🔗](https://dunjudge.me/analysis/problems/24/) |
 | countstars | 55 | [countstars.cpp](./problems/countstars.cpp) | [🔗](https://dunjudge.me/analysis/problems/55/) |
+| cuberoot | 210 | [cuberoot.cpp](./problems/cuberoot.cpp) | [🔗](https://dunjudge.me/analysis/problems/210/) |
 | descsort | 50 | [descsort.cpp](./problems/descsort.cpp) | [🔗](https://dunjudge.me/analysis/problems/50/) |
 | diamond | 76 | [diamond.cpp](./problems/diamond.cpp) | [🔗](https://dunjudge.me/analysis/problems/76/) |
 | dinner | 296 | [dinner.cpp](./problems/dinner.cpp) | [🔗](https://dunjudge.me/analysis/problems/296/) |
