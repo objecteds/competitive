@@ -17,6 +17,7 @@
 | executions | 300 | [executions.cpp](./problems/executions.cpp) | [🔗](https://dunjudge.me/analysis/problems/300/) |
 | fibo | 54 | [fibo.cpp](./problems/fibo.cpp) | [🔗](https://dunjudge.me/analysis/problems/54/) |
 | flamethrower | 200 | [flamethrower.cpp](./problems/flamethrower.cpp) | [🔗](https://dunjudge.me/analysis/problems/200/) |
+| gcd | 208 | [gcd.cpp](./problems/gcd.cpp) | [🔗](https://dunjudge.me/analysis/problems/208/) |
 | gift | 238 | [gift.cpp](./problems/gift.cpp) | [🔗](https://dunjudge.me/analysis/problems/238/) |
 | gpa | 71 | [gpa.cpp](./problems/gpa.cpp) | [🔗](https://dunjudge.me/analysis/problems/71/) |
 | hellochecker | 207 | [hellochecker.cpp](./problems/hellochecker.cpp) | [🔗](https://dunjudge.me/analysis/problems/207/) |
