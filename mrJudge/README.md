@@ -42,6 +42,7 @@
 | multiples | 23 | [multiples.cpp](./problems/multiples.cpp) | [🔗](https://dunjudge.me/analysis/problems/23/) |
 | paint | 215 | [paint.cpp](./problems/paint.cpp) | [🔗](https://dunjudge.me/analysis/problems/215/) |
 | parallelogram | 37 | [parallelogram.cpp](./problems/parallelogram.cpp) | [🔗](https://dunjudge.me/analysis/problems/37/) |
+| pigeons | 312 | [pigeons.cpp](./problems/pigeons.cpp) | [🔗](https://dunjudge.me/analysis/problems/312/) |
 | potatosalad | 301 | [potatosalad.cpp](./problems/potatosalad.cpp) | [🔗](https://dunjudge.me/analysis/problems/301/) |
 | prime | 20 | [prime.cpp](./problems/prime.cpp) | [🔗](https://dunjudge.me/analysis/problems/20/ƒ) | 
 | psle | 182 | [psle.cpp](./problems/psle.cpp) | [🔗](https://dunjudge.me/analysis/problems/182/) |
