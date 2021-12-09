@@ -49,6 +49,7 @@
 | palindromes | 32 | [palindromes.cpp](./problems/palindromes.cpp) | [🔗](https://dunjudge.me/analysis/problems/32/) |
 | parallelogram | 37 | [parallelogram.cpp](./problems/parallelogram.cpp) | [🔗](https://dunjudge.me/analysis/problems/37/) |
 | pigeons | 312 | [pigeons.cpp](./problems/pigeons.cpp) | [🔗](https://dunjudge.me/analysis/problems/312/) |
+| potatoplanting | 343 | [potatoplanting.cpp](./problems/potatoplanting.cpp) | [🔗](https://dunjudge.me/analysis/problems/343/) |
 | potatosalad | 301 | [potatosalad.cpp](./problems/potatosalad.cpp) | [🔗](https://dunjudge.me/analysis/problems/301/) |
 | prime | 20 | [prime.cpp](./problems/prime.cpp) | [🔗](https://dunjudge.me/analysis/problems/20/ƒ) | 
 | psle | 182 | [psle.cpp](./problems/psle.cpp) | [🔗](https://dunjudge.me/analysis/problems/182/) |
