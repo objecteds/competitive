@@ -72,6 +72,7 @@
 | squarenumbers | 192 | [squarenumbers.cpp](./problems/squarenumbers.cpp) | [🔗](https://dunjudge.me/analysis/problems/192/) |
 | squares | 128 | [squares.cpp](./problems/squares.cpp) | [🔗](https://dunjudge.me/analysis/problems/128/) |
 | strlineeqn_easy | 184 | [strlineeqn_easy.cpp](./problems/strlineeqn_easy.cpp) | [🔗](https://dunjudge.me/analysis/problems/184/) |
+| strlineeqn | 183 | [strlineeqn.cpp](./strlineeqn.cpp) | [🔗](https://dunjudge.me/analysis/problems/183/) |
 | sumint | 25 | [sumint.cpp](./problems/sumint.cpp) | [🔗](https://dunjudge.me/analysis/problems/25/) |
 | summation | 257 | [summation.cpp](./problems/summation.cpp) | [🔗](https://dunjudge.me/analysis/problems/257/) |
 | sumscore | 49 | [sumscore.cpp](./problems/sumscore.cpp) | [🔗](https://dunjudge.me/analysis/problems/49/) |
