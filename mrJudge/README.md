@@ -16,6 +16,7 @@
 | checkerboard | 193 | [checkerboard.cpp](./problems/checkerboard.cpp) | [🔗](https://dunjudge.me/analysis/problems/193/) | 
 | checkmultiples | 179 | [checkmultiples.cpp](./problems/checkmultiples.cpp) | [🔗](https://dunjudge.me/analysis/problems/179/) |
 | checksquare | 64 | [checksquare.cpp](./problems/checksquare.cpp) | [🔗](https://dunjudge.me/analysis/problems/64/) |
+| contestcalc | 334 | [contestcalc.cpp](./problems/contestcalc.cpp) | [🔗](https://dunjudge.me/analysis/problems/334/) |
 | countalp | 24 | [countalp.cpp](./problems/countalp.cpp) | [🔗](https://dunjudge.me/analysis/problems/24/) |
 | countstars | 55 | [countstars.cpp](./problems/countstars.cpp) | [🔗](https://dunjudge.me/analysis/problems/55/) |
 | cuberoot | 210 | [cuberoot.cpp](./problems/cuberoot.cpp) | [🔗](https://dunjudge.me/analysis/problems/210/) |
