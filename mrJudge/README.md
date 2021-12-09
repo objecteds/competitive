@@ -3,6 +3,7 @@
 | Problem Name | ID | Solution Link | Website Link |
 | ------------ | -- | ------------- | ------- |
 | 3n+1 | 65 | [3n+1.cpp](./problems/3n+1.cpp) | [🔗](https://dunjudge.me/analysis/problems/65/) |
+| 7up | 1952 | [7up.cpp](./problems/7up.cpp) | [🔗](https://dunjudge.me/analysis/problems/1952/) |
 | area | 72 | [area.cpp](./problems/area.cpp) | [🔗](https://dunjudge.me/analysis/problems/72/) |
 | badpotato | 500 | [badpotato.cpp](./problems/badpotato.cpp) | [🔗](https://dunjudge.me/analysis/problems/500/) |
 | bracket_ex | 1178 | [bracket_ex.cpp](./problems/bracket_ex.cpp) | [🔗](https://dunjudge.me/analysis/problems/1178/) |
