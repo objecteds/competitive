@@ -34,6 +34,7 @@
 | gpa | 71 | [gpa.cpp](./problems/gpa.cpp) | [🔗](https://dunjudge.me/analysis/problems/71/) |
 | greeting | 2054 | [greeting.cpp](./problems/greeting.cpp) | [🔗](https://dunjudge.me/analysis/problems/2054/) |
 | GSS | 66 | [GSS.cpp](./problems/GSS.cpp) | [🔗](https://dunjudge.me/analysis/problems/66/) |
+| guanine | 627 | [guanine.cpp](./problems/guanine.cpp) | [🔗](https://dunjudge.me/analysis/problems/627/) |
 | hellochecker | 207 | [hellochecker.cpp](./problems/hellochecker.cpp) | [🔗](https://dunjudge.me/analysis/problems/207/) |
 | helloworld | 1 | [helloworld.cpp](./problems/helloworld.cpp) | [🔗](https://dunjudge.me/analysis/problems/1/) |
 | homework | 258 | [homework.cpp](./problems/homework.cpp) | [🔗](https://dunjudge.me/analysis/problems/258/) |
