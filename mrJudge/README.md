@@ -42,5 +42,6 @@
 | summation | 257 | [summation.cpp](./problems/summation.cpp) | [🔗](https://dunjudge.me/analysis/problems/257/) |
 | sumup | 14 | [sumup.cpp](./problems/sumup.cpp) | [🔗](https://dunjudge.me/analysis/problems/14/) |
 | triangle | 133 | [triangle.cpp](./problems/triangle.cpp) | [🔗](https://dunjudge.me/analysis/problems/133/) |
+| trianglenumbers | 191 | [trianglenumbers.cpp](./problems/trianglenumbers.cpp) | [🔗](https://dunjudge.me/analysis/problems/191/) |
 | weddingcoins | 290 | [weddingscoin.cpp](./problems/weddingcoins.cpp) | [🔗](https://dunjudge.me/analysis/problems/290/) |
 | xmas | 237 | [xmas.cpp](./problems/xmas.cpp) | [🔗](https://dunjudge.me/analysis/problems/237/) |
