@@ -40,6 +40,7 @@
 | minimum | 317 | [minimum.cpp](./problems/minimum.cpp) | [🔗](https://dunjudge.me/analysis/problems/317/) |
 | multiples | 23 | [multiples.cpp](./problems/multiples.cpp) | [🔗](https://dunjudge.me/analysis/problems/23/) |
 | paint | 215 | [paint.cpp](./problems/paint.cpp) | [🔗](https://dunjudge.me/analysis/problems/215/) |
+| parallelogram | 37 | [parallelogram.cpp](./problems/parallelogram.cpp) | [🔗](https://dunjudge.me/analysis/problems/37/) |
 | potatosalad | 301 | [potatosalad.cpp](./problems/potatosalad.cpp) | [🔗](https://dunjudge.me/analysis/problems/301/) |
 | psle | 182 | [psle.cpp](./problems/psle.cpp) | [🔗](https://dunjudge.me/analysis/problems/182/) |
 | quadpotato | 304 | [quadpotato.txt](./problems/quadpotato.txt) | [🔗](https://dunjudge.me/analysis/problems/304/) |
