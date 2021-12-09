@@ -16,6 +16,7 @@
 | countstars | 55 | [countstars.cpp](./problems/countstars.cpp) | [🔗](https://dunjudge.me/analysis/problems/55/) |
 | descsort | 50 | [descsort.cpp](./problems/descsort.cpp) | [🔗](https://dunjudge.me/analysis/problems/50/) |
 | diamond | 76 | [diamond.cpp](./problems/diamond.cpp) | [🔗](https://dunjudge.me/analysis/problems/76/) |
+| dinner | 296 | [dinner.cpp](./problems/dinner.cpp) | [🔗](https://dunjudge.me/analysis/problems/296/) |
 | evenodd | 135 | [evenodd.cpp](./problems/evenodd.cpp) | [🔗](https://dunjudge.me/analysis/problems/135/) |
 | evenorodd | 19 | [evenorodd.cpp](./problems/evenorodd.cpp) | [🔗](https://dunjudge.me/analysis/problems/19/) |
 | executions | 300 | [executions.cpp](./problems/executions.cpp) | [🔗](https://dunjudge.me/analysis/problems/300/) |
