@@ -52,6 +52,7 @@
 | multiples | 23 | [multiples.cpp](./problems/multiples.cpp) | [🔗](https://dunjudge.me/analysis/problems/23/) |
 | paint | 215 | [paint.cpp](./problems/paint.cpp) | [🔗](https://dunjudge.me/analysis/problems/215/) |
 | palindromes | 32 | [palindromes.cpp](./problems/palindromes.cpp) | [🔗](https://dunjudge.me/analysis/problems/32/) |
+| palindromicfizzbuzz | 1815 | [palindromicfizzbuzz.cpp](./problems/palindromicfizzbuzz.cpp) | [🔗](https://dunjudge.me/analysis/problems/1815/) |
 | parallelogram | 37 | [parallelogram.cpp](./problems/parallelogram.cpp) | [🔗](https://dunjudge.me/analysis/problems/37/) |
 | pigeons | 312 | [pigeons.cpp](./problems/pigeons.cpp) | [🔗](https://dunjudge.me/analysis/problems/312/) |
 | potatoplanting | 343 | [potatoplanting.cpp](./problems/potatoplanting.cpp) | [🔗](https://dunjudge.me/analysis/problems/343/) |
