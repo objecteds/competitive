@@ -3,6 +3,7 @@
 | Problem Name | ID | Solution Link | Website Link |
 | ------------ | -- | ------------- | ------- |
 | 3n+1 | 65 | [3n+1.cpp](./problems/3n+1.cpp) | [🔗](https://dunjudge.me/analysis/problems/65/) |
+| badpotato | 500 | [badpotato.cpp](./problems/badpotato.cpp) | [🔗](https://dunjudge.me/analysis/problems/500/) |
 | breakfast | 294 | [breakfast.cpp](./problems/breakfast.cpp) | [🔗](https://dunjudge.me/analysis/problems/294/) |
 | bubblesort | 30 | [bubblesort.cpp](./problems/bubblesort.cpp) | [🔗](https://dunjudge.me/analysis/problems/30/) |
 | calculator | 17 | [calculator.cpp](./problems/calculator.cpp) | [🔗](https://dunjudge.me/analysis/problems/17/) |
