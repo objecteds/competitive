@@ -29,6 +29,7 @@
 | lvm | 272 | [lvm.cpp](./problems/lvm.cpp) | [🔗](https://dunjudge.me/analysis/problems/272/) |
 | maximum | 180 | [maximum.cpp](./problems/maximum.cpp) | [🔗](https://dunjudge.me/analysis/problems/180/) |
 | meanstring | 194 | [meanstring.cpp](./problems/meanstring.cpp) | [🔗](https://dunjudge.me/analysis/problems/194/) |
+| medianstring | 195 | [medianstring.cpp](./problems/medianstring.cpp) | [🔗](https://dunjudge.me/analysis/problems/195/) |
 | minimum | 317 | [minimum.cpp](./problems/minimum.cpp) | [🔗](https://dunjudge.me/analysis/problems/317/) |
 | multiples | 23 | [multiples.cpp](./problems/multiples.cpp) | [🔗](https://dunjudge.me/analysis/problems/23/) |
 | paint | 215 | [paint.cpp](./problems/paint.cpp) | [🔗](https://dunjudge.me/analysis/problems/215/) |
