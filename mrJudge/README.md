@@ -55,6 +55,7 @@
 | potatosalad | 301 | [potatosalad.cpp](./problems/potatosalad.cpp) | [🔗](https://dunjudge.me/analysis/problems/301/) |
 | prime | 20 | [prime.cpp](./problems/prime.cpp) | [🔗](https://dunjudge.me/analysis/problems/20/ƒ) | 
 | psle | 182 | [psle.cpp](./problems/psle.cpp) | [🔗](https://dunjudge.me/analysis/problems/182/) |
+| pushups | 839 | [pushups.cpp](./problems/pushups.cpp) | [🔗](https://dunjudge.me/analysis/problems/839/) |
 | quadpotato | 304 | [quadpotato.txt](./problems/quadpotato.txt) | [🔗](https://dunjudge.me/analysis/problems/304/) |
 | rightangtri | 21 | [rightangtri.cpp](./problems/rightangtri.cpp) | [🔗](https://dunjudge.me/analysis/problems/21/) |
 | shortestword | 35 | [shortestword.cpp](./problems/shortestword.cpp) | [🔗](https://dunjudge.me/analysis/problems/35/) |
