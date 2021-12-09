@@ -8,6 +8,7 @@
 | bubblesort | 30 | [bubblesort.cpp](./problems/bubblesort.cpp) | [🔗](https://dunjudge.me/analysis/problems/30/) |
 | calculator | 17 | [calculator.cpp](./problems/calculator.cpp) | [🔗](https://dunjudge.me/analysis/problems/17/) |
 | card | 115 | [card.cpp](./problems/card.cpp) | [🔗](https://dunjudge.me/analysis/problems/115/) |
+| chartoint | 41 | [chartoint](./problems/chartoint.cpp) | [🔗](https://dunjudge.me/analysis/problems/41/) |
 | checkerboard | 193 | [checkerboard.cpp](./problems/checkerboard.cpp) | [🔗](https://dunjudge.me/analysis/problems/193/) | 
 | checkmultiples | 179 | [checkmultiples.cpp](./problems/checkmultiples.cpp) | [🔗](https://dunjudge.me/analysis/problems/179/) |
 | checksquare | 64 | [checksquare.cpp](./problems/checksquare.cpp) | [🔗](https://dunjudge.me/analysis/problems/64/) |
