@@ -19,6 +19,7 @@
 | evenodd | 135 | [evenodd.cpp](./problems/evenodd.cpp) | [🔗](https://dunjudge.me/analysis/problems/135/) |
 | evenorodd | 19 | [evenorodd.cpp](./problems/evenorodd.cpp) | [🔗](https://dunjudge.me/analysis/problems/19/) |
 | executions | 300 | [executions.cpp](./problems/executions.cpp) | [🔗](https://dunjudge.me/analysis/problems/300/) |
+| farming | 302 | [farming.cpp](./problems/farming.cpp) | [🔗](https://dunjudge.me/analysis/problems/302/) |
 | fibo | 54 | [fibo.cpp](./problems/fibo.cpp) | [🔗](https://dunjudge.me/analysis/problems/54/) |
 | flamethrower | 200 | [flamethrower.cpp](./problems/flamethrower.cpp) | [🔗](https://dunjudge.me/analysis/problems/200/) |
 | gcd | 208 | [gcd.cpp](./problems/gcd.cpp) | [🔗](https://dunjudge.me/analysis/problems/208/) |
