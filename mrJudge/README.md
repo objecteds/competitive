@@ -64,6 +64,7 @@
 | sumup | 14 | [sumup.cpp](./problems/sumup.cpp) | [🔗](https://dunjudge.me/analysis/problems/14/) |
 | triangle | 133 | [triangle.cpp](./problems/triangle.cpp) | [🔗](https://dunjudge.me/analysis/problems/133/) |
 | trianglenumbers | 191 | [trianglenumbers.cpp](./problems/trianglenumbers.cpp) | [🔗](https://dunjudge.me/analysis/problems/191/) |
+| uniquenumbers_ex | 354 | [uniquenumbers_ex.cpp](./problems/uniquenumbers_ex.cpp) | [🔗](https://dunjudge.me/analysis/problems/354/) |
 | uniquenumbers | 345 | [uniquenumbers.cpp](./problems/uniquenumbers.cpp) | [🔗](https://dunjudge.me/analysis/problems/345/) |
 | weddingcoins | 290 | [weddingscoin.cpp](./problems/weddingcoins.cpp) | [🔗](https://dunjudge.me/analysis/problems/290/) |
 | writelines | 31 | [writelines.cpp](./problems/writelines.cpp) | [🔗](https://dunjudge.me/analysis/problems/31/) |
