@@ -38,6 +38,7 @@
 | guanine | 627 | [guanine.cpp](./problems/guanine.cpp) | [🔗](https://dunjudge.me/analysis/problems/627/) |
 | hellochecker | 207 | [hellochecker.cpp](./problems/hellochecker.cpp) | [🔗](https://dunjudge.me/analysis/problems/207/) |
 | helloworld | 1 | [helloworld.cpp](./problems/helloworld.cpp) | [🔗](https://dunjudge.me/analysis/problems/1/) |
+| hexagon | 362 | [hexagon.cpp](./problems/hexagon.cpp) | [🔗](https://dunjudge.me/analysis/problems/362/) |
 | homework | 258 | [homework.cpp](./problems/homework.cpp) | [🔗](https://dunjudge.me/analysis/problems/258/) |
 | lazysponge | 29 | [lazysponge.cpp](./problems/lazysponge.cpp) | [🔗](https://dunjudge.me/analysis/problems/29/) |
 | lengthsort | 202 | [lengthsort.cpp](./problems/lengthsort.cpp) | [🔗](https://dunjudge.me/analysis/problems/202/) |
