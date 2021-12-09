@@ -65,6 +65,7 @@
 | summation | 257 | [summation.cpp](./problems/summation.cpp) | [🔗](https://dunjudge.me/analysis/problems/257/) |
 | sumscore | 49 | [sumscore.cpp](./problems/sumscore.cpp) | [🔗](https://dunjudge.me/analysis/problems/49/) |
 | sumup | 14 | [sumup.cpp](./problems/sumup.cpp) | [🔗](https://dunjudge.me/analysis/problems/14/) |
+| swappingcats | 205 | [swappingcats.cpp](./problems/swappingcats.cpp) | [🔗](https://dunjudge.me/analysis/problems/205/) |
 | triangle | 133 | [triangle.cpp](./problems/triangle.cpp) | [🔗](https://dunjudge.me/analysis/problems/133/) |
 | trianglenumbers | 191 | [trianglenumbers.cpp](./problems/trianglenumbers.cpp) | [🔗](https://dunjudge.me/analysis/problems/191/) |
 | uniquenumbers_ex | 354 | [uniquenumbers_ex.cpp](./problems/uniquenumbers_ex.cpp) | [🔗](https://dunjudge.me/analysis/problems/354/) |
