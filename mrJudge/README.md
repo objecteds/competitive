@@ -25,6 +25,7 @@
 | gcd | 208 | [gcd.cpp](./problems/gcd.cpp) | [🔗](https://dunjudge.me/analysis/problems/208/) |
 | gift | 238 | [gift.cpp](./problems/gift.cpp) | [🔗](https://dunjudge.me/analysis/problems/238/) |
 | gpa | 71 | [gpa.cpp](./problems/gpa.cpp) | [🔗](https://dunjudge.me/analysis/problems/71/) |
+| GSS | 66 | [GSS.cpp](./problems/GSS.cpp) | [🔗](https://dunjudge.me/analysis/problems/66/) |
 | hellochecker | 207 | [hellochecker.cpp](./problems/hellochecker.cpp) | [🔗](https://dunjudge.me/analysis/problems/207/) |
 | helloworld | 1 | [helloworld.cpp](./problems/helloworld.cpp) | [🔗](https://dunjudge.me/analysis/problems/1/) |
 | homework | 258 | [homework.cpp](./problems/homework.cpp) | [🔗](https://dunjudge.me/analysis/problems/258/) |
