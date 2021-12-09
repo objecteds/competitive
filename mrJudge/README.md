@@ -31,6 +31,7 @@
 | meanstring | 194 | [meanstring.cpp](./problems/meanstring.cpp) | [🔗](https://dunjudge.me/analysis/problems/194/) |
 | minimum | 317 | [minimum.cpp](./problems/minimum.cpp) | [🔗](https://dunjudge.me/analysis/problems/317/) |
 | multiples | 23 | [multiples.cpp](./problems/multiples.cpp) | [🔗](https://dunjudge.me/analysis/problems/23/) |
+| paint | 215 | [paint.cpp](./problems/paint.cpp) | [🔗](https://dunjudge.me/analysis/problems/215/) |
 | psle | 182 | [psle.cpp](./problems/psle.cpp) | [🔗](https://dunjudge.me/analysis/problems/182/) |
 | rightangtri | 21 | [rightangtri.cpp](./problems/rightangtri.cpp) | [🔗](https://dunjudge.me/analysis/problems/21/) |
 | square | 82 | [square.cpp](./problems/square.cpp) | [🔗](https://dunjudge.me/analysis/problems/82/) |
