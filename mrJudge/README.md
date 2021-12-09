@@ -64,6 +64,7 @@
 | rightangtri | 21 | [rightangtri.cpp](./problems/rightangtri.cpp) | [🔗](https://dunjudge.me/analysis/problems/21/) |
 | shortestword | 35 | [shortestword.cpp](./problems/shortestword.cpp) | [🔗](https://dunjudge.me/analysis/problems/35/) |
 | smurf | 1707 | [smurf.cpp](./problems/smurf.cpp) | [🔗](https://dunjudge.me/analysis/problems/1707/) |
+| sort | 842 | [sort.cpp](./problems/sort.cpp) | [🔗](https://dunjudge.me/analysis/problems/842/) |
 | spacetravel | 206 | [spacetravel.cpp](./problems/spacetravel.cpp) | [🔗](https://dunjudge.me/analysis/problems/206/) |
 | square | 82 | [square.cpp](./problems/square.cpp) | [🔗](https://dunjudge.me/analysis/problems/82/) | 206 | [spacetravel.cpp](./problems/spacetravel.cpp) | [🔗](https://dunjudge.me/analysis/problems/206/) |
 | squarenumbers | 192 | [squarenumbers.cpp](./problems/squarenumbers.cpp) | [🔗](https://dunjudge.me/analysis/problems/192/) |
