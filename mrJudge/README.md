@@ -9,6 +9,7 @@
 | card | 115 | [card.cpp](./problems/card.cpp) | [🔗](https://dunjudge.me/analysis/problems/115/) |
 | checkerboard | 193 | [checkerboard.cpp](./problems/checkerboard.cpp) | [🔗](https://dunjudge.me/analysis/problems/193/) | 
 | checkmultiples | 179 | [checkmultiples.cpp](./problems/checkmultiples.cpp) | [🔗](https://dunjudge.me/analysis/problems/179/) |
+| checksquare | 64 | [checksquare.cpp](./problems/checksquare.cpp) | [🔗](https://dunjudge.me/analysis/problems/64/) |
 | countalp | 24 | [countalp.cpp](./problems/countalp.cpp) | [🔗](https://dunjudge.me/analysis/problems/24/) |
 | countstars | 55 | [countstars.cpp](./problems/countstars.cpp) | [🔗](https://dunjudge.me/analysis/problems/55/) |
 | descsort | 50 | [descsort.cpp](./problems/descsort.cpp) | [🔗](https://dunjudge.me/analysis/problems/50/) |
