@@ -14,6 +14,7 @@
 | descsort | 50 | [descsort.cpp](./problems/descsort.cpp) | [🔗](https://dunjudge.me/analysis/problems/50/) |
 | evenorodd | 19 | [evenorodd.cpp](./problems/evenorodd.cpp) | [🔗](https://dunjudge.me/analysis/problems/19/) |
 | executions | 300 | [executions.cpp](./problems/executions.cpp) | [🔗](https://dunjudge.me/analysis/problems/300/) |
+| fibo | 54 | [fibo.cpp](./problems/fibo.cpp) | [🔗](https://dunjudge.me/analysis/problems/54/) |
 | flamethrower | 200 | [flamethrower.cpp](./problems/flamethrower.cpp) | [🔗](https://dunjudge.me/analysis/problems/200/) |
 | gift | 238 | [gift.cpp](./problems/gift.cpp) | [🔗](https://dunjudge.me/analysis/problems/238/) |
 | gpa | 71 | [gpa.cpp](./problems/gpa.cpp) | [🔗](https://dunjudge.me/analysis/problems/71/) |
