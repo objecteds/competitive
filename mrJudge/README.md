@@ -51,6 +51,7 @@
 | medianstring | 195 | [medianstring.cpp](./problems/medianstring.cpp) | [🔗](https://dunjudge.me/analysis/problems/195/) |
 | minimum | 317 | [minimum.cpp](./problems/minimum.cpp) | [🔗](https://dunjudge.me/analysis/problems/317/) |
 | multiples | 23 | [multiples.cpp](./problems/multiples.cpp) | [🔗](https://dunjudge.me/analysis/problems/23/) |
+| nprime | 271 | [nprime.cpp](./problems/nprime.cpp) | [🔗](https://dunjudge.me/analysis/problems/271/) |
 | numberchecker | 201 | [numberchecker.cpp](./problems/numberchecker.cpp) | [🔗](https://dunjudge.me/analysis/problems/201/) |
 | paint | 215 | [paint.cpp](./problems/paint.cpp) | [🔗](https://dunjudge.me/analysis/problems/215/) |
 | palindromes | 32 | [palindromes.cpp](./problems/palindromes.cpp) | [🔗](https://dunjudge.me/analysis/problems/32/) |
