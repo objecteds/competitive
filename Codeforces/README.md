@@ -5,8 +5,8 @@ The link to each problem is `https://codeforces.com/problemset/problem/{number}/
 For example, the link for problem 228A is https://codeforces.com/problemset/problem/228/A.
 
 ## Solutions
-- [1A - Theatre Square](./problems/1A.py)
-- [4A - Watermelon](./problems/4A.py)
+- [1A - Theatre Square](./problems/1A/)
+- [4A - Watermelon](./problems/4A/)
 - [9A - Die Roll](./problems/9A.py)
 - [59A - Word](./problems/59A.py)
 - [69A - Young Physicist](./problems/69A.py)
