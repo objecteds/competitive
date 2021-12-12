@@ -11,7 +11,7 @@ For example, the link for problem 228A is https://codeforces.com/problemset/prob
 - [59A - Word](./problems/59A/)
 - [69A - Young Physicist](./problems/69A/)
 - [71A - Way Too Long Words](./problems/71A/)
-- [112A - Petya and Strings](./problems/112A.py)
+- [112A - Petya and Strings](./problems/112A/)
 - [136A - Presents](./problems/136A.py)
 - [228A - Is your horseshoe on the other hoof?](./problems/226A.py)
 - [231A - Team](./problems/231A.py)
