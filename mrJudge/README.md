@@ -7,6 +7,7 @@
 | area | 72 | [area.cpp](./problems/area.cpp) | [🔗](https://dunjudge.me/analysis/problems/72/) |
 | arrayfind | 209 | [arrayfind.cpp](./problems/arrayfind.cpp) | [🔗](https://dunjudge.me/analysis/problems/209/) |
 | badpotato | 500 | [badpotato.cpp](./problems/badpotato.cpp) | [🔗](https://dunjudge.me/analysis/problems/500/) |
+| bananasmoothie | 1997 | [bananasmoothie.cpp](./problems/bananasmoothie.cpp) | [🔗](https://dunjudge.me/analysis/problems/1997/) |
 | bracket_ex | 1178 | [bracket_ex.cpp](./problems/bracket_ex.cpp) | [🔗](https://dunjudge.me/analysis/problems/1178/) |
 | breakfast | 294 | [breakfast.cpp](./problems/breakfast.cpp) | [🔗](https://dunjudge.me/analysis/problems/294/) |
 | brick | 1176 | [brick.cpp](./problems/brick.cpp) | [🔗](https://dunjudge.me/analysis/problems/1176/) |
