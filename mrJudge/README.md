@@ -11,6 +11,7 @@
 | basicbinary | 178 | [basicbinary.cpp](./problems/basicbinary.cpp) | [🔗](https://dunjudge.me/analysis/problems/178/) |
 | binarycoins | 474 | [binarycoins.cpp](./problems/binarycoins.cpp) | [🔗](https://dunjudge.me/analysis/problems/474/) |
 | bracket_ex | 1178 | [bracket_ex.cpp](./problems/bracket_ex.cpp) | [🔗](https://dunjudge.me/analysis/problems/1178/) |
+| bracket | 1139 | [bracket.cpp](./problems/bracket.cpp) | [🔗](https://dunjudge.me/analysis/problems/1139/) |
 | breakfast | 294 | [breakfast.cpp](./problems/breakfast.cpp) | [🔗](https://dunjudge.me/analysis/problems/294/) |
 | brick | 1176 | [brick.cpp](./problems/brick.cpp) | [🔗](https://dunjudge.me/analysis/problems/1176/) |
 | bubblesort | 30 | [bubblesort.cpp](./problems/bubblesort.cpp) | [🔗](https://dunjudge.me/analysis/problems/30/) |
