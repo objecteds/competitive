@@ -83,6 +83,7 @@
 | sharefood | 331 | [sharefood.cpp](./problems/sharefood.cpp) | [🔗](https://dunjudge.me/analysis/problems/331/) |
 | shortestword | 35 | [shortestword.cpp](./problems/shortestword.cpp) | [🔗](https://dunjudge.me/analysis/problems/35/) |
 | smurf | 1707 | [smurf.cpp](./problems/smurf.cpp) | [🔗](https://dunjudge.me/analysis/problems/1707/) |
+| snack | 297 | [snack.cpp](./problems/snack.cpp) | [🔗](https://dunjudge.me/analysis/problems/297/) |
 | sort | 842 | [sort.cpp](./problems/sort.cpp) | [🔗](https://dunjudge.me/analysis/problems/842/) |
 | spacetravel | 206 | [spacetravel.cpp](./problems/spacetravel.cpp) | [🔗](https://dunjudge.me/analysis/problems/206/) |
 | square | 82 | [square.cpp](./problems/square.cpp) | [🔗](https://dunjudge.me/analysis/problems/82/) | 206 | [spacetravel.cpp](./problems/spacetravel.cpp) | [🔗](https://dunjudge.me/analysis/problems/206/) |
