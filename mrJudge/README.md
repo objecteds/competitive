@@ -67,6 +67,7 @@
 | minimum | 317 | [minimum.cpp](./problems/minimum.cpp) | [🔗](https://dunjudge.me/analysis/problems/317/) |
 | modestring | 196 | [modestring.cpp](./problems/modestring.cpp) | [🔗](https://dunjudge.me/analysis/problems/196/) |
 | multiples | 23 | [multiples.cpp](./problems/multiples.cpp) | [🔗](https://dunjudge.me/analysis/problems/23/) |
+| nonsequitur | 1335 | [nonsequitur.cpp](./problems/nonsequitur.cpp) | [🔗](https://dunjudge.me/analysis/problems/1335/) |
 | nprime | 271 | [nprime.cpp](./problems/nprime.cpp) | [🔗](https://dunjudge.me/analysis/problems/271/) |
 | numberchecker | 201 | [numberchecker.cpp](./problems/numberchecker.cpp) | [🔗](https://dunjudge.me/analysis/problems/201/) |
 | paint | 215 | [paint.cpp](./problems/paint.cpp) | [🔗](https://dunjudge.me/analysis/problems/215/) |
