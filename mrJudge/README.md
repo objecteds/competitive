@@ -59,6 +59,7 @@
 | meanstring | 194 | [meanstring.cpp](./problems/meanstring.cpp) | [🔗](https://dunjudge.me/analysis/problems/194/) |
 | medianstring | 195 | [medianstring.cpp](./problems/medianstring.cpp) | [🔗](https://dunjudge.me/analysis/problems/195/) |
 | minimum | 317 | [minimum.cpp](./problems/minimum.cpp) | [🔗](https://dunjudge.me/analysis/problems/317/) |
+| modestring | 196 | [modestring.cpp](./problems/modestring.cpp) | [🔗](https://dunjudge.me/analysis/problems/196/) |
 | multiples | 23 | [multiples.cpp](./problems/multiples.cpp) | [🔗](https://dunjudge.me/analysis/problems/23/) |
 | nprime | 271 | [nprime.cpp](./problems/nprime.cpp) | [🔗](https://dunjudge.me/analysis/problems/271/) |
 | numberchecker | 201 | [numberchecker.cpp](./problems/numberchecker.cpp) | [🔗](https://dunjudge.me/analysis/problems/201/) |
