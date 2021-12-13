@@ -73,6 +73,7 @@
 | pushups | 839 | [pushups.cpp](./problems/pushups.cpp) | [🔗](https://dunjudge.me/analysis/problems/839/) |
 | quadpotato | 304 | [quadpotato.txt](./problems/quadpotato.txt) | [🔗](https://dunjudge.me/analysis/problems/304/) |
 | rightangtri | 21 | [rightangtri.cpp](./problems/rightangtri.cpp) | [🔗](https://dunjudge.me/analysis/problems/21/) |
+| sharefood | 331 | [sharefood.cpp](./problems/sharefood.cpp) | [🔗](https://dunjudge.me/analysis/problems/331/) |
 | shortestword | 35 | [shortestword.cpp](./problems/shortestword.cpp) | [🔗](https://dunjudge.me/analysis/problems/35/) |
 | smurf | 1707 | [smurf.cpp](./problems/smurf.cpp) | [🔗](https://dunjudge.me/analysis/problems/1707/) |
 | sort | 842 | [sort.cpp](./problems/sort.cpp) | [🔗](https://dunjudge.me/analysis/problems/842/) |
