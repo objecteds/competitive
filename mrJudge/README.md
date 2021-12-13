@@ -53,6 +53,7 @@
 | lengthsort | 202 | [lengthsort.cpp](./problems/lengthsort.cpp) | [🔗](https://dunjudge.me/analysis/problems/202/) |
 | lis | 68 | [lis.cpp](./problems/lis.cpp) | [🔗](https://dunjudge.me/analysis/problems/68/) |
 | ljubomora | 1360 | [ljubomora.cpp](./problems/ljubomora.cpp) | [🔗](https://dunjudge.me/analysis/problems/1360/) |
+| lockcode | 33 | [lockcode.cpp](./problems/lockcode.cpp) | [🔗](https://dunjudge.me/analysis/problems/33/) |
 | log2 | 190 | [log2.cpp](./problems/log2.cpp) | [🔗](https://dunjudge.me/analysis/problems/190/) | 
 | longestword | 34 | [longestword.cpp](./problems/longestword.cpp) | [🔗](https://dunjudge.me/analysis/problems/34/) |
 | lunch | 295 | [lunch.cpp](./problems/lunch.cpp) | [🔗](https://dunjudge.me/analysis/problems/295/) |
