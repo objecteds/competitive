@@ -1,6 +1,6 @@
 # mrJudge 
 
-| Problem Name | ID | Solution Link | Website Link |
+| <div style="width:170px">Problem Name</div> | <div style="width:170px">ID</div> | <div style="width:170px">Solution Link</div> | Website Link |
 | ------------ | -- | ------------- | ------- |
 | 3n+1 | 65 | [3n+1.cpp](./problems/3n+1.cpp) | [🔗](https://dunjudge.me/analysis/problems/65/) |
 | 7up | 1952 | [7up.cpp](./problems/7up.cpp) | [🔗](https://dunjudge.me/analysis/problems/1952/) |
