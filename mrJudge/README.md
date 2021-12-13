@@ -22,6 +22,7 @@
 | contestcalc | 334 | [contestcalc.cpp](./problems/contestcalc.cpp) | [🔗](https://dunjudge.me/analysis/problems/334/) |
 | countalp | 24 | [countalp.cpp](./problems/countalp.cpp) | [🔗](https://dunjudge.me/analysis/problems/24/) |
 | countstars | 55 | [countstars.cpp](./problems/countstars.cpp) | [🔗](https://dunjudge.me/analysis/problems/55/) |
+| csecrets | 225 | [csecrets.cpp](./problems/csecrets.cpp) | [🔗](https://dunjudge.me/analysis/problems/225/) |
 | cuberoot | 210 | [cuberoot.cpp](./problems/cuberoot.cpp) | [🔗](https://dunjudge.me/analysis/problems/210/) |
 | descsort | 50 | [descsort.cpp](./problems/descsort.cpp) | [🔗](https://dunjudge.me/analysis/problems/50/) |
 | diamond | 76 | [diamond.cpp](./problems/diamond.cpp) | [🔗](https://dunjudge.me/analysis/problems/76/) |
