@@ -49,6 +49,7 @@
 | homework | 258 | [homework.cpp](./problems/homework.cpp) | [🔗](https://dunjudge.me/analysis/problems/258/) |
 | lazysponge | 29 | [lazysponge.cpp](./problems/lazysponge.cpp) | [🔗](https://dunjudge.me/analysis/problems/29/) |
 | lengthsort | 202 | [lengthsort.cpp](./problems/lengthsort.cpp) | [🔗](https://dunjudge.me/analysis/problems/202/) |
+| lis | 68 | [lis.cpp](./problems/lis.cpp) | [🔗](https://dunjudge.me/analysis/problems/68/) |
 | ljubomora | 1360 | [ljubomora.cpp](./problems/ljubomora.cpp) | [🔗](https://dunjudge.me/analysis/problems/1360/) |
 | log2 | 190 | [log2.cpp](./problems/log2.cpp) | [🔗](https://dunjudge.me/analysis/problems/190/) | 
 | longestword | 34 | [longestword.cpp](./problems/longestword.cpp) | [🔗](https://dunjudge.me/analysis/problems/34/) |
