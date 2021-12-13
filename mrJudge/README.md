@@ -33,6 +33,7 @@
 | farming | 302 | [farming.cpp](./problems/farming.cpp) | [🔗](https://dunjudge.me/analysis/problems/302/) |
 | fibo | 54 | [fibo.cpp](./problems/fibo.cpp) | [🔗](https://dunjudge.me/analysis/problems/54/) |
 | flamethrower | 200 | [flamethrower.cpp](./problems/flamethrower.cpp) | [🔗](https://dunjudge.me/analysis/problems/200/) |
+| fuel | 846 | [fuel.cpp](./problems/fuel.cpp) | [🔗](https://dunjudge.me/analysis/problems/846/) |
 | gcd | 208 | [gcd.cpp](./problems/gcd.cpp) | [🔗](https://dunjudge.me/analysis/problems/208/) |
 | gift | 238 | [gift.cpp](./problems/gift.cpp) | [🔗](https://dunjudge.me/analysis/problems/238/) |
 | gpa | 71 | [gpa.cpp](./problems/gpa.cpp) | [🔗](https://dunjudge.me/analysis/problems/71/) |
