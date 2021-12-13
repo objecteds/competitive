@@ -50,6 +50,7 @@
 | lazysponge | 29 | [lazysponge.cpp](./problems/lazysponge.cpp) | [🔗](https://dunjudge.me/analysis/problems/29/) |
 | lengthsort | 202 | [lengthsort.cpp](./problems/lengthsort.cpp) | [🔗](https://dunjudge.me/analysis/problems/202/) |
 | ljubomora | 1360 | [ljubomora.cpp](./problems/ljubomora.cpp) | [🔗](https://dunjudge.me/analysis/problems/1360/) |
+| log2 | 190 | [log2.cpp](./problems/log2.cpp) | [🔗](https://dunjudge.me/analysis/problems/190/) | 
 | longestword | 34 | [longestword.cpp](./problems/longestword.cpp) | [🔗](https://dunjudge.me/analysis/problems/34/) |
 | lunch | 295 | [lunch.cpp](./problems/lunch.cpp) | [🔗](https://dunjudge.me/analysis/problems/295/) |
 | lunchbox | 954 | [lunchbox.cpp](./problems/lunchbox.cpp) | [🔗](https://dunjudge.me/analysis/problems/954/) |
