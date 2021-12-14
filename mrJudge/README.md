@@ -6,6 +6,7 @@
 | 7up | 1952 | [7up.cpp](./problems/7up.cpp) | [🔗](https://dunjudge.me/analysis/problems/1952/) |
 | area | 72 | [area.cpp](./problems/area.cpp) | [🔗](https://dunjudge.me/analysis/problems/72/) |
 | arrayfind | 209 | [arrayfind.cpp](./problems/arrayfind.cpp) | [🔗](https://dunjudge.me/analysis/problems/209/) |
+| badminton | 721 | [badminton.cpp](./problems/badminton.cpp) | [🔗](https://dunjudge.me/analysis/problems/721/) |
 | badpotato | 500 | [badpotato.cpp](./problems/badpotato.cpp) | [🔗](https://dunjudge.me/analysis/problems/500/) |
 | bananasmoothie | 1997 | [bananasmoothie.cpp](./problems/bananasmoothie.cpp) | [🔗](https://dunjudge.me/analysis/problems/1997/) |
 | basicbinary | 178 | [basicbinary.cpp](./problems/basicbinary.cpp) | [🔗](https://dunjudge.me/analysis/problems/178/) |
