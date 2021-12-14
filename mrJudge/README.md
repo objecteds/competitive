@@ -87,6 +87,7 @@
 | platform | 831 | [platform.cpp](./problems/platform.cpp) | [🔗](https://dunjudge.me/analysis/problems/831/) |
 | potatoplanting | 343 | [potatoplanting.cpp](./problems/potatoplanting.cpp) | [🔗](https://dunjudge.me/analysis/problems/343/) |
 | potatosalad | 301 | [potatosalad.cpp](./problems/potatosalad.cpp) | [🔗](https://dunjudge.me/analysis/problems/301/) |
+| primalitytesting | 130 | [primalitytesting.cpp](./problems/primalitytesting) | [🔗](https://dunjudge.me/analysis/problems/130/) |
 | prime | 20 | [prime.cpp](./problems/prime.cpp) | [🔗](https://dunjudge.me/analysis/problems/20/ƒ) | 
 | psle | 182 | [psle.cpp](./problems/psle.cpp) | [🔗](https://dunjudge.me/analysis/problems/182/) |
 | pushups | 839 | [pushups.cpp](./problems/pushups.cpp) | [🔗](https://dunjudge.me/analysis/problems/839/) |
