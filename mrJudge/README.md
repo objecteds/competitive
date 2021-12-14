@@ -40,6 +40,7 @@
 | farming | 302 | [farming.cpp](./problems/farming.cpp) | [🔗](https://dunjudge.me/analysis/problems/302/) |
 | fibo | 54 | [fibo.cpp](./problems/fibo.cpp) | [🔗](https://dunjudge.me/analysis/problems/54/) |
 | flamethrower | 200 | [flamethrower.cpp](./problems/flamethrower.cpp) | [🔗](https://dunjudge.me/analysis/problems/200/) |
+| fraction | 1106 | [fraction.cpp](./problems/fraction.cpp) | [🔗](https://dunjudge.me/analysis/problems/1106/) |
 | fuel | 846 | [fuel.cpp](./problems/fuel.cpp) | [🔗](https://dunjudge.me/analysis/problems/846/) |
 | gcd | 208 | [gcd.cpp](./problems/gcd.cpp) | [🔗](https://dunjudge.me/analysis/problems/208/) |
 | gift | 238 | [gift.cpp](./problems/gift.cpp) | [🔗](https://dunjudge.me/analysis/problems/238/) |
