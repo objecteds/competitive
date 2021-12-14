@@ -47,6 +47,7 @@
 | greeting | 2054 | [greeting.cpp](./problems/greeting.cpp) | [🔗](https://dunjudge.me/analysis/problems/2054/) |
 | GSS | 66 | [GSS.cpp](./problems/GSS.cpp) | [🔗](https://dunjudge.me/analysis/problems/66/) |
 | guanine | 627 | [guanine.cpp](./problems/guanine.cpp) | [🔗](https://dunjudge.me/analysis/problems/627/) |
+| haybales | 452 | [haybales.cpp](./problems/haybales.cpp) | [🔗](https://dunjudge.me/analysis/problems/452/) |
 | hellochecker | 207 | [hellochecker.cpp](./problems/hellochecker.cpp) | [🔗](https://dunjudge.me/analysis/problems/207/) |
 | helloworld | 1 | [helloworld.cpp](./problems/helloworld.cpp) | [🔗](https://dunjudge.me/analysis/problems/1/) |
 | hexadecimal | 48 | [hexadecimal.cpp](./problems/hexadecimal.cpp) | [🔗](https://dunjudge.me/analysis/problems/48/) |
