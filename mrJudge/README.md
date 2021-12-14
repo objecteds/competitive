@@ -4,6 +4,7 @@
 | ------------ | -- | ------------- | ------- |
 | 3n+1 | 65 | [3n+1.cpp](./problems/3n+1.cpp) | [🔗](https://dunjudge.me/analysis/problems/65/) |
 | 7up | 1952 | [7up.cpp](./problems/7up.cpp) | [🔗](https://dunjudge.me/analysis/problems/1952/) |
+| anagramword | 110 | [anagramword.cpp](./problems/anagramword.cpp) | [🔗](https://dunjudge.me/analysis/problems/110/) |
 | area | 72 | [area.cpp](./problems/area.cpp) | [🔗](https://dunjudge.me/analysis/problems/72/) |
 | arrayfind | 209 | [arrayfind.cpp](./problems/arrayfind.cpp) | [🔗](https://dunjudge.me/analysis/problems/209/) |
 | badminton | 721 | [badminton.cpp](./problems/badminton.cpp) | [🔗](https://dunjudge.me/analysis/problems/721/) |
