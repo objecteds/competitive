@@ -72,6 +72,7 @@
 | nonsequitur | 1335 | [nonsequitur.cpp](./problems/nonsequitur.cpp) | [🔗](https://dunjudge.me/analysis/problems/1335/) |
 | nprime | 271 | [nprime.cpp](./problems/nprime.cpp) | [🔗](https://dunjudge.me/analysis/problems/271/) |
 | numberchecker | 201 | [numberchecker.cpp](./problems/numberchecker.cpp) | [🔗](https://dunjudge.me/analysis/problems/201/) |
+| oranges | 832 | [oranges.cpp](./problems/oranges.cpp) | [🔗](https://dunjudge.me/analysis/problems/832/) |
 | paint | 215 | [paint.cpp](./problems/paint.cpp) | [🔗](https://dunjudge.me/analysis/problems/215/) |
 | palindromes | 32 | [palindromes.cpp](./problems/palindromes.cpp) | [🔗](https://dunjudge.me/analysis/problems/32/) |
 | palindromicfizzbuzz | 1815 | [palindromicfizzbuzz.cpp](./problems/palindromicfizzbuzz.cpp) | [🔗](https://dunjudge.me/analysis/problems/1815/) |
