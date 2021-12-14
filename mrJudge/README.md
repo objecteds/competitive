@@ -25,6 +25,7 @@
 | checkmultiples | 179 | [checkmultiples.cpp](./problems/checkmultiples.cpp) | [🔗](https://dunjudge.me/analysis/problems/179/) |
 | checksquare | 64 | [checksquare.cpp](./problems/checksquare.cpp) | [🔗](https://dunjudge.me/analysis/problems/64/) |
 | chinese | 70 | [chinese.cpp](./problems/chinese.cpp) | [🔗](https://dunjudge.me/analysis/problems/70/) |
+| composition | 315 | [composition.cpp](./problems/composition.cpp) | [🔗](https://dunjudge.me/analysis/problems/315/) |
 | contestcalc | 334 | [contestcalc.cpp](./problems/contestcalc.cpp) | [🔗](https://dunjudge.me/analysis/problems/334/) |
 | countalp | 24 | [countalp.cpp](./problems/countalp.cpp) | [🔗](https://dunjudge.me/analysis/problems/24/) |
 | countstars | 55 | [countstars.cpp](./problems/countstars.cpp) | [🔗](https://dunjudge.me/analysis/problems/55/) |
