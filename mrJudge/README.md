@@ -43,6 +43,7 @@
 | gcd | 208 | [gcd.cpp](./problems/gcd.cpp) | [🔗](https://dunjudge.me/analysis/problems/208/) |
 | gift | 238 | [gift.cpp](./problems/gift.cpp) | [🔗](https://dunjudge.me/analysis/problems/238/) |
 | gpa | 71 | [gpa.cpp](./problems/gpa.cpp) | [🔗](https://dunjudge.me/analysis/problems/71/) |
+| grading | 318 | [grading.cpp](./problems/grading.cpp) | [🔗](https://dunjudge.me/analysis/problems/318/) |
 | gravityguy | 1329 | [gravityguy.cpp](./problems/gravityguy.cpp) | [🔗](https://dunjudge.me/analysis/problems/1329/) |
 | greeting | 2054 | [greeting.cpp](./problems/greeting.cpp) | [🔗](https://dunjudge.me/analysis/problems/2054/) |
 | GSS | 66 | [GSS.cpp](./problems/GSS.cpp) | [🔗](https://dunjudge.me/analysis/problems/66/) |
