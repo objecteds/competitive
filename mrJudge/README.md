@@ -87,6 +87,7 @@
 | palindromes | 32 | [palindromes.cpp](./problems/palindromes.cpp) | [🔗](https://dunjudge.me/analysis/problems/32/) |
 | palindromicfizzbuzz | 1815 | [palindromicfizzbuzz.cpp](./problems/palindromicfizzbuzz.cpp) | [🔗](https://dunjudge.me/analysis/problems/1815/) |
 | parallelogram | 37 | [parallelogram.cpp](./problems/parallelogram.cpp) | [🔗](https://dunjudge.me/analysis/problems/37/) |
+| pigeonhole_ex | 607 | [pigeonhole_ex.cpp](./problems/pigeonhole_ex.cpp) | [🔗](https://dunjudge.me/analysis/problems/607/) |
 | pigeons | 312 | [pigeons.cpp](./problems/pigeons.cpp) | [🔗](https://dunjudge.me/analysis/problems/312/) |
 | pingpong | 321 | [pingpong.cpp](./problems/pingpong.cpp) | [🔗](https://dunjudge.me/analysis/problems/321/) |
 | platform | 831 | [platform.cpp](./problems/platform.cpp) | [🔗](https://dunjudge.me/analysis/problems/831/) |
