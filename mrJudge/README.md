@@ -127,6 +127,7 @@
 | trianglenumbers | 191 | [trianglenumbers.cpp](./problems/trianglenumbers.cpp) | [🔗](https://dunjudge.me/analysis/problems/191/) |
 | uniquenumbers_ex | 354 | [uniquenumbers_ex.cpp](./problems/uniquenumbers_ex.cpp) | [🔗](https://dunjudge.me/analysis/problems/354/) |
 | uniquenumbers | 345 | [uniquenumbers.cpp](./problems/uniquenumbers.cpp) | [🔗](https://dunjudge.me/analysis/problems/345/) |
+| variablenames | 275 | [variablenames.cpp](./problems/variablenames.cpp) | [🔗](https://dunjudge.me/analysis/problems/275/) |
 | washing | 1105 | [washing.cpp](./problems/washing.cpp) | [🔗](https://dunjudge.me/analysis/problems/1105/) |
 | weddingcoins | 290 | [weddingcoins.cpp](./problems/weddingcoins.cpp) | [🔗](https://dunjudge.me/analysis/problems/290/) |
 | whichpanda | 285 | [whichpanda](./problems/whichpanda.cpp) | [🔗](https://dunjudge.me/analysis/problems/285/) |
