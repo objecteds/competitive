@@ -100,6 +100,7 @@
 | psle | 182 | [psle.cpp](./problems/psle.cpp) | [🔗](https://dunjudge.me/analysis/problems/182/) |
 | pushups | 839 | [pushups.cpp](./problems/pushups.cpp) | [🔗](https://dunjudge.me/analysis/problems/839/) |
 | quadpotato | 304 | [quadpotato.txt](./problems/quadpotato.txt) | [🔗](https://dunjudge.me/analysis/problems/304/) |
+| restaurant | 303 | [restaurant.cpp](./problems/restaurant.cpp) | [🔗](https://dunjudge.me/analysis/problems/303/) |
 | reverse_ioi16 | 1093 | [reverse_ioi16](./problems/reverse_ioi16) | [🔗](https://dunjudge.me/analysis/problems/1093/) |
 | rightangtri | 21 | [rightangtri.cpp](./problems/rightangtri.cpp) | [🔗](https://dunjudge.me/analysis/problems/21/) |
 | scalars | 473 | [scalars.cpp](./problems/scalars.cpp) | [🔗](https://dunjudge.me/analysis/problems/473/) |

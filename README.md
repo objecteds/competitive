@@ -1,5 +1,5 @@
 # Competitive Programming Solutions
-<a href="#"><img src="https://img.shields.io/badge/problems%20solved-513-brightgreen"> <img src="https://img.shields.io/badge/judges-6-orange"></a>
+<a href="#"><img src="https://img.shields.io/badge/problems%20solved-515-brightgreen"> <img src="https://img.shields.io/badge/judges-6-orange"></a>
 
 This Github repository contains my personal computational solutions to (competitive) programming problems. 
 
