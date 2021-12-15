@@ -21,6 +21,7 @@
 | card | 115 | [card.cpp](./problems/card.cpp) | [🔗](https://dunjudge.me/analysis/problems/115/) |
 | carpark | 840 | [carpark.cpp](./problems/carpark.cpp) | [🔗](https://dunjudge.me/analysis/problems/840/) |
 | catletters | 313 | [catletters.cpp](./problems/catletters.cpp) | [🔗](https://dunjudge.me/analysis/problems/313/) |
+| ccs | 628 | [ccs.cpp](./problems/ccs.cpp) | [🔗](https://dunjudge.me/analysis/problems/628/) |
 | chartoint | 41 | [chartoint](./problems/chartoint.cpp) | [🔗](https://dunjudge.me/analysis/problems/41/) |
 | checkerboard | 193 | [checkerboard.cpp](./problems/checkerboard.cpp) | [🔗](https://dunjudge.me/analysis/problems/193/) | 
 | checkmultiples | 179 | [checkmultiples.cpp](./problems/checkmultiples.cpp) | [🔗](https://dunjudge.me/analysis/problems/179/) |
