@@ -98,6 +98,7 @@
 | quadpotato | 304 | [quadpotato.txt](./problems/quadpotato.txt) | [🔗](https://dunjudge.me/analysis/problems/304/) |
 | reverse_ioi16 | 1093 | [reverse_ioi16](./problems/reverse_ioi16) | [🔗](https://dunjudge.me/analysis/problems/1093/) |
 | rightangtri | 21 | [rightangtri.cpp](./problems/rightangtri.cpp) | [🔗](https://dunjudge.me/analysis/problems/21/) |
+| scalars | 473 | [scalars.cpp](./problems/scalars.cpp) | [🔗](https://dunjudge.me/analysis/problems/473/) |
 | sharefood | 331 | [sharefood.cpp](./problems/sharefood.cpp) | [🔗](https://dunjudge.me/analysis/problems/331/) |
 | shortestword | 35 | [shortestword.cpp](./problems/shortestword.cpp) | [🔗](https://dunjudge.me/analysis/problems/35/) |
 | smurf | 1707 | [smurf.cpp](./problems/smurf.cpp) | [🔗](https://dunjudge.me/analysis/problems/1707/) |
