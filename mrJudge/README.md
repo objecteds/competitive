@@ -61,6 +61,7 @@
 | hexagon | 362 | [hexagon.cpp](./problems/hexagon.cpp) | [🔗](https://dunjudge.me/analysis/problems/362/) |
 | homework | 258 | [homework.cpp](./problems/homework.cpp) | [🔗](https://dunjudge.me/analysis/problems/258/) |
 | lazysponge | 29 | [lazysponge.cpp](./problems/lazysponge.cpp) | [🔗](https://dunjudge.me/analysis/problems/29/) |
+| leetspeak | 1096 | [leetspeak.cpp](./problems/leetspeak.cpp) | [🔗](https://dunjudge.me/analysis/problems/1096/) |
 | lengthsort | 202 | [lengthsort.cpp](./problems/lengthsort.cpp) | [🔗](https://dunjudge.me/analysis/problems/202/) |
 | lis | 68 | [lis.cpp](./problems/lis.cpp) | [🔗](https://dunjudge.me/analysis/problems/68/) |
 | ljubomora | 1360 | [ljubomora.cpp](./problems/ljubomora.cpp) | [🔗](https://dunjudge.me/analysis/problems/1360/) |
