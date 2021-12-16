@@ -29,6 +29,7 @@ For example, the link for problem 228A is https://codeforces.com/problemset/prob
 - [431A - Black Square](./problems/0431/A/)
 - [443A - Anton and Letters](./problems/0443/A/)
 - [490A - Team Olympiad](./problems/0490/A/)
+- [520A - Pangram](./problems/0520/A/)
 - [567A - Lineland Mail](./problems/0567/A/)
 - [677A - Vanya and Fence](./problems/0677/A/)
 - [686A - Free Ice Cream](./problems/0686/A/)
