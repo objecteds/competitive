@@ -39,6 +39,7 @@ For example, the link for problem 228A is https://codeforces.com/problemset/prob
 - [770A - New Password](./problems/0770/A/)
 - [791A - Bear and Big Brother](./problems/0791/A/)
 - [799A - Carrot Cakes](./problems/0799/A/)
+- [1428A - Box is Pull](./problems/1428/A/)
 - [1585A - Life of a Flower](./problems/1585/A/)
 - [1591A - Life of a Flower](./problems/1591/A/)
 - [1607A - Linear Keyboard](./problems/1607/A/)
