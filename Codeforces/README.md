@@ -40,3 +40,4 @@ For example, the link for problem 228A is https://codeforces.com/problemset/prob
 - [791A - Bear and Big Brother](./problems/0791/A/)
 - [799A - Carrot Cakes](./problems/0799/A/)
 - [1607A - Linear Keyboard](./problems/1607/A/)
+- [1618A - Polycarp and Sums of Subsequences](./problems/1618/A/)
