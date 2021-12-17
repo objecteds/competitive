@@ -13,6 +13,7 @@ For example, the link for problem 228A is https://codeforces.com/problemset/prob
 - [71A - Way Too Long Words](./problems/0071/A/)
 - [112A - Petya and Strings](./problems/0112/A/)
 - [136A - Presents](./problems/0136/A/)
+- [158A - Next Round](./problems/0158/A/)
 - [160A - Twins](./problems/160/A/)
 - [228A - Is your horseshoe on the other hoof?](./problems/0226/A/)
 - [231A - Team](./problems/0231/A/)
