@@ -22,6 +22,7 @@ For example, the link for problem 228A is https://codeforces.com/problemset/prob
 - [265A - Colorful Stones (Simplified Edition)](./problems/0265/A/)
 - [266A - Stones on the Table](./problems/0266/A/)
 - [268A - Games](./problems/0268/A/)
+- [281A - Word Capitalization](./problems/0281/A/)
 - [294A - Shaass and Oskols](./problems/0294/A/)
 - [339A - Helpful Maths](./problems/0339/A/)
 - [344A - Magnets](./problems/0344/A/)
