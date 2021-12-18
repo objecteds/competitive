@@ -8,6 +8,7 @@ For example, the link for problem 228A is https://codeforces.com/problemset/prob
 - [1A - Theatre Square](./problems/0001/A/)
 - [4A - Watermelon](./problems/0004/A/)
 - [9A - Die Roll](./problems/0009/A/)
+- [41A - Translation](./problems/0041/A/)
 - [59A - Word](./problems/0059/A/)
 - [69A - Young Physicist](./problems/0069/A/)
 - [71A - Way Too Long Words](./problems/0071/A/)
