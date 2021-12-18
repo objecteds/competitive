@@ -30,6 +30,7 @@ For example, the link for problem 228A is https://codeforces.com/problemset/prob
 - [427A - Police Recruits](./problems/0427/A/)
 - [431A - Black Square](./problems/0431/A/)
 - [443A - Anton and Letters](./problems/0443/A/)
+- [469A - I Wanna Be the Guy](./problems/0469/A/)
 - [490A - Team Olympiad](./problems/0490/A/)
 - [520A - Pangram](./problems/0520/A/)
 - [567A - Lineland Mail](./problems/0567/A/)
