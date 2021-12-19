@@ -62,6 +62,9 @@
 ### Sorting
 - [Intro to Tutorial Challenges](./Problem%20Solving/Intro%20to%20Tutorial%20Challenges) ([site](https://www.hackerrank.com/challenges/tutorial-intro/))
 
+### Debugging
+- [XOR Strings](./Problem%20Solving/XOR%20Strings) ([site](https://www.hackerrank.com/challenges/strings-xor/))
+
 ## Python
 ### Introduction
 - [Say "Hello, World!" With Python](./Python/py-hello-world.py) ([site](https://www.hackerrank.com/challenges/py-hello-world/))
