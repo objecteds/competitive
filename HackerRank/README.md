@@ -59,6 +59,9 @@
 - [The Love-Letter Mystery](./Problem%20Solving/The%20Love-Letter%20Mystery) ([site](https://www.hackerrank.com/challenges/the-love-letter-mystery/))
 - [String Construction](./Problem%20Solving/String%20Construction) ([site](https://www.hackerrank.com/challenges/string-construction/))
 
+### Sorting
+- [Intro to Tutorial Challenges](./Problem%20Solving/Intro%20to%20Tutorial%20Challenges) ([site](https://www.hackerrank.com/challenges/tutorial-intro/))
+
 ## Python
 ### Introduction
 - [Say "Hello, World!" With Python](./Python/py-hello-world.py) ([site](https://www.hackerrank.com/challenges/py-hello-world/))
