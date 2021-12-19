@@ -1,5 +1,18 @@
 # HackerRank
 
+## Problem Solving
+### Warmup
+- [Solve Me First](./Problem%20Solving/Solve%20Me%20First/) ([site](https://www.hackerrank.com/challenges/solve-me-first/))
+- [Simple Array Sum](./Problem%20Solving/Simple%20Array%20Sum/) ([site](https://www.hackerrank.com/challenges/simple-array-sum/))
+- [Compare the Triplets](./Problem%20Solving/Compare%20the%20Triplets/) ([site](https://www.hackerrank.com/challenges/compare-the-triplets/))
+- [A Very Big Sum](./Problem%20Solving/A%20Very%20Big%20Sum/) ([site](https://www.hackerrank.com/challenges/a-very-big-sum/))
+- [Diagonal Difference](./Problem%20Solving/Diagonal%20Difference/) ([site](https://www.hackerrank.com/challenges/diagonal-difference/))
+- [Plus Minus](./Problem%20Solving/Plus%20Minus/) ([site](https://www.hackerrank.com/challenges/plus-minus/))
+- [Staircase](./Problem%20Solving/Staircase/) ([site](https://www.hackerrank.com/challenges/staircase/))
+- [Mini-Max Sum](./Problem%20Solving/Mini-Max%20Sum/) ([site](https://www.hackerrank.com/challenges/mini-max-sum/))
+- [Birthday Cake Candles](./Problem%20Solving/Birthday%20Cake%20Candles/) ([site](https://www.hackerrank.com/challenges/birthday-cake-candles/))
+- [Time Conversion](./Problem%20Solving/Time%20Conversion/) ([site](https://www.hackerrank.com/challenges/time-conversion/))
+
 ## Python
 ### Introduction
 - [Say "Hello, World!" With Python](./Python/py-hello-world.py) ([site](https://www.hackerrank.com/challenges/py-hello-world/))
