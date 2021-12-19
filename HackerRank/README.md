@@ -46,6 +46,19 @@
 - [Beautiful Triplets](./Problem%20Solving/Beautiful%20Triplets) ([site](https://www.hackerrank.com/challenges/beautiful-triplets))
 - [The Time in Words](./Problem%20Solving/The%20Time%20in%20Words) ([site](https://www.hackerrank.com/challenges/the-time-in-words))
 
+### Strings
+- [CamelCase](./Problem%20Solving/CamelCase) ([site](https://www.hackerrank.com/challenges/camelcase/))
+- [Strong Password](./Problem%20Solving/Strong%20Password) ([site](https://www.hackerrank.com/challenges/strong-password/))
+- [Mars Exploration](./Problem%20Solving/Mars%20Exploration) ([site](https://www.hackerrank.com/challenges/mars-exploration/))
+- [HackerRank in a String!](./Problem%20Solving/HackerRank%20in%20a%20String!) ([site](https://www.hackerrank.com/challenges/hackerrank-in-a-string/))
+- [Pangrams](./Problem%20Solving/Pangrams) ([site](https://www.hackerrank.com/challenges/pangrams))
+- [Funny String](./Problem%20Solving/Funny%20String) ([site](https://www.hackerrank.com/challenges/funny-string/))
+- [Gemstones](./Problem%20Solving/Gemstones) ([site](https://www.hackerrank.com/challenges/gem-stones/))
+- [Alternating Characters](./Problem%20Solving/Alternating%20Characters) ([site](https://www.hackerrank.com/challenges/alternating-characters/))
+- [Beautiful Binary String](./Problem%20Solving/Beautiful%20Binary%20String) ([site](https://www.hackerrank.com/challenges/beautiful-binary-string/))
+- [The Love-Letter Mystery](./Problem%20Solving/The%20Love-Letter%20Mystery) ([site](https://www.hackerrank.com/challenges/the-love-letter-mystery/))
+- [String Construction](./Problem%20Solving/String%20Construction) ([site](https://www.hackerrank.com/challenges/string-construction/))
+
 ## Python
 ### Introduction
 - [Say "Hello, World!" With Python](./Python/py-hello-world.py) ([site](https://www.hackerrank.com/challenges/py-hello-world/))
