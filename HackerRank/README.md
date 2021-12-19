@@ -44,7 +44,7 @@
 - [Jumping on the Clouds](./Problem%20Solving/Jumping%20on%20the%20Clouds) ([site](https://www.hackerrank.com/challenges/jumping-on-the-clouds))
 - [Equalize the Array](./Problem%20Solving/Equalize%20the%20Array) ([site](https://www.hackerrank.com/challenges/equality-in-a-array))
 - [Beautiful Triplets](./Problem%20Solving/Beautiful%20Triplets) ([site](https://www.hackerrank.com/challenges/beautiful-triplets))
-
+- [The Time in Words](./Problem%20Solving/The%20Time%20in%20Words) ([site](https://www.hackerrank.com/challenges/the-time-in-words))
 
 ## Python
 ### Introduction
