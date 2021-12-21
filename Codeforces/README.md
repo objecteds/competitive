@@ -57,3 +57,5 @@ For example, the link for problem 228A is https://codeforces.com/problemset/prob
 - [1611A - Make Even](./problems/1611/A/)
 - [1618A - Polycarp and Sums of Subsequences](./problems/1618/A/)
 - [1618B - Missing Bigram](./problems/1618/B/) 
+- [1619A - Square String?](./problems/1619/A/)
+- [1619B - Squares and Cubes](./problems/1619/B/)
