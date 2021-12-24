@@ -1,5 +1,5 @@
 f = []
-with open("day_1.txt") as file:
+with open("2021_1.txt") as file:
     for _ in file:
         f.append(_.strip())
 
