@@ -18,6 +18,7 @@
 ### Classes
 - [Structs](./C++/c-tutorial-structs.cpp) ([site](https://www.hackerrank.com/challenges/c-tutorial-structs/))
 - [Class](./C++/c-tutorial-class.cpp) ([site](https://www.hackerrank.com/challenges/c-tutorial-class/))
+- [Classes and Objects](./C++/classes-objects.cpp) ([site](https://www.hackerrank.com/challenges/classes-objects/))
 
 ### STL
 - [Vector-Sort](./C++/vector-sort.cpp) ([site](https://www.hackerrank.com/challenges/vector-sort/))
