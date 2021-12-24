@@ -26,6 +26,9 @@
 - [Sets-STL](./C++/cpp-sets.cpp) ([site](https://www.hackerrank.com/challenges/cpp-sets/))
 - [Maps-STL](./C++/cpp-maps.cpp) ([site](https://www.hackerrank.com/challenges/cpp-maps/))
 
+### Inheritance
+- [Inheritance](./C++/inheritance-introduction.cpp) ([site](https://www.hackerrank.com/challenges/inheritance-introduction/))
+
 ---
 
 ## Problem Solving
