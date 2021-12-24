@@ -28,6 +28,7 @@
 
 ### Inheritance
 - [Inheritance](./C++/inheritance-introduction.cpp) ([site](https://www.hackerrank.com/challenges/inheritance-introduction/))
+- [Rectangle Area](./C++/rectangle-area.cpp) ([site](https://www.hackerrank.com/challenges/rectangle-area/))
 - [Multi Level Inheritance](./C++/multi-level-inheritance-cpp.cpp) ([site](https://www.hackerrank.com/challenges/multi-level-inheritance-cpp/))
 
 ---
