@@ -10,6 +10,7 @@
 - [Functions](./C++/c-tutorial-functions.cpp) ([site](https://www.hackerrank.com/challenges/c-tutorial-functions/))
 - [Pointer](./C++/c-tutorial-pointer.cpp) ([site](https://www.hackerrank.com/challenges/c-tutorial-pointer/))
 - [Arrays Introduction](./C++/arrays-introduction.cpp) ([site](https://www.hackerrank.com/challenges/arrays-introduction/))
+- [Variable Sized Arrays](./C++/variable-sized-arrays.cpp) ([site](https://www.hackerrank.com/challenges/variable-sized-arrays/))
 
 ### Strings
 - [StringStream](./C++/c-tutorial-stringstream.cpp) ([site](https://www.hackerrank.com/challenges/c-tutorial-stringstream/))
