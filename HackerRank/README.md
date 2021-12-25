@@ -143,6 +143,7 @@
 - [Set .union() Operation](./Python/py-set-union.py) ([site](https://www.hackerrank.com/challenges/py-set-union/))
 - [Set .intersection() Operation](./Python/py-set-intersection-operation.py) ([site](https://www.hackerrank.com/challenges/py-set-intersection-operation/))
 - [Set .difference() Operation](./Python/py-set-difference-operation.py) ([site](https://www.hackerrank.com/challenges/py-set-difference-operation/))
+- [Set .symmetric_difference() Operation](./Python/py-set-symmetric-difference-operation) ([site](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/))
 
 ### Math
 - [Polar Coordinates](./Python/polar-coordinates.py) ([site](https://www.hackerrank.com/challenges/polar-coordinates/))
