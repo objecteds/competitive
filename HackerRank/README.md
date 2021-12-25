@@ -174,6 +174,7 @@
 - [Zipped!](./Python/zipped.py) ([site](https://www.hackerrank.com/challenges/zipped/))
 - [Input()](./Python/input.py) ([site](https://www.hackerrank.com/challenges/input/))
 - [Python Evaluation](./Python/python-eval.py) ([site](https://www.hackerrank.com/challenges/python-eval/))
+- [Any or All](./Python/any-or-all.py) ([site](https://www.hackerrank.com/challenges/any-or-all/))
 - [ginortS](./Python/ginorts.py) ([site](https://www.hackerrank.com/challenges/ginorts/))
 
 ### Numpy
