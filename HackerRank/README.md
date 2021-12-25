@@ -171,6 +171,7 @@
 - [Exceptions](./Python/exceptions.py) ([site](https://www.hackerrank.com/challenges/exceptions/))
 
 ### Built-Ins
+- [Zipped!](./Python/zipped.py) ([site](https://www.hackerrank.com/challenges/zipped/))
 - [Input()](./Python/input.py) ([site](https://www.hackerrank.com/challenges/input/))
 
 ### Numpy
