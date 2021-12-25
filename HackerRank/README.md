@@ -150,6 +150,7 @@
 - [Polar Coordinates](./Python/polar-coordinates.py) ([site](https://www.hackerrank.com/challenges/polar-coordinates/))
 - [Find Angle MBC](./Python/find-angle.py) ([site](https://www.hackerrank.com/challenges/find-angle/))
 - [Triangle Quest 2](./Python/triangle-quest-2.py) ([site](https://www.hackerrank.com/challenges/triangle-quest-2/))
+- [Mod Divmod](./Python/python-mod-divmod.py) ([site](https://www.hackerrank.com/challenges/python-mod-divmod/))
 - [Integers Come In All Sizes](./Python/python-integers-come-in-all-sizes.py) ([site](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/))
 - [Triangle Quest](./Python/python-quest-1.py) ([site](https://www.hackerrank.com/challenges/python-quest-1/))
 
