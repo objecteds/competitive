@@ -137,6 +137,7 @@
 
 ### Sets
 - [Introduction to Sets](./Python/py-introduction-to-sets.py) ([site](https://www.hackerrank.com/challenges/py-introduction-to-sets/))
+- [Set .add()](./Python/py-set-add.py) ([site](https://www.hackerrank.com/challenges/py-set-add/))
 
 ### Math
 - [Polar Coordinates](./Python/polar-coordinates.py) ([site](https://www.hackerrank.com/challenges/polar-coordinates/))
