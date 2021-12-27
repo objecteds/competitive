@@ -104,6 +104,7 @@
 - [Array Mathematics](./np-array-mathematics.py) ([site](https://www.hackerrank.com/challenges/np-array-mathematics/))
 - [Floor, Ceil and Rint](./floor-ceil-and-rint.py) ([site](https://www.hackerrank.com/challenges/floor-ceil-and-rint/))
 - [Sum and Prod](./np-sum-and-prod.py) ([site](https://www.hackerrank.com/challenges/np-sum-and-prod/))
+- [Min and Max](./np-min-and-max.py) ([site](https://www.hackerrank.com/challenges/np-min-and-max/))
 
 ## Debugging
 - [Words Score](./words-score.py) ([site](https://www.hackerrank.com/challenges/words-score/))
