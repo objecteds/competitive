@@ -64,6 +64,7 @@
 
 ## Collections
 - [collections.Counter()](./collections-counter.py) ([site](https://www.hackerrank.com/challenges/collections-counter/))
+- [DefaultDict Tutorial](./defaultdict-tutorial.py) ([site](https://www.hackerrank.com/challenges/defaultdict-tutorial/))
 - [Collections.namedtuple()](./py-collections-namedtuple.py) ([site](https://www.hackerrank.com/challenges/py-collections-namedtuple/))
 - [Collections.OrderedDict()](./py-collections-ordereddict.py) ([site](https://www.hackerrank.com/challenges/py-collections-ordereddict/))
 - [Word Order](./word-order.py) ([site](https://www.hackerrank.com/challenges/word-order/))
