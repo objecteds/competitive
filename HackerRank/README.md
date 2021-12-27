@@ -1,5 +1,17 @@
 # HackerRank
 
+This folder contains my solutions to the [HackerRank](https://www.hackerrank.com) challenges.
+
+At the time of writing, there are solutions for 3 HackerRank categories in this folder:
+- [C++](./C++/README.md)
+- [Problem Solving](./Problem%20Solving/README.md)
+- [Python](./Python/README.md)
+
+To reduce clutter and confusion, the list of problems have been relocated into each category folder. However, a full problem list can be seen by activating the dropdown menu at the bottom of the page.
+
+<details>
+<summary> Full Problem List </summary>
+
 ## C++
 ### Introduction
 - [Say "Hello, World!" With C++](./C++/cpp-hello-world.cpp) ([site](https://www.hackerrank.com/challenges/cpp-hello-world/))
@@ -180,3 +192,5 @@
 
 ### Numpy
 - [Arrays](./Python/np-arrays.py) ([site](https://www.hackerrank.com/challenges/np-arrays/))
+
+</details>
