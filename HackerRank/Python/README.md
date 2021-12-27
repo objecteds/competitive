@@ -95,3 +95,4 @@
 
 ## Debugging
 - [Words Score](./words-score.py) ([site](https://www.hackerrank.com/challenges/words-score/))
+- [Default Arguments](./default-arguments.py) ([site](https://www.hackerrank.com/challenges/default-arguments/))
