@@ -89,6 +89,7 @@
 ## Python Functionals
 - [Map and Lambda Function](./map-and-lambda-expression.py) ([site](https://www.hackerrank.com/challenges/map-and-lambda-expression/))
 - [Validating Email Addresses With a Filter](./validate-list-of-email-address-with-filter.py) ([site](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/))
+- [Reduce Function](./reduce-function.py) ([site](https://www.hackerrank.com/challenges/reduce-function/))
 
 ## XML
 - [XML 1 - Find the Score](./xml-1-find-the-score.py) ([site](https://www.hackerrank.com/challenges/xml-1-find-the-score/))
