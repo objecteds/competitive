@@ -43,6 +43,7 @@
 - [Set Mutations](./py-set-mutations.py) ([site](https://www.hackerrank.com/challenges/py-set-mutations/))
 - [The Captain's Room](./py-the-captains-room.py) ([site](https://www.hackerrank.com/challenges/py-the-captains-room/))
 - [Check Subset](./py-check-subset.py) ([site](https://www.hackerrank.com/challenges/py-check-subset/))
+- [Check Strict Superset](./py-check-strict-superset.py) ([site](https://www.hackerrank.com/challenges/py-check-strict-superset/))
 
 ## Math
 - [Polar Coordinates](./polar-coordinates.py) ([site](https://www.hackerrank.com/challenges/polar-coordinates/))
