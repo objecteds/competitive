@@ -107,6 +107,7 @@
 - [Min and Max](./np-min-and-max.py) ([site](https://www.hackerrank.com/challenges/np-min-and-max/))
 - [Mean, Var, and Std](./np-mean-var-and-std.py) ([site](https://www.hackerrank.com/challenges/np-mean-var-and-std/))
 - [Dot and Cross](./np-dot-and-cross.py) ([site](https://www.hackerrank.com/challenges/np-dot-and-cross/))
+- [Inner and Outer](./np-inner-and-outer.py) ([site](https://www.hackerrank.com/challenges/np-inner-and-outer/))
 
 ## Debugging
 - [Words Score](./words-score.py) ([site](https://www.hackerrank.com/challenges/words-score/))
