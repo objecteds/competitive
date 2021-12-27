@@ -84,5 +84,8 @@
 - [Any or All](./any-or-all.py) ([site](https://www.hackerrank.com/challenges/any-or-all/))
 - [ginortS](./ginorts.py) ([site](https://www.hackerrank.com/challenges/ginorts/))
 
+## XML
+- [XML 1 - Find the Score](./xml-1-find-the-score.py) ([site](https://www.hackerrank.com/challenges/xml-1-find-the-score/))
+
 ## Numpy
 - [Arrays](./np-arrays.py) ([site](https://www.hackerrank.com/challenges/np-arrays/))
