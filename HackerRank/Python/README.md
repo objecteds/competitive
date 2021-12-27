@@ -109,6 +109,7 @@
 - [Dot and Cross](./np-dot-and-cross.py) ([site](https://www.hackerrank.com/challenges/np-dot-and-cross/))
 - [Inner and Outer](./np-inner-and-outer.py) ([site](https://www.hackerrank.com/challenges/np-inner-and-outer/))
 - [Polynomials](./np-polynomials.py) ([site](https://www.hackerrank.com/challenges/np-polynomials/))
+- [Linear Algebra](./np-linear-algebra.py) ([site](https://www.hackerrank.com/challenges/np-linear-algebra/))
 
 ## Debugging
 - [Words Score](./words-score.py) ([site](https://www.hackerrank.com/challenges/words-score/))
