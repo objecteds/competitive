@@ -101,6 +101,7 @@
 - [Transpose and Flatten](./np-transpose-and-flatten.py) ([site](https://www.hackerrank.com/challenges/np-transpose-and-flatten/))
 - [Concatenate](./np-concatenate.py) ([site](https://www.hackerrank.com/challenges/np-concatenate/))
 - [Eye and Identity](./np-eye-and-identity.py) ([site](https://www.hackerrank.com/challenges/np-eye-and-identity/))
+- [Array Mathematics](./np-array-mathematics.py) ([site](https://www.hackerrank.com/challenges/np-array-mathematics/))
 
 ## Debugging
 - [Words Score](./words-score.py) ([site](https://www.hackerrank.com/challenges/words-score/))
