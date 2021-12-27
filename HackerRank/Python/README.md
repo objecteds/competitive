@@ -86,6 +86,9 @@
 - [Any or All](./any-or-all.py) ([site](https://www.hackerrank.com/challenges/any-or-all/))
 - [ginortS](./ginorts.py) ([site](https://www.hackerrank.com/challenges/ginorts/))
 
+## Python Functionals
+- [Map and Lambda Function](./map-and-lambda-expression.py) ([site](https://www.hackerrank.com/challenges/map-and-lambda-expression/))
+
 ## XML
 - [XML 1 - Find the Score](./xml-1-find-the-score.py) ([site](https://www.hackerrank.com/challenges/xml-1-find-the-score/))
 - [XML 2 - Find the Maximum Depth](./xml2-find-the-maximum-depth.py) ([site](https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth/))
