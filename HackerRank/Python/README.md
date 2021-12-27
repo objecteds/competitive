@@ -68,6 +68,7 @@
 - [Collections.namedtuple()](./py-collections-namedtuple.py) ([site](https://www.hackerrank.com/challenges/py-collections-namedtuple/))
 - [Collections.OrderedDict()](./py-collections-ordereddict.py) ([site](https://www.hackerrank.com/challenges/py-collections-ordereddict/))
 - [Word Order](./word-order.py) ([site](https://www.hackerrank.com/challenges/word-order/))
+- [Collections.deque()](./py-collections-deque.py) ([site](https://www.hackerrank.com/challenges/py-collections-deque/))
 
 ## Date and Time
 - [Calendar Module](./calendar-module.py) ([site](https://www.hackerrank.com/challenges/calendar-module/))
