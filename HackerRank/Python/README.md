@@ -6,7 +6,8 @@
 - [Python: Division](./python-division.py) ([site](https://www.hackerrank.com/challenges/python-division/))
 - [Loops](./pyths.py) ([site](https://www.hackerrank.com/challenges/python-loops/))
 - [Write a function](./write-a-function.py) ([site](https://www.hackerrank.com/challenges/write-a-function/))
-- [Print Function](./python-print.py) ([site](https://www.hackerrank.com/challenges/python-pr
+- [Print Function](./python-print.py) ([site](https://www.hackerrank.com/challenges/python-print)
+
 ## Basic Data Types
 - [List Comprehensions](./list-comprehensions.py) ([site](https://www.hackerrank.com/challenges/list-comprehensions/))
 - [Find the Runner-Up Score!](./find-second-maximum-number-in-a-list.py) ([site](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/))
@@ -41,6 +42,7 @@
 - [Set .symmetric_difference() Operation](./py-set-symmetric-difference-operation) ([site](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/))
 - [Set Mutations](./py-set-mutations.py) ([site](https://www.hackerrank.com/challenges/py-set-mutations/))
 - [The Captain's Room](./py-the-captains-room.py) ([site](https://www.hackerrank.com/challenges/py-the-captains-room/))
+- [Check Subset](./py-check-subset.py) ([site](https://www.hackerrank.com/challenges/py-check-subset/))
 
 ## Math
 - [Polar Coordinates](./polar-coordinates.py) ([site](https://www.hackerrank.com/challenges/polar-coordinates/))
