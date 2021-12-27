@@ -59,6 +59,7 @@
 - [itertools.product()](./itertools-product.py) ([site](https://www.hackerrank.com/challenges/itertools-product/))
 - [itertools.permutations()](./itertools-permutations.py) ([site](https://www.hackerrank.com/challenges/itertools-permutations/))
 - [itertools.combinations()](./itertools-combinations.py) ([site](https://www.hackerrank.com/challenges/itertools-combinations/))
+- [itertools.combinations_with_replacement()](./itertools-combinations-with-replacement.py) ([site](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/))
 
 ## Collections
 - [collections.Counter()](./collections-counter.py) ([site](https://www.hackerrank.com/challenges/collections-counter/))
