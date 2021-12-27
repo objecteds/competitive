@@ -62,6 +62,7 @@
 - [itertools.combinations()](./itertools-combinations.py) ([site](https://www.hackerrank.com/challenges/itertools-combinations/))
 - [itertools.combinations_with_replacement()](./itertools-combinations-with-replacement.py) ([site](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/))
 - [Compress the String!](./compress-the-string.py) ([site](https://www.hackerrank.com/challenges/compress-the-string/))
+- [Iterables and Iterators](./iterables-and-iterators.py) ([site](https://www.hackerrank.com/challenges/iterables-and-iterators/))
 
 ## Collections
 - [collections.Counter()](./collections-counter.py) ([site](https://www.hackerrank.com/challenges/collections-counter/))
