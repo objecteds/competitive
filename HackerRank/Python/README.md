@@ -103,6 +103,7 @@
 - [Eye and Identity](./np-eye-and-identity.py) ([site](https://www.hackerrank.com/challenges/np-eye-and-identity/))
 - [Array Mathematics](./np-array-mathematics.py) ([site](https://www.hackerrank.com/challenges/np-array-mathematics/))
 - [Floor, Ceil and Rint](./floor-ceil-and-rint.py) ([site](https://www.hackerrank.com/challenges/floor-ceil-and-rint/))
+- [Sum and Prod](./np-sum-and-prod.py) ([site](https://www.hackerrank.com/challenges/np-sum-and-prod/))
 
 ## Debugging
 - [Words Score](./words-score.py) ([site](https://www.hackerrank.com/challenges/words-score/))
