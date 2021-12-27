@@ -100,6 +100,7 @@
 - [Shape and Reshape](./np-shape-reshape.py) ([site](https://www.hackerrank.com/challenges/np-shape-reshape/))
 - [Transpose and Flatten](./np-transpose-and-flatten.py) ([site](https://www.hackerrank.com/challenges/np-transpose-and-flatten/))
 - [Concatenate](./np-concatenate.py) ([site](https://www.hackerrank.com/challenges/np-concatenate/))
+- [Zeros and Ones](./np-zeros-and-ones.py) ([site](https://www.hackerrank.com/challenges/np-zeros-and-ones/))
 - [Eye and Identity](./np-eye-and-identity.py) ([site](https://www.hackerrank.com/challenges/np-eye-and-identity/))
 - [Array Mathematics](./np-array-mathematics.py) ([site](https://www.hackerrank.com/challenges/np-array-mathematics/))
 - [Floor, Ceil and Rint](./floor-ceil-and-rint.py) ([site](https://www.hackerrank.com/challenges/floor-ceil-and-rint/))
