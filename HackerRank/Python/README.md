@@ -97,6 +97,7 @@
 
 ## Numpy
 - [Arrays](./np-arrays.py) ([site](https://www.hackerrank.com/challenges/np-arrays/))
+- [Shape and Reshape](./np-shape-reshape.py) ([site](https://www.hackerrank.com/challenges/np-shape-reshape/))
 
 ## Debugging
 - [Words Score](./words-score.py) ([site](https://www.hackerrank.com/challenges/words-score/))
