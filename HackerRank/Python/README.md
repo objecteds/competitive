@@ -30,6 +30,7 @@
 - [Alphabet Rangoli](./alphabet-rangoli.py) ([site](https://www.hackerrank.com/challenges/alphabet-rangoli/))
 - [Capitalize!](./capitalize.py) ([site](https://www.hackerrank.com/challenges/capitalize/))
 - [The Minion Game](./the-minion-game.py) ([site](https://www.hackerrank.com/challenges/the-minion-game/))
+- [Merge the Tools!](./merge-the-tools.py) ([site](https://www.hackerrank.com/challenges/merge-the-tools/))
 
 ## Sets
 - [Introduction to Sets](./py-introduction-to-sets.py) ([site](https://www.hackerrank.com/challenges/py-introduction-to-sets/))
