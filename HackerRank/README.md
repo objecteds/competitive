@@ -145,6 +145,7 @@
 - [Set .difference() Operation](./Python/py-set-difference-operation.py) ([site](https://www.hackerrank.com/challenges/py-set-difference-operation/))
 - [Set .symmetric_difference() Operation](./Python/py-set-symmetric-difference-operation) ([site](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/))
 - [Set Mutations](./Python/py-set-mutations.py) ([site](https://www.hackerrank.com/challenges/py-set-mutations/))
+- [The Captain's Room](./Python/py-the-captains-room.py) ([site](https://www.hackerrank.com/challenges/py-the-captains-room/))
 
 ### Math
 - [Polar Coordinates](./Python/polar-coordinates.py) ([site](https://www.hackerrank.com/challenges/polar-coordinates/))
