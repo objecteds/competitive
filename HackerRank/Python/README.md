@@ -82,6 +82,7 @@
 - [Zipped!](./zipped.py) ([site](https://www.hackerrank.com/challenges/zipped/))
 - [Input()](./input.py) ([site](https://www.hackerrank.com/challenges/input/))
 - [Python Evaluation](./python-eval.py) ([site](https://www.hackerrank.com/challenges/python-eval/))
+- [Athlete Sort](./python-sort-sort.py) ([site](https://www.hackerrank.com/challenges/python-sort-sort/))
 - [Any or All](./any-or-all.py) ([site](https://www.hackerrank.com/challenges/any-or-all/))
 - [ginortS](./ginorts.py) ([site](https://www.hackerrank.com/challenges/ginorts/))
 
