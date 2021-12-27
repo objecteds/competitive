@@ -2,7 +2,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main() {
-    int n; cin >> n;
+    long long n; cin >> n;
     cout << n << ' ';
     while (n != 1) {
         if (n % 2 == 0) {
