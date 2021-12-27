@@ -105,6 +105,7 @@
 - [Floor, Ceil and Rint](./floor-ceil-and-rint.py) ([site](https://www.hackerrank.com/challenges/floor-ceil-and-rint/))
 - [Sum and Prod](./np-sum-and-prod.py) ([site](https://www.hackerrank.com/challenges/np-sum-and-prod/))
 - [Min and Max](./np-min-and-max.py) ([site](https://www.hackerrank.com/challenges/np-min-and-max/))
+- [Mean, Var, and Std](./np-mean-var-and-std.py) ([site](https://www.hackerrank.com/challenges/np-mean-var-and-std/))
 
 ## Debugging
 - [Words Score](./words-score.py) ([site](https://www.hackerrank.com/challenges/words-score/))
