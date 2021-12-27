@@ -92,3 +92,6 @@
 
 ## Numpy
 - [Arrays](./np-arrays.py) ([site](https://www.hackerrank.com/challenges/np-arrays/))
+
+## Debugging
+- [Words Score](./words-score.py) ([site](https://www.hackerrank.com/challenges/words-score/))
