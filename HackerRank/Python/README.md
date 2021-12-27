@@ -33,6 +33,7 @@
 
 ## Sets
 - [Introduction to Sets](./py-introduction-to-sets.py) ([site](https://www.hackerrank.com/challenges/py-introduction-to-sets/))
+- [No Idea!](./no-idea.py) ([site](https://www.hackerrank.com/challenges/no-idea/))
 - [Symmetric Difference](./symmetric-difference.py) ([site](https://www.hackerrank.com/challenges/symmetric-difference/))
 - [Set .add()](./py-set-add.py) ([site](https://www.hackerrank.com/challenges/py-set-add/))
 - [Set .discard(), .remove() & .pop()](./py-set-discard-remove-pop.py) ([site](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/))
