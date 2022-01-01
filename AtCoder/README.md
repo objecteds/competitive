@@ -8,3 +8,4 @@
 - [ABC043B - Unhappy Hacking](ABC043/B) ([link](https://atcoder.jp/contests/abc043/tasks/abc043_b))
 - [ABC043C - Be Together!](ABC043/C) ([link](https://atcoder.jp/contests/abc043/tasks/abc043_c))
 - [ABC043D - Unbalanced](ABC043/D) ([link](https://atcoder.jp/contests/abc043/tasks/abc043_d))
+- [ABC044A - Tak and Hotels](ABC044/A) ([link](https://atcoder.jp/contests/abc044/tasks/abc044_a))
