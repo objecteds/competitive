@@ -16,3 +16,4 @@
 - [ABC046B - Painting Balls with AtCoDeer](ABC046/B) ([link](https://atcoder.jp/contests/abc046/tasks/abc046_b))
 - [ABC047A - Fighting over Candies](ABC047/A) ([link](https://atcoder.jp/contests/abc047/tasks/abc047_a))
 - [ABC047B - Snuke's Coloring 2 (ABC Edit)](ABC047/B) ([link](https://atcoder.jp/contests/abc047/tasks/abc047_b))
+- [ABC047C - 1D Reversi](ABC047/C) ([link](https://atcoder.jp/contests/abc047/tasks/arc063_a))
