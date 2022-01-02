@@ -12,3 +12,4 @@
 - [ABC044B - Beautiful Strings](ABC044/B) ([link](https://atcoder.jp/contests/abc044/tasks/abc044_b))
 - [ABC045A - Trapezoids](ABC045/A) ([link](https://atcoder.jp/contests/abc045/tasks/abc045_a))
 - [ABC045B - Card Game for Three](ABC045/B) ([link](https://atcoder.jp/contests/abc045/tasks/abc045_b))
+- [ABC046A - AtCoDeer and Paint Cans](ABC046/A) ([link](https://atcoder.jp/contests/abc046/tasks/abc046_a))
