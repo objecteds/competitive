@@ -18,3 +18,4 @@
 - [ABC047B - Snuke's Coloring 2 (ABC Edit)](ABC047/B) ([link](https://atcoder.jp/contests/abc047/tasks/abc047_b))
 - [ABC047C - 1D Reversi](ABC047/C) ([link](https://atcoder.jp/contests/abc047/tasks/arc063_a))
 - [ABC048A - AtCoder *** Contest](ABC048/A) ([link](https://atcoder.jp/contests/abc048/tasks/abc048_a))
+- [ABC048B - Between a and b](ABC048/B) ([link](https://atcoder.jp/contests/abc048/tasks/abc048_b))
