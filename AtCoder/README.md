@@ -24,3 +24,4 @@
 - [ABC049B - Thin](ABC049/B) ([link](https://atcoder.jp/contests/abc049/tasks/abc049_b))
 - [ABC050A - Addition and Subtraction Easy](ABC050/A) ([link](https://atcoder.jp/contests/abc050/tasks/abc050_a))
 - [ABC050B - Contest with Drinks Easy](ABC050/B) ([link](https://atcoder.jp/contests/abc050/tasks/abc050_a))
+- [ABC050C - Lining Up](ABC050/C) ([link](https://atcoder.jp/contests/abc050/tasks/arc066_a))
