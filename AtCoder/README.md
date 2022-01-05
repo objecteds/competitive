@@ -22,3 +22,4 @@
 - [ABC048C - Boxes and Candies](ABC048/C) ([link](https://atcoder.jp/contests/abc048/tasks/arc064_a))
 - [ABC049A - UOIAUAI](ABC049/A) ([link](https://atcoder.jp/contests/abc049/tasks/abc049_a))
 - [ABC049B - Thin](ABC049/B) ([link](https://atcoder.jp/contests/abc049/tasks/abc049_b))
+- [ABC050 - Addition and Subtraction Easy](ABC050/A) ([link](https://atcoder.jp/contests/abc050/tasks/abc050_a))
