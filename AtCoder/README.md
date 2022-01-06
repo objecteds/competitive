@@ -27,4 +27,5 @@
 - [ABC050C - Lining Up](ABC050/C) ([link](https://atcoder.jp/contests/abc050/tasks/arc066_a))
 - [ABC051A - Haiku](ABC051/A) ([link](https://atcoder.jp/contests/abc051/tasks/abc051_a))
 - [ABC051B - Sum of Three Integers](ABC051/B) ([link](https://atcoder.jp/contests/abc051/tasks/abc051_b))
+- [ABC051C - Back and Forth](ABC051/C) ([link](https://atcoder.jp/contests/abc051/tasks/abc051_c))
 - [ABC052A - Two Rectangles](ABC052/A) ([link](https://atcoder.jp/contests/abc052/tasks/abc052_a))
