@@ -32,3 +32,4 @@
 - [ABC052B - Increment Decrement](ABC052/B) ([link](https://atcoder.jp/contests/abc052/tasks/abc052_b))
 - [ABC053A - ABC/ARC](ABC053/A) ([link](https://atcoder.jp/contests/abc053/tasks/abc053_a))
 - [ABC053B - A to Z String](ABC053/B) ([link](https://atcoder.jp/contests/abc053/tasks/abc053_b))
+- [ABC234 - Weird Function](ABC234/A) ([link](https://atcoder.jp/contests/abc234/tasks/abc234_a))
