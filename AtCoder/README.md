@@ -32,6 +32,7 @@
 - [ABC052B - Increment Decrement](ABC052/B) ([link](https://atcoder.jp/contests/abc052/tasks/abc052_b))
 - [ABC053A - ABC/ARC](ABC053/A) ([link](https://atcoder.jp/contests/abc053/tasks/abc053_a))
 - [ABC053B - A to Z String](ABC053/B) ([link](https://atcoder.jp/contests/abc053/tasks/abc053_b))
+- [ABC054A - One Card Poker](ABC054/A) ([link](https://atcoder.jp/contests/abc054/tasks/abc054_a))
 - [ABC234A - Weird Function](ABC234/A) ([link](https://atcoder.jp/contests/abc234/tasks/abc234_a))
 - [ABC234B - Longest Segment](ABC234/B) ([link](https://atcoder.jp/contests/abc234/tasks/abc234_b))
 - [ABC234C - Happy New Year!](ABC234/C) ([link](https://atcoder.jp/contests/abc234/tasks/abc234_c))
