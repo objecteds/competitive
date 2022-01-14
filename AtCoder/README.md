@@ -37,6 +37,7 @@
 - [ABC055A - Restaurant](ABC055/A) ([link](https://atcoder.jp/contests/abc055/tasks/abc055_a))
 - [ABC055B - Training Camp](ABC055/B) ([link](https://atcoder.jp/contests/abc055/tasks/abc055_b))
 - [ABC055C - Scc Puzzle](ABC055/C) ([link](https://atcoder.jp/contests/abc055/tasks/arc069_a)
+- [ABC056A - HonestOrDishonest](ABC056/A) ([link](https://atcoder.jp/contests/abc056/tasks/abc056_a))
 - [ABC234A - Weird Function](ABC234/A) ([link](https://atcoder.jp/contests/abc234/tasks/abc234_a))
 - [ABC234B - Longest Segment](ABC234/B) ([link](https://atcoder.jp/contests/abc234/tasks/abc234_b))
 - [ABC234C - Happy New Year!](ABC234/C) ([link](https://atcoder.jp/contests/abc234/tasks/abc234_c))
