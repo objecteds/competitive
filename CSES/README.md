@@ -6,3 +6,4 @@
 - [Permutations (1070)](./Introductory%20Problems/Permutations%20(1070)) ([link](https://cses.fi/problemset/task/1070))
 - [Repetitions (1069)](./Introductory%20Problems/Repetitions%20(1069)) ([link](https://cses.fi/problemset/task/1069))
 - [Weird Algorithm (1068)](./Introductory%20Problems/Weird%20Algorithm%20(1068)) ([link](https://cses.fi/problemset/task/1068))
+- [Number Spiral (1071)](./Introductory%20Problems/Number%20Spiral%20(1071)) ([link](https://cses.fi/problemset/task/1071))
