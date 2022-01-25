@@ -1,0 +1,1 @@
+print("yes dream big") if int(input()) > 50 else print("on the small side")
