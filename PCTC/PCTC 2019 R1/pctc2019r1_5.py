@@ -1,0 +1,1 @@
+print(list(input()).index('F')+1)
