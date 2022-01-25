@@ -1,0 +1,1 @@
+print(int(input())*5+int(input())*8+int(input())*12)
