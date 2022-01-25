@@ -1,0 +1,1 @@
+print("\n".join(["\./"]+['.|.' for i in range(int(input()))]))
