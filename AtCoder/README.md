@@ -42,6 +42,7 @@
 - [ABC057A - Remaining Time](ABC057/A) ([link](https://atcoder.jp/contests/abc057/tasks/abc057_a))
 - [ABC057B - Checkpoints](ABC057/B) ([link](https://atcoder.jp/contests/abc057/tasks/abc057_b))
 - [ABC058A - ι⊥l](ABC058/A) ([link](https://atcoder.jp/contests/abc058/tasks/abc058_a))
+- [ABC058B - ∵∴∵](ABC058/B) ([link](https://atcoder.jp/contests/abc058/tasks/abc058_b))
 - [ABC234A - Weird Function](ABC234/A) ([link](https://atcoder.jp/contests/abc234/tasks/abc234_a))
 - [ABC234B - Longest Segment](ABC234/B) ([link](https://atcoder.jp/contests/abc234/tasks/abc234_b))
 - [ABC234C - Happy New Year!](ABC234/C) ([link](https://atcoder.jp/contests/abc234/tasks/abc234_c))
