@@ -81,6 +81,7 @@
 - [lvm (272)](./problems/lvm%20(272)) ([link](https://dunjudge.me/analysis/problems/272/))
 - [magictrick (457)](./problems/magictrick%20(457)) ([link](https://dunjudge.me/analysis/problems/457/))
 - [marker (22)](./problems/marker%20(22)) ([link](https://dunjudge.me/analysis/problems/22/))
+- [maxdifference (1975)](./problems/maxdifference%20(1975)) ([link](https://dunjudge.me/analysis/problems/1975/))
 - [maximum (180)](./problems/maximum%20(180)) ([link](https://dunjudge.me/analysis/problems/180/))
 - [meanstring (194)](./problems/meanstring%20(194)) ([link](https://dunjudge.me/analysis/problems/194/))
 - [medianstring (195)](./problems/medianstring%20(195)) ([link](https://dunjudge.me/analysis/problems/195/))
