@@ -46,6 +46,7 @@
 - [fraction (1106)](./problems/fraction%20(1106)) ([link](https://dunjudge.me/analysis/problems/1106/))
 - [fuel (846)](./problems/fuel%20(846)) ([link](https://dunjudge.me/analysis/problems/846/))
 - [gcd (208)](./problems/gcd%20(208)) ([link](https://dunjudge.me/analysis/problems/208/))
+- [gecko (273)](./problems/gecko%20(273)) ([link](https://dunjudge.me/analysis/problems/273/))
 - [gift (238)](./problems/gift%20(238)) ([link](https://dunjudge.me/analysis/problems/238/))
 - [gpa (71)](./problems/gpa%20(71)) ([link](https://dunjudge.me/analysis/problems/71/))
 - [grading (318)](./problems/grading%20(318)) ([link](https://dunjudge.me/analysis/problems/318/))
