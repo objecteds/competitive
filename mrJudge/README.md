@@ -121,6 +121,7 @@
 - [stepgame (337)](./problems/stepgame%20(337)) ([link](https://dunjudge.me/analysis/problems/337/))
 - [stringsort (47)](./problems/stringsort%20(47)) ([link](https://dunjudge.me/analysis/problems/47/))
 - [strlineeqn_easy (184)](./problems/strlineeqn_easy%20(184)) ([link](https://dunjudge.me/analysis/problems/184/))
+- [subgraphs (256)](./problems/subgraphs%20(256)) ([link](https://dunjudge.me/analysis/problems/256/))
 - [strlineeqn (183)](./problems/strlineeqn%20(183)) ([link](https://dunjudge.me/analysis/problems/183/))
 - [sumint (25)](./problems/sumint%20(25)) ([link](https://dunjudge.me/analysis/problems/25/))
 - [summation (257)](./problems/summation%20(257)) ([link](https://dunjudge.me/analysis/problems/257/))
