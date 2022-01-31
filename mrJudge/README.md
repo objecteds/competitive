@@ -1,136 +1,136 @@
 # mrJudge 
 
-| <div style="width:170px">Problem Name</div> | <div style="width:170px">ID</div> | <div style="width:170px">Solution Link</div> | Website Link |
-| ------------ | -- | ------------- | ------- |
-| 3n+1 | 65 | [3n+1.cpp](./problems/3n+1.cpp) | [🔗](https://dunjudge.me/analysis/problems/65/) |
-| 7up | 1952 | [7up.cpp](./problems/7up.cpp) | [🔗](https://dunjudge.me/analysis/problems/1952/) |
-| anagramword | 110 | [anagramword.cpp](./problems/anagramword.cpp) | [🔗](https://dunjudge.me/analysis/problems/110/) |
-| area | 72 | [area.cpp](./problems/area.cpp) | [🔗](https://dunjudge.me/analysis/problems/72/) |
-| arrayfind | 209 | [arrayfind.cpp](./problems/arrayfind.cpp) | [🔗](https://dunjudge.me/analysis/problems/209/) |
-| badminton | 721 | [badminton.cpp](./problems/badminton.cpp) | [🔗](https://dunjudge.me/analysis/problems/721/) |
-| badpotato | 500 | [badpotato.cpp](./problems/badpotato.cpp) | [🔗](https://dunjudge.me/analysis/problems/500/) |
-| bananasmoothie | 1997 | [bananasmoothie.cpp](./problems/bananasmoothie.cpp) | [🔗](https://dunjudge.me/analysis/problems/1997/) |
-| basicbinary | 178 | [basicbinary.cpp](./problems/basicbinary.cpp) | [🔗](https://dunjudge.me/analysis/problems/178/) |
-| binarycoins | 474 | [binarycoins.cpp](./problems/binarycoins.cpp) | [🔗](https://dunjudge.me/analysis/problems/474/) |
-| bracket_ex | 1178 | [bracket_ex.cpp](./problems/bracket_ex.cpp) | [🔗](https://dunjudge.me/analysis/problems/1178/) |
-| bracket | 1139 | [bracket.cpp](./problems/bracket.cpp) | [🔗](https://dunjudge.me/analysis/problems/1139/) |
-| breakfast | 294 | [breakfast.cpp](./problems/breakfast.cpp) | [🔗](https://dunjudge.me/analysis/problems/294/) |
-| brick | 1176 | [brick.cpp](./problems/brick.cpp) | [🔗](https://dunjudge.me/analysis/problems/1176/) |
-| bubblesort | 30 | [bubblesort.cpp](./problems/bubblesort.cpp) | [🔗](https://dunjudge.me/analysis/problems/30/) |
-| calculator | 17 | [calculator.cpp](./problems/calculator.cpp) | [🔗](https://dunjudge.me/analysis/problems/17/) |
-| card | 115 | [card.cpp](./problems/card.cpp) | [🔗](https://dunjudge.me/analysis/problems/115/) |
-| carpark | 840 | [carpark.cpp](./problems/carpark.cpp) | [🔗](https://dunjudge.me/analysis/problems/840/) |
-| catletters | 313 | [catletters.cpp](./problems/catletters.cpp) | [🔗](https://dunjudge.me/analysis/problems/313/) |
-| ccs | 628 | [ccs.cpp](./problems/ccs.cpp) | [🔗](https://dunjudge.me/analysis/problems/628/) |
-| chartoint | 41 | [chartoint](./problems/chartoint.cpp) | [🔗](https://dunjudge.me/analysis/problems/41/) |
-| checkerboard | 193 | [checkerboard.cpp](./problems/checkerboard.cpp) | [🔗](https://dunjudge.me/analysis/problems/193/) | 
-| checkmultiples | 179 | [checkmultiples.cpp](./problems/checkmultiples.cpp) | [🔗](https://dunjudge.me/analysis/problems/179/) |
-| checksquare | 64 | [checksquare.cpp](./problems/checksquare.cpp) | [🔗](https://dunjudge.me/analysis/problems/64/) |
-| chinese | 70 | [chinese.cpp](./problems/chinese.cpp) | [🔗](https://dunjudge.me/analysis/problems/70/) |
-| composition | 315 | [composition.cpp](./problems/composition.cpp) | [🔗](https://dunjudge.me/analysis/problems/315/) |
-| contestcalc | 334 | [contestcalc.cpp](./problems/contestcalc.cpp) | [🔗](https://dunjudge.me/analysis/problems/334/) |
-| countalp | 24 | [countalp.cpp](./problems/countalp.cpp) | [🔗](https://dunjudge.me/analysis/problems/24/) |
-| countstars | 55 | [countstars.cpp](./problems/countstars.cpp) | [🔗](https://dunjudge.me/analysis/problems/55/) |
-| csecrets | 225 | [csecrets.cpp](./problems/csecrets.cpp) | [🔗](https://dunjudge.me/analysis/problems/225/) |
-| ctiming | 439 | [ctiming.cpp](./problems/ctiming.cpp) | [🔗](https://dunjudge.me/analysis/problems/439/) |
-| cuberoot | 210 | [cuberoot.cpp](./problems/cuberoot.cpp) | [🔗](https://dunjudge.me/analysis/problems/210/) |
-| descsort | 50 | [descsort.cpp](./problems/descsort.cpp) | [🔗](https://dunjudge.me/analysis/problems/50/) |
-| diamond | 76 | [diamond.cpp](./problems/diamond.cpp) | [🔗](https://dunjudge.me/analysis/problems/76/) |
-| dinner | 296 | [dinner.cpp](./problems/dinner.cpp) | [🔗](https://dunjudge.me/analysis/problems/296/) |
-| evenodd | 135 | [evenodd.cpp](./problems/evenodd.cpp) | [🔗](https://dunjudge.me/analysis/problems/135/) |
-| evenorodd | 19 | [evenorodd.cpp](./problems/evenorodd.cpp) | [🔗](https://dunjudge.me/analysis/problems/19/) |
-| executions | 300 | [executions.cpp](./problems/executions.cpp) | [🔗](https://dunjudge.me/analysis/problems/300/) |
-| exponentiate | 53 | [exponentiate.cpp](./problems/exponentiate.cpp) | [🔗](https://dunjudge.me/analysis/problems/53/) |
-| farming | 302 | [farming.cpp](./problems/farming.cpp) | [🔗](https://dunjudge.me/analysis/problems/302/) |
-| fibo | 54 | [fibo.cpp](./problems/fibo.cpp) | [🔗](https://dunjudge.me/analysis/problems/54/) |
-| flamethrower | 200 | [flamethrower.cpp](./problems/flamethrower.cpp) | [🔗](https://dunjudge.me/analysis/problems/200/) |
-| fraction | 1106 | [fraction.cpp](./problems/fraction.cpp) | [🔗](https://dunjudge.me/analysis/problems/1106/) |
-| fuel | 846 | [fuel.cpp](./problems/fuel.cpp) | [🔗](https://dunjudge.me/analysis/problems/846/) |
-| gcd | 208 | [gcd.cpp](./problems/gcd.cpp) | [🔗](https://dunjudge.me/analysis/problems/208/) |
-| gift | 238 | [gift.cpp](./problems/gift.cpp) | [🔗](https://dunjudge.me/analysis/problems/238/) |
-| gpa | 71 | [gpa.cpp](./problems/gpa.cpp) | [🔗](https://dunjudge.me/analysis/problems/71/) |
-| grading | 318 | [grading.cpp](./problems/grading.cpp) | [🔗](https://dunjudge.me/analysis/problems/318/) |
-| gravityguy | 1329 | [gravityguy.cpp](./problems/gravityguy.cpp) | [🔗](https://dunjudge.me/analysis/problems/1329/) |
-| greeting | 2054 | [greeting.cpp](./problems/greeting.cpp) | [🔗](https://dunjudge.me/analysis/problems/2054/) |
-| GSS | 66 | [GSS.cpp](./problems/GSS.cpp) | [🔗](https://dunjudge.me/analysis/problems/66/) |
-| guanine | 627 | [guanine.cpp](./problems/guanine.cpp) | [🔗](https://dunjudge.me/analysis/problems/627/) |
-| haybales | 452 | [haybales.cpp](./problems/haybales.cpp) | [🔗](https://dunjudge.me/analysis/problems/452/) |
-| hellochecker | 207 | [hellochecker.cpp](./problems/hellochecker.cpp) | [🔗](https://dunjudge.me/analysis/problems/207/) |
-| helloworld | 1 | [helloworld.cpp](./problems/helloworld.cpp) | [🔗](https://dunjudge.me/analysis/problems/1/) |
-| hexadecimal | 48 | [hexadecimal.cpp](./problems/hexadecimal.cpp) | [🔗](https://dunjudge.me/analysis/problems/48/) |
-| hexagon | 362 | [hexagon.cpp](./problems/hexagon.cpp) | [🔗](https://dunjudge.me/analysis/problems/362/) |
-| homework | 258 | [homework.cpp](./problems/homework.cpp) | [🔗](https://dunjudge.me/analysis/problems/258/) |
-| lazysponge | 29 | [lazysponge.cpp](./problems/lazysponge.cpp) | [🔗](https://dunjudge.me/analysis/problems/29/) |
-| leetspeak | 1096 | [leetspeak.cpp](./problems/leetspeak.cpp) | [🔗](https://dunjudge.me/analysis/problems/1096/) |
-| lengthsort | 202 | [lengthsort.cpp](./problems/lengthsort.cpp) | [🔗](https://dunjudge.me/analysis/problems/202/) |
-| lis | 68 | [lis.cpp](./problems/lis.cpp) | [🔗](https://dunjudge.me/analysis/problems/68/) |
-| ljubomora | 1360 | [ljubomora.cpp](./problems/ljubomora.cpp) | [🔗](https://dunjudge.me/analysis/problems/1360/) |
-| lockcode | 33 | [lockcode.cpp](./problems/lockcode.cpp) | [🔗](https://dunjudge.me/analysis/problems/33/) |
-| log2 | 190 | [log2.cpp](./problems/log2.cpp) | [🔗](https://dunjudge.me/analysis/problems/190/) | 
-| longestword | 34 | [longestword.cpp](./problems/longestword.cpp) | [🔗](https://dunjudge.me/analysis/problems/34/) |
-| lunch | 295 | [lunch.cpp](./problems/lunch.cpp) | [🔗](https://dunjudge.me/analysis/problems/295/) |
-| lunchbox | 954 | [lunchbox.cpp](./problems/lunchbox.cpp) | [🔗](https://dunjudge.me/analysis/problems/954/) |
-| lvm | 272 | [lvm.cpp](./problems/lvm.cpp) | [🔗](https://dunjudge.me/analysis/problems/272/) |
-| magictrick | 457 | [magictrick.cpp](./problems/magictrick.cpp) | [🔗](https://dunjudge.me/analysis/problems/457/) |
-| marker | 22 | [marker.cpp](./problems/marker.cpp) | [🔗](https://dunjudge.me/analysis/problems/22/) |
-| maximum | 180 | [maximum.cpp](./problems/maximum.cpp) | [🔗](https://dunjudge.me/analysis/problems/180/) |
-| meanstring | 194 | [meanstring.cpp](./problems/meanstring.cpp) | [🔗](https://dunjudge.me/analysis/problems/194/) |
-| medianstring | 195 | [medianstring.cpp](./problems/medianstring.cpp) | [🔗](https://dunjudge.me/analysis/problems/195/) |
-| minimum | 317 | [minimum.cpp](./problems/minimum.cpp) | [🔗](https://dunjudge.me/analysis/problems/317/) |
-| modestring | 196 | [modestring.cpp](./problems/modestring.cpp) | [🔗](https://dunjudge.me/analysis/problems/196/) |
-| multiples | 23 | [multiples.cpp](./problems/multiples.cpp) | [🔗](https://dunjudge.me/analysis/problems/23/) |
-| nonsequitur | 1335 | [nonsequitur.cpp](./problems/nonsequitur.cpp) | [🔗](https://dunjudge.me/analysis/problems/1335/) |
-| nprime | 271 | [nprime.cpp](./problems/nprime.cpp) | [🔗](https://dunjudge.me/analysis/problems/271/) |
-| numberchecker | 201 | [numberchecker.cpp](./problems/numberchecker.cpp) | [🔗](https://dunjudge.me/analysis/problems/201/) |
-| numberspeak | 1345 | [numberspeak.cpp](./problems/numberspeak.cpp) | [🔗](https://dunjudge.me/analysis/problems/1345/) |
-| oranges | 832 | [oranges.cpp](./problems/oranges.cpp) | [🔗](https://dunjudge.me/analysis/problems/832/) |
-| paint | 215 | [paint.cpp](./problems/paint.cpp) | [🔗](https://dunjudge.me/analysis/problems/215/) |
-| palindromes | 32 | [palindromes.cpp](./problems/palindromes.cpp) | [🔗](https://dunjudge.me/analysis/problems/32/) |
-| palindromicfizzbuzz | 1815 | [palindromicfizzbuzz.cpp](./problems/palindromicfizzbuzz.cpp) | [🔗](https://dunjudge.me/analysis/problems/1815/) |
-| parallelogram | 37 | [parallelogram.cpp](./problems/parallelogram.cpp) | [🔗](https://dunjudge.me/analysis/problems/37/) |
-| pigeonhole_ex | 607 | [pigeonhole_ex.cpp](./problems/pigeonhole_ex.cpp) | [🔗](https://dunjudge.me/analysis/problems/607/) |
-| pigeonhole | 603 | [pigeonhole.cpp](./problems/pigeonhole.cpp) | [🔗](https://dunjudge.me/analysis/problems/603/) |
-| pigeons | 312 | [pigeons.cpp](./problems/pigeons.cpp) | [🔗](https://dunjudge.me/analysis/problems/312/) |
-| pingpong | 321 | [pingpong.cpp](./problems/pingpong.cpp) | [🔗](https://dunjudge.me/analysis/problems/321/) |
-| platform | 831 | [platform.cpp](./problems/platform.cpp) | [🔗](https://dunjudge.me/analysis/problems/831/) |
-| potatoplanting | 343 | [potatoplanting.cpp](./problems/potatoplanting.cpp) | [🔗](https://dunjudge.me/analysis/problems/343/) |
-| potatosalad | 301 | [potatosalad.cpp](./problems/potatosalad.cpp) | [🔗](https://dunjudge.me/analysis/problems/301/) |
-| primalitytesting | 130 | [primalitytesting.cpp](./problems/primalitytesting) | [🔗](https://dunjudge.me/analysis/problems/130/) |
-| prime | 20 | [prime.cpp](./problems/prime.cpp) | [🔗](https://dunjudge.me/analysis/problems/20/ƒ) | 
-| psle | 182 | [psle.cpp](./problems/psle.cpp) | [🔗](https://dunjudge.me/analysis/problems/182/) |
-| pushups | 839 | [pushups.cpp](./problems/pushups.cpp) | [🔗](https://dunjudge.me/analysis/problems/839/) |
-| quadpotato | 304 | [quadpotato.txt](./problems/quadpotato.txt) | [🔗](https://dunjudge.me/analysis/problems/304/) |
-| restaurant | 303 | [restaurant.cpp](./problems/restaurant.cpp) | [🔗](https://dunjudge.me/analysis/problems/303/) |
-| reverse_ioi16 | 1093 | [reverse_ioi16](./problems/reverse_ioi16) | [🔗](https://dunjudge.me/analysis/problems/1093/) |
-| rightangtri | 21 | [rightangtri.cpp](./problems/rightangtri.cpp) | [🔗](https://dunjudge.me/analysis/problems/21/) |
-| scalars | 473 | [scalars.cpp](./problems/scalars.cpp) | [🔗](https://dunjudge.me/analysis/problems/473/) |
-| sharefood | 331 | [sharefood.cpp](./problems/sharefood.cpp) | [🔗](https://dunjudge.me/analysis/problems/331/) |
-| shortestword | 35 | [shortestword.cpp](./problems/shortestword.cpp) | [🔗](https://dunjudge.me/analysis/problems/35/) |
-| smurf | 1707 | [smurf.cpp](./problems/smurf.cpp) | [🔗](https://dunjudge.me/analysis/problems/1707/) |
-| snack | 297 | [snack.cpp](./problems/snack.cpp) | [🔗](https://dunjudge.me/analysis/problems/297/) |
-| sort | 842 | [sort.cpp](./problems/sort.cpp) | [🔗](https://dunjudge.me/analysis/problems/842/) |
-| spacetravel | 206 | [spacetravel.cpp](./problems/spacetravel.cpp) | [🔗](https://dunjudge.me/analysis/problems/206/) |
-| square | 82 | [square.cpp](./problems/square.cpp) | [🔗](https://dunjudge.me/analysis/problems/82/) | 206 | [spacetravel.cpp](./problems/spacetravel.cpp) | [🔗](https://dunjudge.me/analysis/problems/206/) |
-| squarenumbers | 192 | [squarenumbers.cpp](./problems/squarenumbers.cpp) | [🔗](https://dunjudge.me/analysis/problems/192/) |
-| squares | 128 | [squares.cpp](./problems/squares.cpp) | [🔗](https://dunjudge.me/analysis/problems/128/) |
-| stepgame | 337 | [stepgame.cpp](./problems/stepgame.cpp) | [🔗](https://dunjudge.me/analysis/problems/337/) |
-| stringsort | 47 | [stringsort.cpp](./problems/stringsort.cpp) | [🔗](https://dunjudge.me/analysis/problems/47/) |
-| strlineeqn_easy | 184 | [strlineeqn_easy.cpp](./problems/strlineeqn_easy.cpp) | [🔗](https://dunjudge.me/analysis/problems/184/) |
-| strlineeqn | 183 | [strlineeqn.cpp](./strlineeqn.cpp) | [🔗](https://dunjudge.me/analysis/problems/183/) |
-| sumint | 25 | [sumint.cpp](./problems/sumint.cpp) | [🔗](https://dunjudge.me/analysis/problems/25/) |
-| summation | 257 | [summation.cpp](./problems/summation.cpp) | [🔗](https://dunjudge.me/analysis/problems/257/) |
-| sumscore | 49 | [sumscore.cpp](./problems/sumscore.cpp) | [🔗](https://dunjudge.me/analysis/problems/49/) |
-| sumup | 14 | [sumup.cpp](./problems/sumup.cpp) | [🔗](https://dunjudge.me/analysis/problems/14/) |
-| swappingcats | 205 | [swappingcats.cpp](./problems/swappingcats.cpp) | [🔗](https://dunjudge.me/analysis/problems/205/) |
-| tarifa | 1505 | [tarifa.cpp](./problems/tarifa.cpp) | [🔗](https://dunjudge.me/analysis/problems/1505/) |
-| timetraveller | 1493 | [timetraveller.cpp](./problems/timetraveller.cpp) | [🔗](https://dunjudge.me/analysis/problems/1493/) |
-| triangle | 133 | [triangle.cpp](./problems/triangle.cpp) | [🔗](https://dunjudge.me/analysis/problems/133/) |
-| trianglenumbers | 191 | [trianglenumbers.cpp](./problems/trianglenumbers.cpp) | [🔗](https://dunjudge.me/analysis/problems/191/) |
-| uniquenumbers_ex | 354 | [uniquenumbers_ex.cpp](./problems/uniquenumbers_ex.cpp) | [🔗](https://dunjudge.me/analysis/problems/354/) |
-| uniquenumbers | 345 | [uniquenumbers.cpp](./problems/uniquenumbers.cpp) | [🔗](https://dunjudge.me/analysis/problems/345/) |
-| variablenames | 275 | [variablenames.cpp](./problems/variablenames.cpp) | [🔗](https://dunjudge.me/analysis/problems/275/) |
-| washing | 1105 | [washing.cpp](./problems/washing.cpp) | [🔗](https://dunjudge.me/analysis/problems/1105/) |
-| weddingcoins | 290 | [weddingcoins.cpp](./problems/weddingcoins.cpp) | [🔗](https://dunjudge.me/analysis/problems/290/) |
-| whichpanda | 285 | [whichpanda](./problems/whichpanda.cpp) | [🔗](https://dunjudge.me/analysis/problems/285/) |
-| writelines | 31 | [writelines.cpp](./problems/writelines.cpp) | [🔗](https://dunjudge.me/analysis/problems/31/) |
-| xmas | 237 | [xmas.cpp](./problems/xmas.cpp) | [🔗](https://dunjudge.me/analysis/problems/237/) |
+## Problems
+- [3n+1 (65)](./problems/3n+1%20(65)) ([link](https://dunjudge.me/analysis/problems/65/))
+- [7up (1952)](./problems/7up%20(1952)) ([link](https://dunjudge.me/analysis/problems/1952/))
+- [anagramword (110)](./problems/anagramword%20(110)) ([link](https://dunjudge.me/analysis/problems/110/))
+- [area (72)](./problems/area%20(72)) ([link](https://dunjudge.me/analysis/problems/72/))
+- [arrayfind (209)](./problems/arrayfind%20(209)) ([link](https://dunjudge.me/analysis/problems/209/))
+- [badminton (721)](./problems/badminton%20(721)) ([link](https://dunjudge.me/analysis/problems/721/))
+- [badpotato (500)](./problems/badpotato%20(500)) ([link](https://dunjudge.me/analysis/problems/500/))
+- [bananasmoothie (1997)](./problems/bananasmoothie%20(1997)) ([link](https://dunjudge.me/analysis/problems/1997/))
+- [basicbinary (178)](./problems/basicbinary%20(178)) ([link](https://dunjudge.me/analysis/problems/178/))
+- [binarycoins (474)](./problems/binarycoins%20(474)) ([link](https://dunjudge.me/analysis/problems/474/))
+- [bracket_ex (1178)](./problems/bracket_ex%20(1178)) ([link](https://dunjudge.me/analysis/problems/1178/))
+- [bracket (1139)](./problems/bracket%20(1139)) ([link](https://dunjudge.me/analysis/problems/1139/))
+- [breakfast (294)](./problems/breakfast%20(294)) ([link](https://dunjudge.me/analysis/problems/294/))
+- [brick (1176)](./problems/brick%20(1176)) ([link](https://dunjudge.me/analysis/problems/1176/))
+- [bubblesort (30)](./problems/bubblesort%20(30)) ([link](https://dunjudge.me/analysis/problems/30/))
+- [calculator (17)](./problems/calculator%20(17)) ([link](https://dunjudge.me/analysis/problems/17/))
+- [card (115)](./problems/card%20(115)) ([link](https://dunjudge.me/analysis/problems/115/))
+- [carpark (840)](./problems/carpark%20(840)) ([link](https://dunjudge.me/analysis/problems/840/))
+- [catletters (313)](./problems/catletters%20(313)) ([link](https://dunjudge.me/analysis/problems/313/))
+- [ccs (628)](./problems/ccs%20(628)) ([link](https://dunjudge.me/analysis/problems/628/))
+- [chartoint (41)](./problems/chartoint%20(41)) ([link](https://dunjudge.me/analysis/problems/41/))
+- [checkerboard (193)](./problems/checkerboard%20(193)) ([link](https://dunjudge.me/analysis/problems/193/))
+- [checkmultiples (179)](./problems/checkmultiples%20(179)) ([link](https://dunjudge.me/analysis/problems/179/))
+- [checksquare (64)](./problems/checksquare%20(64)) ([link](https://dunjudge.me/analysis/problems/64/))
+- [chinese (70)](./problems/chinese%20(70)) ([link](https://dunjudge.me/analysis/problems/70/))
+- [composition (315)](./problems/composition%20(315)) ([link](https://dunjudge.me/analysis/problems/315/))
+- [contestcalc (334)](./problems/contestcalc%20(334)) ([link](https://dunjudge.me/analysis/problems/334/))
+- [countalp (24)](./problems/countalp%20(24)) ([link](https://dunjudge.me/analysis/problems/24/))
+- [countstars (55)](./problems/countstars%20(55)) ([link](https://dunjudge.me/analysis/problems/55/))
+- [csecrets (225)](./problems/csecrets%20(225)) ([link](https://dunjudge.me/analysis/problems/225/))
+- [ctiming (439)](./problems/ctiming%20(439)) ([link](https://dunjudge.me/analysis/problems/439/))
+- [cuberoot (210)](./problems/cuberoot%20(210)) ([link](https://dunjudge.me/analysis/problems/210/))
+- [descsort (50)](./problems/descsort%20(50)) ([link](https://dunjudge.me/analysis/problems/50/))
+- [diamond (76)](./problems/diamond%20(76)) ([link](https://dunjudge.me/analysis/problems/76/))
+- [dinner (296)](./problems/dinner%20(296)) ([link](https://dunjudge.me/analysis/problems/296/))
+- [evenodd (135)](./problems/evenodd%20(135)) ([link](https://dunjudge.me/analysis/problems/135/))
+- [evenorodd (19)](./problems/evenorodd%20(19)) ([link](https://dunjudge.me/analysis/problems/19/))
+- [executions (300)](./problems/executions%20(300)) ([link](https://dunjudge.me/analysis/problems/300/))
+- [exponentiate (53)](./problems/exponentiate%20(53)) ([link](https://dunjudge.me/analysis/problems/53/))
+- [farming (302)](./problems/farming%20(302)) ([link](https://dunjudge.me/analysis/problems/302/))
+- [fibo (54)](./problems/fibo%20(54)) ([link](https://dunjudge.me/analysis/problems/54/))
+- [flamethrower (200)](./problems/flamethrower%20(200)) ([link](https://dunjudge.me/analysis/problems/200/))
+- [fraction (1106)](./problems/fraction%20(1106)) ([link](https://dunjudge.me/analysis/problems/1106/))
+- [fuel (846)](./problems/fuel%20(846)) ([link](https://dunjudge.me/analysis/problems/846/))
+- [gcd (208)](./problems/gcd%20(208)) ([link](https://dunjudge.me/analysis/problems/208/))
+- [gift (238)](./problems/gift%20(238)) ([link](https://dunjudge.me/analysis/problems/238/))
+- [gpa (71)](./problems/gpa%20(71)) ([link](https://dunjudge.me/analysis/problems/71/))
+- [grading (318)](./problems/grading%20(318)) ([link](https://dunjudge.me/analysis/problems/318/))
+- [gravityguy (1329)](./problems/gravityguy%20(1329)) ([link](https://dunjudge.me/analysis/problems/1329/))
+- [greeting (2054)](./problems/greeting%20(2054)) ([link](https://dunjudge.me/analysis/problems/2054/))
+- [GSS (66)](./problems/GSS%20(66)) ([link](https://dunjudge.me/analysis/problems/66/))
+- [guanine (627)](./problems/guanine%20(627)) ([link](https://dunjudge.me/analysis/problems/627/))
+- [haybales (452)](./problems/haybales%20(452)) ([link](https://dunjudge.me/analysis/problems/452/))
+- [hellochecker (207)](./problems/hellochecker%20(207)) ([link](https://dunjudge.me/analysis/problems/207/))
+- [helloworld (1)](./problems/helloworld%20(1)) ([link](https://dunjudge.me/analysis/problems/1/))
+- [hexadecimal (48)](./problems/hexadecimal%20(48)) ([link](https://dunjudge.me/analysis/problems/48/))
+- [hexagon (362)](./problems/hexagon%20(362)) ([link](https://dunjudge.me/analysis/problems/362/))
+- [homework (258)](./problems/homework%20(258)) ([link](https://dunjudge.me/analysis/problems/258/))
+- [jacketorme (291)](./problems/jacketorme%20(291)) ([link](https://dunjudge.me/analysis/problems/291/))
+- [lazysponge (29)](./problems/lazysponge%20(29)) ([link](https://dunjudge.me/analysis/problems/29/))
+- [leetspeak (1096)](./problems/leetspeak%20(1096)) ([link](https://dunjudge.me/analysis/problems/1096/))
+- [lengthsort (202)](./problems/lengthsort%20(202)) ([link](https://dunjudge.me/analysis/problems/202/))
+- [lis (68)](./problems/lis%20(68)) ([link](https://dunjudge.me/analysis/problems/68/))
+- [ljubomora (1360)](./problems/ljubomora%20(1360)) ([link](https://dunjudge.me/analysis/problems/1360/))
+- [lockcode (33)](./problems/lockcode%20(33)) ([link](https://dunjudge.me/analysis/problems/33/))
+- [log2 (190)](./problems/log2%20(190)) ([link](https://dunjudge.me/analysis/problems/190/))
+- [longestword (34)](./problems/longestword%20(34)) ([link](https://dunjudge.me/analysis/problems/34/))
+- [lunch (295)](./problems/lunch%20(295)) ([link](https://dunjudge.me/analysis/problems/295/))
+- [lunchbox (294)](./problems/lunchbox%20(294)) ([link](https://dunjudge.me/analysis/problems/294/))
+- [lvm (272)](./problems/lvm%20(272)) ([link](https://dunjudge.me/analysis/problems/272/))
+- [magictrick (457)](./problems/magictrick%20(457)) ([link](https://dunjudge.me/analysis/problems/457/))
+- [marker (22)](./problems/marker%20(22)) ([link](https://dunjudge.me/analysis/problems/22/))
+- [maximum (180)](./problems/maximum%20(180)) ([link](https://dunjudge.me/analysis/problems/180/))
+- [meanstring (194)](./problems/meanstring%20(194)) ([link](https://dunjudge.me/analysis/problems/194/))
+- [medianstring (195)](./problems/medianstring%20(195)) ([link](https://dunjudge.me/analysis/problems/195/))
+- [minimum (317)](./problems/minimum%20(317)) ([link](https://dunjudge.me/analysis/problems/317/))
+- [modestring (196)](./problems/modestring%20(196)) ([link](https://dunjudge.me/analysis/problems/196/))
+- [multiples (23)](./problems/multiples%20(23)) ([link](https://dunjudge.me/analysis/problems/23/))
+- [nonsequitur (1335)](./problems/nonsequitur%20(1335)) ([link](https://dunjudge.me/analysis/problems/1335/))
+- [nprime (271)](./problems/nprime%20(271)) ([link](https://dunjudge.me/analysis/problems/271/))
+- [numberchecker (201)](./problems/numberchecker%20(201)) ([link](https://dunjudge.me/analysis/problems/201/))
+- [numberspeak (1345)](./problems/numberspeak%20(1345)) ([link](https://dunjudge.me/analysis/problems/1345/))
+- [oranges (832)](./problems/oranges%20(832)) ([link](https://dunjudge.me/analysis/problems/832/))
+- [paint (215)](./problems/paint%20(215)) ([link](https://dunjudge.me/analysis/problems/215/))
+- [palindromes (32)](./problems/palindromes%20(32)) ([link](https://dunjudge.me/analysis/problems/32/))
+- [palindromicfizzbuzz (1815)](./problems/palindromicfizzbuzz%20(1815)) ([link](https://dunjudge.me/analysis/problems/1815/))
+- [parallelogram (37)](./problems/parallelogram%20(37)) ([link](https://dunjudge.me/analysis/problems/37/))
+- [pigeonhole_ex (607)](./problems/pigeonhole_ex%20(607)) ([link](https://dunjudge.me/analysis/problems/607/))
+- [pigeonhole (603)](./problems/pigeonhole%20(603)) ([link](https://dunjudge.me/analysis/problems/603/))
+- [pigeons (312)](./problems/pigeons%20(312)) ([link](https://dunjudge.me/analysis/problems/312/))
+- [pingpong (321)](./problems/pingpong%20(321)) ([link](https://dunjudge.me/analysis/problems/321/))
+- [platform (831)](./problems/platform%20(831)) ([link](https://dunjudge.me/analysis/problems/831/))
+- [potatoplanting (343)](./problems/potatoplanting%20(343)) ([link](https://dunjudge.me/analysis/problems/343/))
+- [potatosalad (301)](./problems/potatosalad%20(301)) ([link](https://dunjudge.me/analysis/problems/301/))
+- [primalitytesting (130)](./problems/primalitytesting%20(130)) ([link](https://dunjudge.me/analysis/problems/130/))
+- [prime (20)](./problems/prime%20(20)) ([link](https://dunjudge.me/analysis/problems/20/))
+- [psle (182)](./problems/psle%20(182)) ([link](https://dunjudge.me/analysis/problems/182/))
+- [pushups (839)](./problems/pushups%20(839)) ([link](https://dunjudge.me/analysis/problems/839/))
+- [quadpotato (304)](./problems/quadpotato%20(304)) ([link](https://dunjudge.me/analysis/problems/304/))
+- [restaurant (303)](./problems/restaurant%20(303)) ([link](https://dunjudge.me/analysis/problems/303/))
+- [reverse_ioi16 (1093)](./problems/reverse_ioi16%20(1093)) ([link](https://dunjudge.me/analysis/problems/1093/))
+- [rightangtri (21)](./problems/rightangtri%20(21)) ([link](https://dunjudge.me/analysis/problems/21/))
+- [scalars (473)](./problems/scalars%20(473)) ([link](https://dunjudge.me/analysis/problems/473/))
+- [sharefood (331)](./problems/sharefood%20(331)) ([link](https://dunjudge.me/analysis/problems/331/))
+- [shortestword (35)](./problems/shortestword%20(35)) ([link](https://dunjudge.me/analysis/problems/35/))
+- [smurf (1707)](./problems/smurf%20(1707)) ([link](https://dunjudge.me/analysis/problems/1707/))
+- [snack (297)](./problems/snack%20(297)) ([link](https://dunjudge.me/analysis/problems/297/))
+- [sort (842)](./problems/sort%20(842)) ([link](https://dunjudge.me/analysis/problems/842/))
+- [spacetravel (206)](./problems/spacetravel%20(206)) ([link](https://dunjudge.me/analysis/problems/206/))
+- [square (82)](./problems/square%20(82)) ([link](https://dunjudge.me/analysis/problems/82/))
+- [squarenumbers (192)](./problems/squarenumbers%20(192)) ([link](https://dunjudge.me/analysis/problems/192/))
+- [squares (128)](./problems/squares%20(128)) ([link](https://dunjudge.me/analysis/problems/128/))
+- [stepgame (337)](./problems/stepgame%20(337)) ([link](https://dunjudge.me/analysis/problems/337/))
+- [stringsort (47)](./problems/stringsort%20(47)) ([link](https://dunjudge.me/analysis/problems/47/))
+- [strlineeqn_easy (184)](./problems/strlineeqn_easy%20(184)) ([link](https://dunjudge.me/analysis/problems/184/))
+- [strlineeqn (183)](./problems/strlineeqn%20(183)) ([link](https://dunjudge.me/analysis/problems/183/))
+- [sumint (25)](./problems/sumint%20(25)) ([link](https://dunjudge.me/analysis/problems/25/))
+- [summation (257)](./problems/summation%20(257)) ([link](https://dunjudge.me/analysis/problems/257/))
+- [sumscore (49)](./problems/sumscore%20(49)) ([link](https://dunjudge.me/analysis/problems/49/))
+- [sumup (14)](./problems/sumup%20(14)) ([link](https://dunjudge.me/analysis/problems/14/))
+- [swappingcats (205)](./problems/swappingcats%20(205)) ([link](https://dunjudge.me/analysis/problems/205/))
+- [tarifa (1505)](./problems/tarifa%20(1505)) ([link](https://dunjudge.me/analysis/problems/1505/))
+- [timetraveller (1493)](./problems/timetraveller%20(1493)) ([link](https://dunjudge.me/analysis/problems/1493/))
+- [triangle (133)](./problems/triangle%20(133)) ([link](https://dunjudge.me/analysis/problems/133/))
+- [trianglenumbers (191)](./problems/trianglenumbers%20(191)) ([link](https://dunjudge.me/analysis/problems/191/))
+- [uniquenumbers_ex (354)](./problems/uniquenumbers_ex%20(354)) ([link](https://dunjudge.me/analysis/problems/354/))
+- [uniquenumbers (345)](./problems/uniquenumbers%20(345)) ([link](https://dunjudge.me/analysis/problems/345/))
+- [variablenames (275)](./problems/variablenames%20(275)) ([link](https://dunjudge.me/analysis/problems/275/))
+- [washing (1105)](./problems/washing%20(1105)) ([link](https://dunjudge.me/analysis/problems/1105/))
+- [weddingcoins (290)](./problems/weddingcoins%20(290)) ([link](https://dunjudge.me/analysis/problems/290/))
+- [whichpanda (285)](./problems/whichpanda%20(285)) ([link](https://dunjudge.me/analysis/problems/285/))
+- [writelines (31)](./problems/writelines%20(31)) ([link](https://dunjudge.me/analysis/problems/31/))
+- [xmas (237)](./problems/xmas%20(237)) ([link](https://dunjudge.me/analysis/problems/237/))
