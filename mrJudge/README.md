@@ -63,6 +63,7 @@
 - [homework (258)](./problems/homework%20(258)) ([link](https://dunjudge.me/analysis/problems/258/))
 - [jacketorme (291)](./problems/jacketorme%20(291)) ([link](https://dunjudge.me/analysis/problems/291/))
 - [lazysponge (29)](./problems/lazysponge%20(29)) ([link](https://dunjudge.me/analysis/problems/29/))
+- [lcs (171)](./problems/lcs%20(171)) ([link](https://dunjudge.me/analysis/problems/171/))
 - [leetspeak (1096)](./problems/leetspeak%20(1096)) ([link](https://dunjudge.me/analysis/problems/1096/))
 - [lengthsort (202)](./problems/lengthsort%20(202)) ([link](https://dunjudge.me/analysis/problems/202/))
 - [lis (68)](./problems/lis%20(68)) ([link](https://dunjudge.me/analysis/problems/68/))
