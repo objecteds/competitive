@@ -26,6 +26,7 @@
 - [checkmultiples (179)](./problems/checkmultiples%20(179)) ([link](https://dunjudge.me/analysis/problems/179/))
 - [checksquare (64)](./problems/checksquare%20(64)) ([link](https://dunjudge.me/analysis/problems/64/))
 - [chinese (70)](./problems/chinese%20(70)) ([link](https://dunjudge.me/analysis/problems/70/))
+- [cnyfood (1181)](./problems/cnyfood%20(1181)) ([link](https://dunjudge.me/analysis/problems/1181/))
 - [composition (315)](./problems/composition%20(315)) ([link](https://dunjudge.me/analysis/problems/315/))
 - [contestcalc (334)](./problems/contestcalc%20(334)) ([link](https://dunjudge.me/analysis/problems/334/))
 - [countalp (24)](./problems/countalp%20(24)) ([link](https://dunjudge.me/analysis/problems/24/))
