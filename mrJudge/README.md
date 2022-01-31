@@ -143,5 +143,6 @@
 - [washing (1105)](./problems/washing%20(1105)) ([link](https://dunjudge.me/analysis/problems/1105/))
 - [weddingcoins (290)](./problems/weddingcoins%20(290)) ([link](https://dunjudge.me/analysis/problems/290/))
 - [whichpanda (285)](./problems/whichpanda%20(285)) ([link](https://dunjudge.me/analysis/problems/285/))
+- [word (131)](./problems/word%20(131)) ([link](https://dunjudge.me/analysis/problems/131/))
 - [writelines (31)](./problems/writelines%20(31)) ([link](https://dunjudge.me/analysis/problems/31/))
 - [xmas (237)](./problems/xmas%20(237)) ([link](https://dunjudge.me/analysis/problems/237/))
