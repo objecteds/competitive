@@ -93,6 +93,7 @@
 - [palindromes (32)](./problems/palindromes%20(32)) ([link](https://dunjudge.me/analysis/problems/32/))
 - [palindromicfizzbuzz (1815)](./problems/palindromicfizzbuzz%20(1815)) ([link](https://dunjudge.me/analysis/problems/1815/))
 - [parallelogram (37)](./problems/parallelogram%20(37)) ([link](https://dunjudge.me/analysis/problems/37/))
+- [pascal (52)](./problems/pascal%20(52)) ([link](https://dunjudge.me/analysis/problems/52/))
 - [pigeonhole_ex (607)](./problems/pigeonhole_ex%20(607)) ([link](https://dunjudge.me/analysis/problems/607/))
 - [pigeonhole (603)](./problems/pigeonhole%20(603)) ([link](https://dunjudge.me/analysis/problems/603/))
 - [pigeons (312)](./problems/pigeons%20(312)) ([link](https://dunjudge.me/analysis/problems/312/))
