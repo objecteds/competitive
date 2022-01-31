@@ -36,6 +36,7 @@
 - [descsort (50)](./problems/descsort%20(50)) ([link](https://dunjudge.me/analysis/problems/50/))
 - [diamond (76)](./problems/diamond%20(76)) ([link](https://dunjudge.me/analysis/problems/76/))
 - [dinner (296)](./problems/dinner%20(296)) ([link](https://dunjudge.me/analysis/problems/296/))
+- [eatingsymbols (1974)](./problems/eatingsymbols%20(1974)) ([link](https://dunjudge.me/analysis/problems/1974/))
 - [evenodd (135)](./problems/evenodd%20(135)) ([link](https://dunjudge.me/analysis/problems/135/))
 - [evenorodd (19)](./problems/evenorodd%20(19)) ([link](https://dunjudge.me/analysis/problems/19/))
 - [executions (300)](./problems/executions%20(300)) ([link](https://dunjudge.me/analysis/problems/300/))
