@@ -110,6 +110,7 @@
 - [snack (297)](./problems/snack%20(297)) ([link](https://dunjudge.me/analysis/problems/297/))
 - [sort (842)](./problems/sort%20(842)) ([link](https://dunjudge.me/analysis/problems/842/))
 - [spacetravel (206)](./problems/spacetravel%20(206)) ([link](https://dunjudge.me/analysis/problems/206/))
+- [splithunny (51)](./problems/splithunny%20(51)) ([link](https://dunjudge.me/analysis/problems/51/))
 - [square (82)](./problems/square%20(82)) ([link](https://dunjudge.me/analysis/problems/82/))
 - [squarenumbers (192)](./problems/squarenumbers%20(192)) ([link](https://dunjudge.me/analysis/problems/192/))
 - [squares (128)](./problems/squares%20(128)) ([link](https://dunjudge.me/analysis/problems/128/))
