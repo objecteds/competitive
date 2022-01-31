@@ -84,6 +84,7 @@
 - [meanstring (194)](./problems/meanstring%20(194)) ([link](https://dunjudge.me/analysis/problems/194/))
 - [medianstring (195)](./problems/medianstring%20(195)) ([link](https://dunjudge.me/analysis/problems/195/))
 - [minimum (317)](./problems/minimum%20(317)) ([link](https://dunjudge.me/analysis/problems/317/))
+- [minstack (1116)](./problems/minstack%20(1116)) ([link](https://dunjudge.me/analysis/problems/1116/))
 - [modestring (196)](./problems/modestring%20(196)) ([link](https://dunjudge.me/analysis/problems/196/))
 - [mrt (226)](./problems/mrt%20(226)) ([link](https://dunjudge.me/analysis/problems/226/))
 - [multiples (23)](./problems/multiples%20(23)) ([link](https://dunjudge.me/analysis/problems/23/))
