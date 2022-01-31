@@ -66,6 +66,7 @@
 - [leetspeak (1096)](./problems/leetspeak%20(1096)) ([link](https://dunjudge.me/analysis/problems/1096/))
 - [lengthsort (202)](./problems/lengthsort%20(202)) ([link](https://dunjudge.me/analysis/problems/202/))
 - [lis (68)](./problems/lis%20(68)) ([link](https://dunjudge.me/analysis/problems/68/))
+- [lis_ex (228)](./problems/lis_ex%20(228)) ([link](https://dunjudge.me/analysis/problems/228/))
 - [ljubomora (1360)](./problems/ljubomora%20(1360)) ([link](https://dunjudge.me/analysis/problems/1360/))
 - [lockcode (33)](./problems/lockcode%20(33)) ([link](https://dunjudge.me/analysis/problems/33/))
 - [log2 (190)](./problems/log2%20(190)) ([link](https://dunjudge.me/analysis/problems/190/))
