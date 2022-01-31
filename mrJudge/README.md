@@ -44,6 +44,7 @@
 - [fibo (54)](./problems/fibo%20(54)) ([link](https://dunjudge.me/analysis/problems/54/))
 - [flamethrower (200)](./problems/flamethrower%20(200)) ([link](https://dunjudge.me/analysis/problems/200/))
 - [flybot (6)](./problems/flybot%20(6)) ([link](https://dunjudge.me/analysis/problems/6/))
+- [foreveralone (1191)](./problems/foreveralone%20(1191)) ([link](https://dunjudge.me/analysis/problems/1191/))
 - [fraction (1106)](./problems/fraction%20(1106)) ([link](https://dunjudge.me/analysis/problems/1106/))
 - [fuel (846)](./problems/fuel%20(846)) ([link](https://dunjudge.me/analysis/problems/846/))
 - [gcd (208)](./problems/gcd%20(208)) ([link](https://dunjudge.me/analysis/problems/208/))
