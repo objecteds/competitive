@@ -65,6 +65,7 @@
 - [hexadecimal (48)](./problems/hexadecimal%20(48)) ([link](https://dunjudge.me/analysis/problems/48/))
 - [hexagon (362)](./problems/hexagon%20(362)) ([link](https://dunjudge.me/analysis/problems/362/))
 - [homework (258)](./problems/homework%20(258)) ([link](https://dunjudge.me/analysis/problems/258/))
+- [indivisibility (1341)](./problems/indivisibility%20(1341)) ([link](https://dunjudge.me/analysis/problems/1341/))
 - [jacketorme (291)](./problems/jacketorme%20(291)) ([link](https://dunjudge.me/analysis/problems/291/))
 - [lazysponge (29)](./problems/lazysponge%20(29)) ([link](https://dunjudge.me/analysis/problems/29/))
 - [lcs (171)](./problems/lcs%20(171)) ([link](https://dunjudge.me/analysis/problems/171/))
