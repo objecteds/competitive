@@ -104,6 +104,7 @@
 - [pigeonhole_ex (607)](./problems/pigeonhole_ex%20(607)) ([link](https://dunjudge.me/analysis/problems/607/))
 - [pigeonhole (603)](./problems/pigeonhole%20(603)) ([link](https://dunjudge.me/analysis/problems/603/))
 - [pigeons (312)](./problems/pigeons%20(312)) ([link](https://dunjudge.me/analysis/problems/312/))
+- [ping (1822)](./problems/ping%20(1822)) ([link](https://dunjudge.me/analysis/problems/1822/))
 - [pingpong (321)](./problems/pingpong%20(321)) ([link](https://dunjudge.me/analysis/problems/321/))
 - [platform (831)](./problems/platform%20(831)) ([link](https://dunjudge.me/analysis/problems/831/))
 - [potatoplanting (343)](./problems/potatoplanting%20(343)) ([link](https://dunjudge.me/analysis/problems/343/))
