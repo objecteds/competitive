@@ -70,6 +70,7 @@
 - [lazysponge (29)](./problems/lazysponge%20(29)) ([link](https://dunjudge.me/analysis/problems/29/))
 - [lcs (171)](./problems/lcs%20(171)) ([link](https://dunjudge.me/analysis/problems/171/))
 - [leetspeak (1096)](./problems/leetspeak%20(1096)) ([link](https://dunjudge.me/analysis/problems/1096/))
+- [leftright (1978)](./problems/leftright%20(1978)) ([link](https://dunjudge.me/analysis/problems/1978/))
 - [lengthsort (202)](./problems/lengthsort%20(202)) ([link](https://dunjudge.me/analysis/problems/202/))
 - [lis (68)](./problems/lis%20(68)) ([link](https://dunjudge.me/analysis/problems/68/))
 - [lis_ex (228)](./problems/lis_ex%20(228)) ([link](https://dunjudge.me/analysis/problems/228/))
