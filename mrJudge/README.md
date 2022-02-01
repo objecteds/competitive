@@ -139,6 +139,7 @@
 - [sumup (14)](./problems/sumup%20(14)) ([link](https://dunjudge.me/analysis/problems/14/))
 - [swappingcats (205)](./problems/swappingcats%20(205)) ([link](https://dunjudge.me/analysis/problems/205/))
 - [tarifa (1505)](./problems/tarifa%20(1505)) ([link](https://dunjudge.me/analysis/problems/1505/))
+- [threeint (1713)](./problems/threeint%20(1713)) ([link](https://dunjudge.me/analysis/problems/1713/))
 - [timetraveller (1493)](./problems/timetraveller%20(1493)) ([link](https://dunjudge.me/analysis/problems/1493/))
 - [triangle (133)](./problems/triangle%20(133)) ([link](https://dunjudge.me/analysis/problems/133/))
 - [trianglenumbers (191)](./problems/trianglenumbers%20(191)) ([link](https://dunjudge.me/analysis/problems/191/))
