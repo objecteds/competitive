@@ -153,6 +153,7 @@
 - [uniquenumbers (345)](./problems/uniquenumbers%20(345)) ([link](https://dunjudge.me/analysis/problems/345/))
 - [variablenames (275)](./problems/variablenames%20(275)) ([link](https://dunjudge.me/analysis/problems/275/))
 - [washing (1105)](./problems/washing%20(1105)) ([link](https://dunjudge.me/analysis/problems/1105/))
+- [walkteleport (1755)](./problems/walkteleport%20(1755)) ([link](https://dunjudge.me/analysis/problems/1755/))
 - [weddingcoins (290)](./problems/weddingcoins%20(290)) ([link](https://dunjudge.me/analysis/problems/290/))
 - [whichpanda (285)](./problems/whichpanda%20(285)) ([link](https://dunjudge.me/analysis/problems/285/))
 - [word (131)](./problems/word%20(131)) ([link](https://dunjudge.me/analysis/problems/131/))
