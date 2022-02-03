@@ -115,6 +115,7 @@
 - [potatosalad (301)](./problems/potatosalad%20(301)) ([link](https://dunjudge.me/analysis/problems/301/))
 - [primalitytesting (130)](./problems/primalitytesting%20(130)) ([link](https://dunjudge.me/analysis/problems/130/))
 - [prime (20)](./problems/prime%20(20)) ([link](https://dunjudge.me/analysis/problems/20/))
+- [primefactorization (176)](./problems/primefactorization%20(176)) ([link](https://dunjudge.me/analysis/problems/176/))
 - [psle (182)](./problems/psle%20(182)) ([link](https://dunjudge.me/analysis/problems/182/))
 - [pushups (839)](./problems/pushups%20(839)) ([link](https://dunjudge.me/analysis/problems/839/))
 - [quadpotato (304)](./problems/quadpotato%20(304)) ([link](https://dunjudge.me/analysis/problems/304/))
