@@ -32,6 +32,7 @@
 - [countalp (24)](./problems/countalp%20(24)) ([link](https://dunjudge.me/analysis/problems/24/))
 - [countconst (56)](./problems/countconst%20(56)) ([link](https://dunjudge.me/analysis/problems/56/))
 - [countstars (55)](./problems/countstars%20(55)) ([link](https://dunjudge.me/analysis/problems/55/))
+- [crunchy (214)](./problems/crunchy%20(214)) ([link](https://dunjudge.me/analysis/problems/214/))
 - [csecrets (225)](./problems/csecrets%20(225)) ([link](https://dunjudge.me/analysis/problems/225/))
 - [ctiming (439)](./problems/ctiming%20(439)) ([link](https://dunjudge.me/analysis/problems/439/))
 - [cuberoot (210)](./problems/cuberoot%20(210)) ([link](https://dunjudge.me/analysis/problems/210/))
