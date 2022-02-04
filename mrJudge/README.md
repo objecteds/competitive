@@ -66,6 +66,7 @@
 - [haybales (452)](./problems/haybales%20(452)) ([link](https://dunjudge.me/analysis/problems/452/))
 - [hellochecker (207)](./problems/hellochecker%20(207)) ([link](https://dunjudge.me/analysis/problems/207/))
 - [helloworld (1)](./problems/helloworld%20(1)) ([link](https://dunjudge.me/analysis/problems/1/))
+- [helloworld_ex (349)](./problems/helloworld_ex%20(349)) ([link](https://dunjudge.me/analysis/problems/349/))
 - [hexadecimal (48)](./problems/hexadecimal%20(48)) ([link](https://dunjudge.me/analysis/problems/48/))
 - [hexagon (362)](./problems/hexagon%20(362)) ([link](https://dunjudge.me/analysis/problems/362/))
 - [homework (258)](./problems/homework%20(258)) ([link](https://dunjudge.me/analysis/problems/258/))
