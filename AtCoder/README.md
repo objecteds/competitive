@@ -49,4 +49,5 @@
 - [ABC234A - Weird Function](ABC234/A) ([link](https://atcoder.jp/contests/abc234/tasks/abc234_a))
 - [ABC234B - Longest Segment](ABC234/B) ([link](https://atcoder.jp/contests/abc234/tasks/abc234_b))
 - [ABC234C - Happy New Year!](ABC234/C) ([link](https://atcoder.jp/contests/abc234/tasks/abc234_c))
-- [ABC248A - Exponential or Quadratic](ABC248/A) ([link](https://atcoder.jp/contests/abc248/tasks/abc248_a))
+- [ABC238A - Exponential or Quadratic](ABC238/A) ([link](https://atcoder.jp/contests/abc238/tasks/abc238_a))
+- [ABC238B - Pizza](ABC238/B) ([link](https://atcoder.jp/contests/abc238/tasks/abc238_b))
