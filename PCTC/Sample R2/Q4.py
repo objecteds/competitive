@@ -1,0 +1,1 @@
+print(input()[::-1]*int(input()))
