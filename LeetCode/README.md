@@ -1,6 +1,7 @@
 # LeetCode
 
 ## Problems
+35: [Search Insert Position](./problems/Search%20Insert%20Position/) ([link](https://leetcode.com/problems/search-insert-position/))
 278: [First Bad Version](./problems/First%20Bad%20Version/) ([link](https://leetcode.com/problems/first-bad-version/))
 485: [Max Consecutive Ones](./problems/Max%20Consecutive%20Ones/) ([link](https://leetcode.com/problems/max-consecutive-ones/))
 704: [Binary Search](./problems/Binary%20Search/) ([link](https://leetcode.com/problems/binary-search/))
