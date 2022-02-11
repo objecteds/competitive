@@ -6,6 +6,7 @@
 - 189: [Rotate Array](./problems/Rotate%20Array/) ([link](https://leetcode.com/problems/rotate-array/))
 - 278: [First Bad Version](./problems/First%20Bad%20Version/) ([link](https://leetcode.com/problems/first-bad-version/))
 - 283: [Move Zeroes](./problems/Move%20Zeroes/) ([link](https://leetcode.com/problems/move-zeroes/))
+- 344: [Reverse String](./problems/Reverse%20String/) ([link](https://leetcode.com/problems/reverse-string/))
 - 485: [Max Consecutive Ones](./problems/Max%20Consecutive%20Ones/) ([link](https://leetcode.com/problems/max-consecutive-ones/))
 - 704: [Binary Search](./problems/Binary%20Search/) ([link](https://leetcode.com/problems/binary-search/))
 - 977: [Squares of a Sorted Array](./problems/Squares%20of%20a%20Sorted%20Array/) ([link](https://leetcode.com/problems/squares-of-a-sorted-array/))
