@@ -65,6 +65,7 @@
 - [GSS (66)](./problems/GSS%20(66)) ([link](https://dunjudge.me/analysis/problems/66/))
 - [guanine (627)](./problems/guanine%20(627)) ([link](https://dunjudge.me/analysis/problems/627/))
 - [haybales (452)](./problems/haybales%20(452)) ([link](https://dunjudge.me/analysis/problems/452/))
+- [heatwv (104)](./problems/heatwv%20(104)) ([link](https://dunjudge.me/analysis/problems/104/))
 - [hellochecker (207)](./problems/hellochecker%20(207)) ([link](https://dunjudge.me/analysis/problems/207/))
 - [helloworld (1)](./problems/helloworld%20(1)) ([link](https://dunjudge.me/analysis/problems/1/))
 - [helloworld_ex (349)](./problems/helloworld_ex%20(349)) ([link](https://dunjudge.me/analysis/problems/349/))
