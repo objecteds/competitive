@@ -146,6 +146,7 @@
 - [summation (257)](./problems/summation%20(257)) ([link](https://dunjudge.me/analysis/problems/257/))
 - [sumscore (49)](./problems/sumscore%20(49)) ([link](https://dunjudge.me/analysis/problems/49/))
 - [sumup (14)](./problems/sumup%20(14)) ([link](https://dunjudge.me/analysis/problems/14/))
+- [supplies (5)](./problems/supplies%20(5)) ([link](https://dunjudge.me/analysis/problems/5/))
 - [swappingcats (205)](./problems/swappingcats%20(205)) ([link](https://dunjudge.me/analysis/problems/205/))
 - [tarifa (1505)](./problems/tarifa%20(1505)) ([link](https://dunjudge.me/analysis/problems/1505/))
 - [threeint (1713)](./problems/threeint%20(1713)) ([link](https://dunjudge.me/analysis/problems/1713/))
