@@ -91,6 +91,9 @@
 - [Validating Email Addresses With a Filter](./validate-list-of-email-address-with-filter.py) ([site](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/))
 - [Reduce Function](./reduce-function.py) ([site](https://www.hackerrank.com/challenges/reduce-function/))
 
+## Regex and Parsing
+- [HTML Parser - Part 1](./html-parser-part-1.py) ([site](https://www.hackerrank.com/challenges/html-parser-part-1/))
+
 ## XML
 - [XML 1 - Find the Score](./xml-1-find-the-score.py) ([site](https://www.hackerrank.com/challenges/xml-1-find-the-score/))
 - [XML 2 - Find the Maximum Depth](./xml2-find-the-maximum-depth.py) ([site](https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth/))
