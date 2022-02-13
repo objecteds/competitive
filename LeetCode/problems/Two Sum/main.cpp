@@ -1,10 +1,11 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
+        map<int, int> M;
         for (int i = 0; i < nums.size(); i++) {
-            for (int j = i+1; j < nums.size(); j++) {
-                if (nums[i] + nums[j] == target) return {i, j};
-            }
+            int c = target - nums[i];
+            if (M[c] != 0) return {M[c]-1, i};
+            M[nums[i]] = i+1;
         }
         return {0, 0};
     }
