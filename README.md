@@ -12,6 +12,7 @@ Current repository problems originate from:
 - [CSES](./CSES/) ([link](https://cses.fi/))
 - [HackerRank](./HackerRank/) ([link](https://hackerrank.com))
 - [Kattis](./Kattis/) ([link](https://open.kattis.com))
+- [LeetCode](./LeetCode/) ([link](https://leetcode.com))
 - [mrJudge](./mrJudge/) ([link](https://dunjudge.me))
 - [PCTC](./PCTC/) ([link](https://pctc.cuttle.org))
 - [Project Euler](./Project%20Euler/) ([link](https://projecteuler.net))
