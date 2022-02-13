@@ -1,6 +1,7 @@
 # LeetCode
 
 ## Problems
+- 1: [Two Sum](./problems/Two%20Sum/) ([link](https://leetcode.com/problems/two-sum/))
 - 35: [Search Insert Position](./problems/Search%20Insert%20Position/) ([link](https://leetcode.com/problems/search-insert-position/))
 - 88: [Merge Sorted Array](./problems/Merge%20Sorted%20Array/) ([link](https://leetcode.com/problems/merge-sorted-array/))
 - 167: [Two Sum II - Input Array Is Sorted](./problems/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/) ([link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/))
