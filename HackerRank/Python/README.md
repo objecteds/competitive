@@ -92,6 +92,7 @@
 - [Reduce Function](./reduce-function.py) ([site](https://www.hackerrank.com/challenges/reduce-function/))
 
 ## Regex and Parsing
+- [Detect Floating Point Number](./introduction-to-regex) ([site](https://www.hackerrank.com/challenges/introduction-to-regex/))
 - [HTML Parser - Part 1](./html-parser-part-1.py) ([site](https://www.hackerrank.com/challenges/html-parser-part-1/))
 
 ## XML
