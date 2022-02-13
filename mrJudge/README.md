@@ -104,6 +104,7 @@
 - [numberchecker (201)](./problems/numberchecker%20(201)) ([link](https://dunjudge.me/analysis/problems/201/))
 - [numberspeak (1345)](./problems/numberspeak%20(1345)) ([link](https://dunjudge.me/analysis/problems/1345/))
 - [oranges (832)](./problems/oranges%20(832)) ([link](https://dunjudge.me/analysis/problems/832/))
+- [outline (38)](./problems/outline%20(38)) ([link](https://dunjudge.me/analysis/problems/38/))
 - [paint (215)](./problems/paint%20(215)) ([link](https://dunjudge.me/analysis/problems/215/))
 - [palindromes (32)](./problems/palindromes%20(32)) ([link](https://dunjudge.me/analysis/problems/32/))
 - [palindromicfizzbuzz (1815)](./problems/palindromicfizzbuzz%20(1815)) ([link](https://dunjudge.me/analysis/problems/1815/))
