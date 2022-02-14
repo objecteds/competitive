@@ -93,6 +93,7 @@
 
 ## Regex and Parsing
 - [Detect Floating Point Number](./introduction-to-regex) ([site](https://www.hackerrank.com/challenges/introduction-to-regex/))
+- [Validating phone numbers](./validating-the-phone-number.py) ([site](https://www.hackerrank.com/challenges/validating-the-phone-number/))
 - [HTML Parser - Part 1](./html-parser-part-1.py) ([site](https://www.hackerrank.com/challenges/html-parser-part-1/))
 - [HTML Parser - Part 2](./html-parser-part-2.py) ([site](https://www.hackerrank.com/challenges/html-parser-part-2/))
 
