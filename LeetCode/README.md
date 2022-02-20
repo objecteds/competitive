@@ -23,3 +23,4 @@
 - 2164: [Sort Even and Odd Indices Independently](./problems/Sort%20Even%20and%20Odd%20Indices%20Independently/) ([link](https://leetcode.com/problems/sort-even-and-odd-indices-independently/))
 - 2165: [Smallest Value of the Rearranged Number](./problems/Smallest%20Value%20of%20the%20Rearranged%20Number/) ([link](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/))
 - 2169: [Count Operations to Obtain Zero](./problems/Count%20Operations%20to%20Obtain%20Zero/) ([link](https://leetcode.com/problems/count-operations-to-obtain-zero/))
+- 2180: [Count Integers With Even Digit Sum](./problems/Count%20Integers%20With%20Even%20Digit%20Sum/) ([link](https://leetcode.com/problems/count-integers-with-even-digit-sum/))
