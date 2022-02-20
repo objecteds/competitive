@@ -1,3 +1,18 @@
+#!/bin/python3
+
+import math
+import os
+import random
+import re
+import sys
+
+#
+# Complete the 'timeConversion' function below.
+#
+# The function is expected to return a STRING.
+# The function accepts STRING s as parameter.
+#
+
 def timeConversion(s):
     # Write your code here
     meridiem = s[-2:]
@@ -18,4 +33,13 @@ def timeConversion(s):
         else:
             return str((int(hh)+12)-24) + ":" + mm + ":" + ss
 
-print(timeConversion("12:45:54PM"))
+if __name__ == '__main__':
+    fptr = open(os.environ['OUTPUT_PATH'], 'w')
+
+    s = input()
+
+    result = timeConversion(s)
+
+    fptr.write(result + '\n')
+
+    fptr.close()

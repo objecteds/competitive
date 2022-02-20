@@ -1,3 +1,11 @@
+#!/bin/python3
+
+import math
+import os
+import random
+import re
+import sys
+
 #
 # Complete the 'diagonalDifference' function below.
 #
@@ -12,3 +20,12 @@ def diagonalDifference(arr):
         row = input().split()
         total += int(row[i])-int(row[-(i+1)])
     return abs(total)
+    
+
+if __name__ == '__main__':
+    N = int(input())
+    total = 0
+    for i in range(N):
+        row = input().split()
+        total += int(row[i])-int(row[-(i+1)])
+    print(abs(total))
