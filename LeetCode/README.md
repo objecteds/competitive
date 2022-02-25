@@ -3,6 +3,7 @@
 ## Problems
 - 1: [Two Sum](./problems/Two%20Sum/) ([link](https://leetcode.com/problems/two-sum/))
 - 26: [Remove Duplicates from Sorted Array](./problems/Remove%20Duplicates%20from%20Sorted%20Array/) ([link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/))
+- 27: [Remove Element](./problems/Remove%20Element/) ([link](https://leetcode.com/problems/remove-element/))
 - 35: [Search Insert Position](./problems/Search%20Insert%20Position/) ([link](https://leetcode.com/problems/search-insert-position/))
 - 46: [Permutations](./problems/Permutations/) ([link](https://leetcode.com/problems/permutations/))
 - 78: [Subsets](./problems/Subsets/) ([link](https://leetcode.com/problems/subsets/))
