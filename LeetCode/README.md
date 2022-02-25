@@ -6,6 +6,7 @@
 - 27: [Remove Element](./problems/Remove%20Element/) ([link](https://leetcode.com/problems/remove-element/))
 - 35: [Search Insert Position](./problems/Search%20Insert%20Position/) ([link](https://leetcode.com/problems/search-insert-position/))
 - 46: [Permutations](./problems/Permutations/) ([link](https://leetcode.com/problems/permutations/))
+- 53: [Maximum Subarray](./problems/Maximum%20Subarray/) ([link](https://leetcode.com/problems/maximum-subarray/))
 - 78: [Subsets](./problems/Subsets/) ([link](https://leetcode.com/problems/subsets/))
 - 88: [Merge Sorted Array](./problems/Merge%20Sorted%20Array/) ([link](https://leetcode.com/problems/merge-sorted-array/))
 - 136: [Single Number](./problems/Single%20Number/) ([link](https://leetcode.com/problems/single-number/))
