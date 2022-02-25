@@ -10,6 +10,7 @@ Current repository problems originate from:
 - [Codebreaker](./Codebreaker/) ([link](https://codebreaker.xyz))
 - [Codeforces](./Codeforces/) ([link](https://codeforces.com))
 - [CSES](./CSES/) ([link](https://cses.fi/))
+- [FreeCodeCamp](./FreeCodeCamp/) ([link](https://www.freecodecamp.org)) (not competitive programming)
 - [HackerRank](./HackerRank/) ([link](https://hackerrank.com))
 - [Kattis](./Kattis/) ([link](https://open.kattis.com))
 - [LeetCode](./LeetCode/) ([link](https://leetcode.com))
