@@ -7,6 +7,7 @@
 - 46: [Permutations](./problems/Permutations/) ([link](https://leetcode.com/problems/permutations/))
 - 78: [Subsets](./problems/Subsets/) ([link](https://leetcode.com/problems/subsets/))
 - 88: [Merge Sorted Array](./problems/Merge%20Sorted%20Array/) ([link](https://leetcode.com/problems/merge-sorted-array/))
+- 136: [Single Number](./problems/Single%20Number/) ([link](https://leetcode.com/problems/single-number/))
 - 167: [Two Sum II - Input Array Is Sorted](./problems/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/) ([link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/))
 - 189: [Rotate Array](./problems/Rotate%20Array/) ([link](https://leetcode.com/problems/rotate-array/))
 - 258: [Add Digits](./problems/Add%20Digits/) ([link](https://leetcode.com/problems/add-digits/))
