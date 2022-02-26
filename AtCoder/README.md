@@ -52,3 +52,6 @@
 - [ABC234C - Happy New Year!](ABC234/C) ([link](https://atcoder.jp/contests/abc234/tasks/abc234_c))
 - [ABC238A - Exponential or Quadratic](ABC238/A) ([link](https://atcoder.jp/contests/abc238/tasks/abc238_a))
 - [ABC238B - Pizza](ABC238/B) ([link](https://atcoder.jp/contests/abc238/tasks/abc238_b))
+- [ABC241A - Digit Machine](ABC241/A) ([link](https://atcoder.jp/contests/abc241/tasks/abc241_a))
+- [ABC241B - Pasta](ABC241/B) ([link](https://atcoder.jp/contests/abc241/tasks/abc241_b))
+- [ABC241C - Connect 6](ABC241/C) ([link](https://atcoder.jp/contests/abc241/tasks/abc241_c))
