@@ -48,6 +48,7 @@
 - [ABC059B - Comparison](ABC059/B) ([link](https://atcoder.jp/contests/abc059/tasks/abc059_b))
 - [ABC060A - Shiritori](ABC060/A) ([link](https://atcoder.jp/contests/abc060/tasks/abc060_a))
 - [ABC060B - Choose Integers](ABC060/B) ([link](https://atcoder.jp/contests/abc060/tasks/abc060_b))
+- [ABC060C - Sentou](ABC060/C) ([link](https://atcoder.jp/contests/abc060/tasks/abc060_c))
 - [ABC234A - Weird Function](ABC234/A) ([link](https://atcoder.jp/contests/abc234/tasks/abc234_a))
 - [ABC234B - Longest Segment](ABC234/B) ([link](https://atcoder.jp/contests/abc234/tasks/abc234_b))
 - [ABC234C - Happy New Year!](ABC234/C) ([link](https://atcoder.jp/contests/abc234/tasks/abc234_c))
