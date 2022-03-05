@@ -62,3 +62,4 @@
 - [ABC241B - Pasta](ABC241/B) ([link](https://atcoder.jp/contests/abc241/tasks/abc241_b))
 - [ABC241C - Connect 6](ABC241/C) ([link](https://atcoder.jp/contests/abc241/tasks/abc241_c))
 - [ABC242A - T-shirt](ABC242/A) ([link](https://atcoder.jp/contests/abc242/tasks/abc242_a))
+- [ABC242B - Minimize Ordering](ABC242/B) ([link](https://atcoder.jp/contests/abc242/tasks/abc242_b))
