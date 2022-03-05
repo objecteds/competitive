@@ -61,3 +61,4 @@
 - [ABC241A - Digit Machine](ABC241/A) ([link](https://atcoder.jp/contests/abc241/tasks/abc241_a))
 - [ABC241B - Pasta](ABC241/B) ([link](https://atcoder.jp/contests/abc241/tasks/abc241_b))
 - [ABC241C - Connect 6](ABC241/C) ([link](https://atcoder.jp/contests/abc241/tasks/abc241_c))
+- [ABC242A - T-shirt](ABC242/A) ([link](https://atcoder.jp/contests/abc242/tasks/abc242_a))
