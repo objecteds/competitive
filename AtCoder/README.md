@@ -50,6 +50,7 @@
 - [ABC060B - Choose Integers](ABC060/B) ([link](https://atcoder.jp/contests/abc060/tasks/abc060_b))
 - [ABC060C - Sentou](ABC060/C) ([link](https://atcoder.jp/contests/abc060/tasks/arc073_a))
 - [ABC061A - Between Two Integers](ABC061/A) ([link](https://atcoder.jp/contests/abc061/tasks/abc061_a))
+- [ABC061B - Counting Roads](ABC061/B) ([link](https://atcoder.jp/contests/abc061/tasks/abc061_b))
 - [ABC161A - ABC Swap](ABC061/A) ([link](https://atcoder.jp/contests/abc161/tasks/abc161_a))
 - [ABC161B - Popular Vote](ABC061/B) ([link](https://atcoder.jp/contests/abc161/tasks/abc161_b))
 - [ABC161C - Replacing Integer](ABC061/C) ([link](https://atcoder.jp/contests/abc161/tasks/abc161_c))
