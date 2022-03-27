@@ -42,6 +42,7 @@
 - [ABC056B - NarrowRectanglesEasy](ABC056/B) ([link](https://atcoder.jp/contests/abc056/tasks/abc056_b))
 - [ABC057A - Remaining Time](ABC057/A) ([link](https://atcoder.jp/contests/abc057/tasks/abc057_a))
 - [ABC057B - Checkpoints](ABC057/B) ([link](https://atcoder.jp/contests/abc057/tasks/abc057_b))
+- [ABC057C - Digits in Multiplication](ABC057/C) ([link](https://atcoder.jp/contests/abc057/tasks/abc057_c))
 - [ABC058A - ι⊥l](ABC058/A) ([link](https://atcoder.jp/contests/abc058/tasks/abc058_a))
 - [ABC058B - ∵∴∵](ABC058/B) ([link](https://atcoder.jp/contests/abc058/tasks/abc058_b))
 - [ABC058C - Dubious Document](ABC058/C) ([link](https://atcoder.jp/contests/abc058/tasks/arc071_a))
