@@ -40,6 +40,7 @@
 - [ABC055C - Scc Puzzle](ABC055/C) ([link](https://atcoder.jp/contests/abc055/tasks/arc069_a)
 - [ABC056A - HonestOrDishonest](ABC056/A) ([link](https://atcoder.jp/contests/abc056/tasks/abc056_a))
 - [ABC056B - NarrowRectanglesEasy](ABC056/B) ([link](https://atcoder.jp/contests/abc056/tasks/abc056_b))
+- [ABC056C - Go Home](ABC056/C) ([link](https://atcoder.jp/contests/abc056/tasks/arc070_a))
 - [ABC057A - Remaining Time](ABC057/A) ([link](https://atcoder.jp/contests/abc057/tasks/abc057_a))
 - [ABC057B - Checkpoints](ABC057/B) ([link](https://atcoder.jp/contests/abc057/tasks/abc057_b))
 - [ABC057C - Digits in Multiplication](ABC057/C) ([link](https://atcoder.jp/contests/abc057/tasks/abc057_c))
