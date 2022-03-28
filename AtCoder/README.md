@@ -74,6 +74,8 @@
 - [ABC068B - Break Number](ABC068/B) ([link](https://atcoder.jp/contests/abc068/tasks/abc068_b))
 - [ABC069A - K-City](ABC069/A) ([link](https://atcoder.jp/contests/abc069/tasks/abc069_a))
 - [ABC069B - i18n](ABC069/B) ([link](https://atcoder.jp/contests/abc069/tasks/abc069_b))
+- [ABC070A - Palindromic Numbers](ABC070/A) ([link](https://atcoder.jp/contests/abc070/tasks/abc070_a))
+- [ABC070B - Two Switches](ABC070/B) ([link](https://atcoder.jp/contests/abc070/tasks/abc070_b))
 - [ABC161A - ABC Swap](ABC061/A) ([link](https://atcoder.jp/contests/abc161/tasks/abc161_a))
 - [ABC161B - Popular Vote](ABC061/B) ([link](https://atcoder.jp/contests/abc161/tasks/abc161_b))
 - [ABC161C - Replacing Integer](ABC061/C) ([link](https://atcoder.jp/contests/abc161/tasks/abc161_c))
