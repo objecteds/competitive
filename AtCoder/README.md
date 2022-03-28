@@ -67,6 +67,7 @@
 - [ABC065B - Trained?](ABC065/B) ([link](https://atcoder.jp/contests/abc065/tasks/abc065_b))
 - [ABC066A - ringring](ABC066/A) ([link](https://atcoder.jp/contests/abc066/tasks/abc066_a))
 - [ABC066B - ss](ABC066/B) ([link](https://atcoder.jp/contests/abc066/tasks/abc066_b))
+- [ABC066C - pushpush](ABC066/C) ([link](https://atcoder.jp/contests/abc066/tasks/arc077_a))
 - [ABC161A - ABC Swap](ABC061/A) ([link](https://atcoder.jp/contests/abc161/tasks/abc161_a))
 - [ABC161B - Popular Vote](ABC061/B) ([link](https://atcoder.jp/contests/abc161/tasks/abc161_b))
 - [ABC161C - Replacing Integer](ABC061/C) ([link](https://atcoder.jp/contests/abc161/tasks/abc161_c))
