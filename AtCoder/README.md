@@ -78,6 +78,7 @@
 - [ABC070B - Two Switches](ABC070/B) ([link](https://atcoder.jp/contests/abc070/tasks/abc070_b))
 - [ABC071A - Meal Delivery](ABC071/A) ([link](https://atcoder.jp/contests/abc071/tasks/abc071_a))
 - [ABC071B - Not Found](ABC071/B) ([link](https://atcoder.jp/contests/abc071/tasks/abc071_b))
+- [ABC071C - Make a Rectangle](ABC071/C) ([link](https://atcoder.jp/contests/abc071/tasks/abc071_c))
 - [ABC161A - ABC Swap](ABC061/A) ([link](https://atcoder.jp/contests/abc161/tasks/abc161_a))
 - [ABC161B - Popular Vote](ABC061/B) ([link](https://atcoder.jp/contests/abc161/tasks/abc161_b))
 - [ABC161C - Replacing Integer](ABC061/C) ([link](https://atcoder.jp/contests/abc161/tasks/abc161_c))
