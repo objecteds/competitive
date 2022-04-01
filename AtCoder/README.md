@@ -88,6 +88,8 @@
 - [ABC075B - Minesweeper](ABC075/B) ([link](https://atcoder.jp/contests/abc075/tasks/abc075_b))
 - [ABC076A - Rating Goal](ABC076/A) ([link](https://atcoder.jp/contests/abc076/tasks/abc076_a))
 - [ABC076B - Addition and Multiplication](ABC076/B) ([link](https://atcoder.jp/contests/abc076/tasks/abc076_b))
+- [ABC077A - Rotation](ABC077/A) ([link](https://atcoder.jp/contests/abc077/tasks/abc077_a))
+- [ABC077B - Around Square](ABC077/B) ([link](https://atcoder.jp/contests/abc077/tasks/abc077_b))
 - [ABC161A - ABC Swap](ABC061/A) ([link](https://atcoder.jp/contests/abc161/tasks/abc161_a))
 - [ABC161B - Popular Vote](ABC061/B) ([link](https://atcoder.jp/contests/abc161/tasks/abc161_b))
 - [ABC161C - Replacing Integer](ABC061/C) ([link](https://atcoder.jp/contests/abc161/tasks/abc161_c))
