@@ -23,6 +23,7 @@
 - 876: [Middle of the Linked List](./problems/Middle%20of%20the%20Linked%20List/) ([link](https://leetcode.com/problems/middle-of-the-linked-list/))
 - 977: [Squares of a Sorted Array](./problems/Squares%20of%20a%20Sorted%20Array/) ([link](https://leetcode.com/problems/squares-of-a-sorted-array/))
 - 1089: [Duplicate Zeros](./problems/Duplicate%20Zeros/) ([link](https://leetcode.com/problems/duplicate-zeros/))
+- 1137: [N-th Tribonacci Number](./problems/N-th%20Tribonacci%20Number/) ([link](https://leetcode.com/problems/n-th-tribonacci-number/))
 - 1295: [Find Numbers with Even Number of Digits](./problems/Find%20Numbers%20with%20Even%20Number%20of%20Digits/) ([link](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/))
 - 2164: [Sort Even and Odd Indices Independently](./problems/Sort%20Even%20and%20Odd%20Indices%20Independently/) ([link](https://leetcode.com/problems/sort-even-and-odd-indices-independently/))
 - 2165: [Smallest Value of the Rearranged Number](./problems/Smallest%20Value%20of%20the%20Rearranged%20Number/) ([link](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/))
