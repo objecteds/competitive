@@ -94,6 +94,8 @@
 - [ABC078B - ISU](ABC078/B) ([link](https://atcoder.jp/contests/abc078/tasks/abc078_b))
 - [ABC079A - Good Integer](ABC079/A) ([link](https://atcoder.jp/contests/abc079/tasks/abc079_a))
 - [ABC079B - Lucas Number](ABC079/B) ([link](https://atcoder.jp/contests/abc079/tasks/abc079_b))
+- [ABC080A - Parking](ABC080/A) ([link](https://atcoder.jp/contests/abc080/tasks/abc080_a))
+- [ABC080B - Harshad Number](ABC080/B) ([link](https://atcoder.jp/contests/abc080/tasks/abc080_b))
 - [ABC161A - ABC Swap](ABC061/A) ([link](https://atcoder.jp/contests/abc161/tasks/abc161_a))
 - [ABC161B - Popular Vote](ABC061/B) ([link](https://atcoder.jp/contests/abc161/tasks/abc161_b))
 - [ABC161C - Replacing Integer](ABC061/C) ([link](https://atcoder.jp/contests/abc161/tasks/abc161_c))
