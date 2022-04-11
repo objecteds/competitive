@@ -116,6 +116,8 @@
 - [ABC245A - Good morning](ABC245/A) ([link](https://atcoder.jp/contests/abc245/tasks/abc245_a))
 - [ABC245B - Mex](ABC245/B) ([link](https://atcoder.jp/contests/abc245/tasks/abc245_b))
 - [ABC246A - Four Points](ABC246/A) ([link](https://atcoder.jp/contests/abc246/tasks/abc246_a))
+- [ABC246B - Get Closer](ABC246/B) ([link](https://atcoder.jp/contests/abc246/tasks/abc246_b))
+- [ABC246C - Coupon](ABC246/C) ([link](https://atcoder.jp/contests/abc246/tasks/abc246_c))
 - [ABC247A - Move Right](ABC247/A) ([link](https://atcoder.jp/contests/abc247/tasks/abc247_a))
 - [ABC247B - Unique Nicknames](ABC247/B) ([link](https://atcoder.jp/contests/abc247/tasks/abc247_b))
 - [ABC247C - 1 2 1 3 1 2 1](ABC247/C) ([link](https://atcoder.jp/contests/abc247/tasks/abc247_c))
