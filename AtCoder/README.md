@@ -117,4 +117,5 @@
 - [ABC245B - Mex](ABC245/B) ([link](https://atcoder.jp/contests/abc245/tasks/abc245_b))
 - [ABC247A - Move Right](ABC247/A) ([link](https://atcoder.jp/contests/abc247/tasks/abc247_a))
 - [ABC247B - Unique Nicknames](ABC247/B) ([link](https://atcoder.jp/contests/abc247/tasks/abc247_b))
+- [ABC247C - 1 2 1 3 1 2 1](ABC247/C) ([link](https://atcoder.jp/contests/abc247/tasks/abc247_c))
 
