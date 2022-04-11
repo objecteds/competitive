@@ -115,3 +115,5 @@
 - [ABC242B - Minimize Ordering](ABC242/B) ([link](https://atcoder.jp/contests/abc242/tasks/abc242_b))
 - [ABC245A - Good morning](ABC245/A) ([link](https://atcoder.jp/contests/abc245/tasks/abc245_a))
 - [ABC245B - Mex](ABC245/B) ([link](https://atcoder.jp/contests/abc245/tasks/abc245_b))
+- [ABC247A - Move Right](ABC247/A) ([link](https://atcoder.jp/contests/abc247/tasks/abc247_a))
+
