@@ -63,3 +63,4 @@ For example, the link for problem 228A is https://codeforces.com/problemset/prob
 - [1619B - Squares and Cubes](./problems/1619/B/)
 - [1669A - Division?](./problems/1669/A/)
 - [1669B - Triple](./problems/1669/B/)
+- [1669C - Odd/Even Increments](./problems/1669/C/)
