@@ -61,3 +61,4 @@ For example, the link for problem 228A is https://codeforces.com/problemset/prob
 - [1618B - Missing Bigram](./problems/1618/B/) 
 - [1619A - Square String?](./problems/1619/A/)
 - [1619B - Squares and Cubes](./problems/1619/B/)
+- [1669A - Division?](./problems/1669/A/)
