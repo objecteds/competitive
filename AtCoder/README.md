@@ -98,6 +98,8 @@
 - [ABC080B - Harshad Number](ABC080/B) ([link](https://atcoder.jp/contests/abc080/tasks/abc080_b))
 - [ABC081A - Placing Marbles](ABC081/A) ([link](https://atcoder.jp/contests/abc081/tasks/abc081_a))
 - [ABC081B - Shift only](ABC081/B) ([link](https://atcoder.jp/contests/abc081/tasks/abc081_b))
+- [ABC082A - Round Up the Mean](ABC082/A) ([link](https://atcoder.jp/contests/abc082/tasks/abc082_a))
+- [ABC082B - Two Anagrams](ABC082/B) ([link](https://atcoder.jp/contests/abc082/tasks/abc082_b))
 - [ABC161A - ABC Swap](ABC061/A) ([link](https://atcoder.jp/contests/abc161/tasks/abc161_a))
 - [ABC161B - Popular Vote](ABC061/B) ([link](https://atcoder.jp/contests/abc161/tasks/abc161_b))
 - [ABC161C - Replacing Integer](ABC061/C) ([link](https://atcoder.jp/contests/abc161/tasks/abc161_c))
