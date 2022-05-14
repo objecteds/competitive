@@ -91,7 +91,7 @@ ipython_config.py
 #   install all needed dependencies.
 #Pipfile.lock
 
-# codebreaker online judge
+# ignored folders
 breaker
 unsolved
 
@@ -134,7 +134,6 @@ dmypy.json
 
 # DS_Store
 .DS_Store
-
 
 # Prerequisites
 *.d
