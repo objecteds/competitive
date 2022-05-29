@@ -3,11 +3,11 @@
 #define endl '\n'
 using namespace std;
 void solve() {
-    int x; cin >> x;
-    if (x + 7 > 170) {
-        cout << "yes\n";
+    int a, b, c, x; cin >> a >> b >> c >> x;
+    if (x == a || x == b || x == c) {
+        cout << "YES";
     } else {
-        cout << "no\n";
+        cout << "NO";
     }
 }
 
