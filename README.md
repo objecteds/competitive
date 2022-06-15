@@ -2,7 +2,7 @@
 
 ## Description
 
-This GitLab repository contains my personal computational solutions to (competitive) programming problems. 
+This GitHub repository contains my personal computational solutions to (competitive) programming problems. 
 
 Though my solutions may not be the most optimal solution to a certain problem (and can, at times, feature very questionable implementation and logic), they have worked for me nonetheless at the time of coding.
 
