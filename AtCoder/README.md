@@ -128,4 +128,5 @@
 - [ABC247B - Unique Nicknames](ABC247/B) ([link](https://atcoder.jp/contests/abc247/tasks/abc247_b))
 - [ABC247C - 1 2 1 3 1 2 1](ABC247/C) ([link](https://atcoder.jp/contests/abc247/tasks/abc247_c))
 - [ABC256A - 2^N](ABC256/A) ([link](https://atcoder.jp/contests/abc256/tasks/abc256_a))
+- [ABC256B - Batters](ABC256/B) ([link](https://atcoder.jp/contests/abc256/tasks/abc256_b))
 
